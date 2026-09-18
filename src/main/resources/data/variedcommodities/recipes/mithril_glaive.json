@@ -1,0 +1,28 @@
+{
+  "type": "variedcommodities:carpentry",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "mithril_glaive"
+    }
+  ],
+  "group": "variedcommodities:glaive",
+  "pattern": [
+    "   X",
+    "  Y ",
+    " Y  ",
+    "X   "
+  ],
+  "key": {
+    "X": {
+      "item": "variedcommodities:ingot_mithril"
+    },
+    "Y": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:mithril_glaive",
+    "count": 1
+  }
+}

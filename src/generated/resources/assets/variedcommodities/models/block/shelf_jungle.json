@@ -1,0 +1,7 @@
+{
+  "parent": "variedcommodities:block/shape/shelf",
+  "textures": {
+    "particle": "minecraft:block/jungle_planks",
+    "planks": "minecraft:block/jungle_planks"
+  }
+}

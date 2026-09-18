@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "candle"
+    }
+  ],
+  "category": "building",
+  "pattern": [
+    "XZX",
+    " X "
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:iron_ingot"
+    },
+    "Z": {
+      "item": "minecraft:torch"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:candle",
+    "count": 1
+  }
+}

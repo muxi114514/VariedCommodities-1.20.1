@@ -1,0 +1,6 @@
+{
+  "parent": "variedcommodities:block/shape/big_sign",
+  "textures": {
+    "particle": "variedcommodities:block/model/big_sign"
+  }
+}

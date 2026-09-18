@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "full_emerald_legs"
+    }
+  ],
+  "category": "equipment",
+  "group": "variedcommodities:legs",
+  "pattern": [
+    "XXX",
+    "X X",
+    "X X"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:emerald"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:full_emerald_legs",
+    "count": 1
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "variedcommodities:carpentry",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "wall_banner_iron"
+    }
+  ],
+  "group": "variedcommodities:wall_banner",
+  "pattern": [
+    "XXX",
+    "ZZZ",
+    "ZZZ",
+    "Z Z"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:iron_ingot"
+    },
+    "Z": {
+      "tag": "minecraft:wool"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:wall_banner_iron",
+    "count": 1
+  }
+}

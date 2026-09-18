@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "sign_dark_oak"
+    }
+  ],
+  "category": "building",
+  "group": "variedcommodities:sign",
+  "pattern": [
+    "YYY",
+    "XXX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:dark_oak_planks"
+    },
+    "Y": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:sign_dark_oak",
+    "count": 3
+  }
+}

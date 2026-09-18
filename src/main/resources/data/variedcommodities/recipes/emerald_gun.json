@@ -1,0 +1,33 @@
+{
+  "type": "variedcommodities:carpentry",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "emerald_gun"
+    }
+  ],
+  "group": "variedcommodities:gun",
+  "pattern": [
+    "XXXY",
+    " ZM ",
+    "  M "
+  ],
+  "key": {
+    "M": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "minecraft:emerald"
+    },
+    "Y": {
+      "item": "minecraft:lever"
+    },
+    "Z": {
+      "item": "minecraft:stone_button"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:emerald_gun",
+    "count": 1
+  }
+}

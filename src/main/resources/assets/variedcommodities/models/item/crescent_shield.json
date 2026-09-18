@@ -1,0 +1,15 @@
+{
+	"parent": "variedcommodities:item/basic_shield",
+	"textures": {
+		"layer0": "variedcommodities:item/crescent_shield"
+	},
+    "overrides": [
+        {
+            "predicate": {
+                "blocking": 1
+            },
+            "model": "variedcommodities:item/crescent_shield_blocking"
+        }
+    ]    
+}
+

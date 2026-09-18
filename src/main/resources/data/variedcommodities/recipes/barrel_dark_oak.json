@@ -1,0 +1,25 @@
+{
+  "type": "variedcommodities:carpentry",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "barrel_dark_oak"
+    }
+  ],
+  "group": "variedcommodities:barrel",
+  "pattern": [
+    "XXX",
+    "X X",
+    "X X",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:dark_oak_planks"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:barrel_dark_oak",
+    "count": 1
+  }
+}

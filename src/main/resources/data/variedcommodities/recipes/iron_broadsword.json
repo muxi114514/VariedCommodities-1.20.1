@@ -1,0 +1,28 @@
+{
+  "type": "variedcommodities:carpentry",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "iron_broadsword"
+    }
+  ],
+  "group": "variedcommodities:broadsword",
+  "pattern": [
+    "X",
+    "X",
+    "X",
+    "Y"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:iron_ingot"
+    },
+    "Y": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:iron_broadsword",
+    "count": 1
+  }
+}

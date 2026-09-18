@@ -1,0 +1,6 @@
+{
+  "parent": "variedcommodities:block/shape/carpentry_bench",
+  "textures": {
+    "particle": "variedcommodities:block/model/carpentry_bench"
+  }
+}

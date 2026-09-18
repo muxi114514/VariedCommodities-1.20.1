@@ -1,0 +1,42 @@
+{
+  "parent": "minecraft:block/block",
+  "elements": [
+    {
+      "faces": {
+        "down": {
+          "cullface": "down",
+          "texture": "#planks"
+        },
+        "east": {
+          "texture": "#planks"
+        },
+        "north": {
+          "texture": "#planks"
+        },
+        "south": {
+          "texture": "#planks"
+        },
+        "up": {
+          "texture": "#planks"
+        },
+        "west": {
+          "texture": "#planks"
+        }
+      },
+      "from": [
+        1,
+        0,
+        1
+      ],
+      "to": [
+        3,
+        14,
+        3
+      ]
+    }
+  ],
+  "textures": {
+    "particle": "minecraft:block/acacia_planks",
+    "planks": "minecraft:block/acacia_planks"
+  }
+}

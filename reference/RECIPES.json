@@ -1,0 +1,3923 @@
+[
+ {
+  "type": "smelting",
+  "input": "minecraft:iron_ingot",
+  "result": "variedcommodities:ingot_steel",
+  "xp": 0.35
+ },
+ {
+  "result": "variedcommodities:vcrecipes_book",
+  "count": 1,
+  "pattern": [
+   "XX"
+  ],
+  "key": {
+   "X": "minecraft:book"
+  },
+  "width": 2,
+  "height": 1
+ },
+ {
+  "result": "variedcommodities:carpentry_bench",
+  "count": 1,
+  "pattern": [
+   "XYX",
+   "Z Z",
+   "Z Z"
+  ],
+  "key": {
+   "X": "#minecraft:planks",
+   "Z": "minecraft:stick",
+   "Y": "minecraft:crafting_table"
+  },
+  "width": 3,
+  "height": 3
+ },
+ {
+  "result": "variedcommodities:mana",
+  "count": 1,
+  "pattern": [
+   "XY"
+  ],
+  "key": {
+   "X": "minecraft:redstone",
+   "Y": "minecraft:glowstone_dust"
+  },
+  "width": 2,
+  "height": 1
+ },
+ {
+  "result": "variedcommodities:bullet",
+  "count": 4,
+  "pattern": [
+   "X"
+  ],
+  "key": {
+   "X": "minecraft:iron_ingot"
+  },
+  "width": 1,
+  "height": 1
+ },
+ {
+  "result": "variedcommodities:wall_banner_wood",
+  "count": 1,
+  "pattern": [
+   "XXX",
+   "ZZZ",
+   "ZZZ",
+   "Z Z"
+  ],
+  "key": {
+   "Z": "#minecraft:wool",
+   "X": "#minecraft:planks"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:wall_banner"
+ },
+ {
+  "result": "variedcommodities:wall_banner_stone",
+  "count": 1,
+  "pattern": [
+   "XXX",
+   "ZZZ",
+   "ZZZ",
+   "Z Z"
+  ],
+  "key": {
+   "Z": "#minecraft:wool",
+   "X": "#forge:stone"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:wall_banner"
+ },
+ {
+  "result": "variedcommodities:wall_banner_iron",
+  "count": 1,
+  "pattern": [
+   "XXX",
+   "ZZZ",
+   "ZZZ",
+   "Z Z"
+  ],
+  "key": {
+   "Z": "#minecraft:wool",
+   "X": "minecraft:iron_ingot"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:wall_banner"
+ },
+ {
+  "result": "variedcommodities:wall_banner_gold",
+  "count": 1,
+  "pattern": [
+   "XXX",
+   "ZZZ",
+   "ZZZ",
+   "Z Z"
+  ],
+  "key": {
+   "Z": "#minecraft:wool",
+   "X": "minecraft:gold_ingot"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:wall_banner"
+ },
+ {
+  "result": "variedcommodities:wall_banner_diamond",
+  "count": 1,
+  "pattern": [
+   "XXX",
+   "ZZZ",
+   "ZZZ",
+   "Z Z"
+  ],
+  "key": {
+   "Z": "#minecraft:wool",
+   "X": "minecraft:diamond"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:wall_banner"
+ },
+ {
+  "result": "variedcommodities:banner_wood",
+  "count": 1,
+  "pattern": [
+   " X ",
+   " Z ",
+   " Z ",
+   "ZZZ"
+  ],
+  "key": {
+   "X": "variedcommodities:wall_banner_wood",
+   "Z": "#minecraft:planks"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:banner"
+ },
+ {
+  "result": "variedcommodities:banner_stone",
+  "count": 1,
+  "pattern": [
+   " X ",
+   " Z ",
+   " Z ",
+   "ZZZ"
+  ],
+  "key": {
+   "X": "variedcommodities:wall_banner_stone",
+   "Z": "#forge:stone"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:banner"
+ },
+ {
+  "result": "variedcommodities:banner_iron",
+  "count": 1,
+  "pattern": [
+   " X ",
+   " Z ",
+   " Z ",
+   "ZZZ"
+  ],
+  "key": {
+   "X": "variedcommodities:wall_banner_iron",
+   "Z": "minecraft:iron_ingot"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:banner"
+ },
+ {
+  "result": "variedcommodities:banner_gold",
+  "count": 1,
+  "pattern": [
+   " X ",
+   " Z ",
+   " Z ",
+   "ZZZ"
+  ],
+  "key": {
+   "X": "variedcommodities:wall_banner_gold",
+   "Z": "minecraft:gold_ingot"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:banner"
+ },
+ {
+  "result": "variedcommodities:banner_diamond",
+  "count": 1,
+  "pattern": [
+   " X ",
+   " Z ",
+   " Z ",
+   "ZZZ"
+  ],
+  "key": {
+   "X": "variedcommodities:wall_banner_diamond",
+   "Z": "minecraft:diamond"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:banner"
+ },
+ {
+  "result": "variedcommodities:tall_lamp_wood",
+  "count": 1,
+  "pattern": [
+   "YXY",
+   " Z ",
+   " Z ",
+   "ZZZ"
+  ],
+  "key": {
+   "X": "minecraft:torch",
+   "Y": "#minecraft:wool",
+   "Z": "#minecraft:planks"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:tall_lamp"
+ },
+ {
+  "result": "variedcommodities:tall_lamp_stone",
+  "count": 1,
+  "pattern": [
+   "YXY",
+   " Z ",
+   " Z ",
+   "ZZZ"
+  ],
+  "key": {
+   "X": "minecraft:torch",
+   "Y": "#minecraft:wool",
+   "Z": "#forge:stone"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:tall_lamp"
+ },
+ {
+  "result": "variedcommodities:tall_lamp_iron",
+  "count": 1,
+  "pattern": [
+   "YXY",
+   " Z ",
+   " Z ",
+   "ZZZ"
+  ],
+  "key": {
+   "X": "minecraft:torch",
+   "Y": "#minecraft:wool",
+   "Z": "minecraft:iron_ingot"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:tall_lamp"
+ },
+ {
+  "result": "variedcommodities:tall_lamp_gold",
+  "count": 1,
+  "pattern": [
+   "YXY",
+   " Z ",
+   " Z ",
+   "ZZZ"
+  ],
+  "key": {
+   "X": "minecraft:torch",
+   "Y": "#minecraft:wool",
+   "Z": "minecraft:gold_ingot"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:tall_lamp"
+ },
+ {
+  "result": "variedcommodities:tall_lamp_diamond",
+  "count": 1,
+  "pattern": [
+   "YXY",
+   " Z ",
+   " Z ",
+   "ZZZ"
+  ],
+  "key": {
+   "X": "minecraft:torch",
+   "Y": "#minecraft:wool",
+   "Z": "minecraft:diamond"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:tall_lamp"
+ },
+ {
+  "result": "variedcommodities:chair_oak",
+  "count": 1,
+  "pattern": [
+   "  X",
+   "  X",
+   "XXX",
+   "X X"
+  ],
+  "key": {
+   "X": "minecraft:oak_planks"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:chair"
+ },
+ {
+  "result": "variedcommodities:chair_spruce",
+  "count": 1,
+  "pattern": [
+   "  X",
+   "  X",
+   "XXX",
+   "X X"
+  ],
+  "key": {
+   "X": "minecraft:spruce_planks"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:chair"
+ },
+ {
+  "result": "variedcommodities:chair_birch",
+  "count": 1,
+  "pattern": [
+   "  X",
+   "  X",
+   "XXX",
+   "X X"
+  ],
+  "key": {
+   "X": "minecraft:birch_planks"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:chair"
+ },
+ {
+  "result": "variedcommodities:chair_jungle",
+  "count": 1,
+  "pattern": [
+   "  X",
+   "  X",
+   "XXX",
+   "X X"
+  ],
+  "key": {
+   "X": "minecraft:jungle_planks"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:chair"
+ },
+ {
+  "result": "variedcommodities:chair_acacia",
+  "count": 1,
+  "pattern": [
+   "  X",
+   "  X",
+   "XXX",
+   "X X"
+  ],
+  "key": {
+   "X": "minecraft:acacia_planks"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:chair"
+ },
+ {
+  "result": "variedcommodities:chair_dark_oak",
+  "count": 1,
+  "pattern": [
+   "  X",
+   "  X",
+   "XXX",
+   "X X"
+  ],
+  "key": {
+   "X": "minecraft:dark_oak_planks"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:chair"
+ },
+ {
+  "result": "variedcommodities:crate_oak",
+  "count": 1,
+  "pattern": [
+   "XXXX",
+   "X  X",
+   "X  X",
+   "XXXX"
+  ],
+  "key": {
+   "X": "minecraft:oak_planks"
+  },
+  "width": 4,
+  "height": 4,
+  "group": "variedcommodities:crate"
+ },
+ {
+  "result": "variedcommodities:crate_spruce",
+  "count": 1,
+  "pattern": [
+   "XXXX",
+   "X  X",
+   "X  X",
+   "XXXX"
+  ],
+  "key": {
+   "X": "minecraft:spruce_planks"
+  },
+  "width": 4,
+  "height": 4,
+  "group": "variedcommodities:crate"
+ },
+ {
+  "result": "variedcommodities:crate_birch",
+  "count": 1,
+  "pattern": [
+   "XXXX",
+   "X  X",
+   "X  X",
+   "XXXX"
+  ],
+  "key": {
+   "X": "minecraft:birch_planks"
+  },
+  "width": 4,
+  "height": 4,
+  "group": "variedcommodities:crate"
+ },
+ {
+  "result": "variedcommodities:crate_jungle",
+  "count": 1,
+  "pattern": [
+   "XXXX",
+   "X  X",
+   "X  X",
+   "XXXX"
+  ],
+  "key": {
+   "X": "minecraft:jungle_planks"
+  },
+  "width": 4,
+  "height": 4,
+  "group": "variedcommodities:crate"
+ },
+ {
+  "result": "variedcommodities:crate_acacia",
+  "count": 1,
+  "pattern": [
+   "XXXX",
+   "X  X",
+   "X  X",
+   "XXXX"
+  ],
+  "key": {
+   "X": "minecraft:acacia_planks"
+  },
+  "width": 4,
+  "height": 4,
+  "group": "variedcommodities:crate"
+ },
+ {
+  "result": "variedcommodities:crate_dark_oak",
+  "count": 1,
+  "pattern": [
+   "XXXX",
+   "X  X",
+   "X  X",
+   "XXXX"
+  ],
+  "key": {
+   "X": "minecraft:dark_oak_planks"
+  },
+  "width": 4,
+  "height": 4,
+  "group": "variedcommodities:crate"
+ },
+ {
+  "result": "variedcommodities:weapon_rack_oak",
+  "count": 1,
+  "pattern": [
+   "XXX",
+   "XYX",
+   "XYX",
+   "XXX"
+  ],
+  "key": {
+   "X": "minecraft:oak_planks",
+   "Y": "minecraft:stick"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:weapon_rack"
+ },
+ {
+  "result": "variedcommodities:weapon_rack_spruce",
+  "count": 1,
+  "pattern": [
+   "XXX",
+   "XYX",
+   "XYX",
+   "XXX"
+  ],
+  "key": {
+   "X": "minecraft:spruce_planks",
+   "Y": "minecraft:stick"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:weapon_rack"
+ },
+ {
+  "result": "variedcommodities:weapon_rack_birch",
+  "count": 1,
+  "pattern": [
+   "XXX",
+   "XYX",
+   "XYX",
+   "XXX"
+  ],
+  "key": {
+   "X": "minecraft:birch_planks",
+   "Y": "minecraft:stick"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:weapon_rack"
+ },
+ {
+  "result": "variedcommodities:weapon_rack_jungle",
+  "count": 1,
+  "pattern": [
+   "XXX",
+   "XYX",
+   "XYX",
+   "XXX"
+  ],
+  "key": {
+   "X": "minecraft:jungle_planks",
+   "Y": "minecraft:stick"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:weapon_rack"
+ },
+ {
+  "result": "variedcommodities:weapon_rack_acacia",
+  "count": 1,
+  "pattern": [
+   "XXX",
+   "XYX",
+   "XYX",
+   "XXX"
+  ],
+  "key": {
+   "X": "minecraft:acacia_planks",
+   "Y": "minecraft:stick"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:weapon_rack"
+ },
+ {
+  "result": "variedcommodities:weapon_rack_dark_oak",
+  "count": 1,
+  "pattern": [
+   "XXX",
+   "XYX",
+   "XYX",
+   "XXX"
+  ],
+  "key": {
+   "X": "minecraft:dark_oak_planks",
+   "Y": "minecraft:stick"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:weapon_rack"
+ },
+ {
+  "result": "variedcommodities:couch_wood_oak",
+  "count": 1,
+  "pattern": [
+   "   X",
+   "   X",
+   "XXXX",
+   "X  X"
+  ],
+  "key": {
+   "X": "minecraft:oak_planks"
+  },
+  "width": 4,
+  "height": 4,
+  "group": "variedcommodities:couch_wood"
+ },
+ {
+  "result": "variedcommodities:couch_wood_spruce",
+  "count": 1,
+  "pattern": [
+   "   X",
+   "   X",
+   "XXXX",
+   "X  X"
+  ],
+  "key": {
+   "X": "minecraft:spruce_planks"
+  },
+  "width": 4,
+  "height": 4,
+  "group": "variedcommodities:couch_wood"
+ },
+ {
+  "result": "variedcommodities:couch_wood_birch",
+  "count": 1,
+  "pattern": [
+   "   X",
+   "   X",
+   "XXXX",
+   "X  X"
+  ],
+  "key": {
+   "X": "minecraft:birch_planks"
+  },
+  "width": 4,
+  "height": 4,
+  "group": "variedcommodities:couch_wood"
+ },
+ {
+  "result": "variedcommodities:couch_wood_jungle",
+  "count": 1,
+  "pattern": [
+   "   X",
+   "   X",
+   "XXXX",
+   "X  X"
+  ],
+  "key": {
+   "X": "minecraft:jungle_planks"
+  },
+  "width": 4,
+  "height": 4,
+  "group": "variedcommodities:couch_wood"
+ },
+ {
+  "result": "variedcommodities:couch_wood_acacia",
+  "count": 1,
+  "pattern": [
+   "   X",
+   "   X",
+   "XXXX",
+   "X  X"
+  ],
+  "key": {
+   "X": "minecraft:acacia_planks"
+  },
+  "width": 4,
+  "height": 4,
+  "group": "variedcommodities:couch_wood"
+ },
+ {
+  "result": "variedcommodities:couch_wood_dark_oak",
+  "count": 1,
+  "pattern": [
+   "   X",
+   "   X",
+   "XXXX",
+   "X  X"
+  ],
+  "key": {
+   "X": "minecraft:dark_oak_planks"
+  },
+  "width": 4,
+  "height": 4,
+  "group": "variedcommodities:couch_wood"
+ },
+ {
+  "result": "variedcommodities:couch_wool_oak",
+  "count": 1,
+  "pattern": [
+   "  ZX",
+   "  ZX",
+   "ZZZX",
+   "XXXX"
+  ],
+  "key": {
+   "X": "minecraft:oak_planks",
+   "Z": "#minecraft:wool"
+  },
+  "width": 4,
+  "height": 4,
+  "group": "variedcommodities:couch_wool"
+ },
+ {
+  "result": "variedcommodities:couch_wool_spruce",
+  "count": 1,
+  "pattern": [
+   "  ZX",
+   "  ZX",
+   "ZZZX",
+   "XXXX"
+  ],
+  "key": {
+   "X": "minecraft:spruce_planks",
+   "Z": "#minecraft:wool"
+  },
+  "width": 4,
+  "height": 4,
+  "group": "variedcommodities:couch_wool"
+ },
+ {
+  "result": "variedcommodities:couch_wool_birch",
+  "count": 1,
+  "pattern": [
+   "  ZX",
+   "  ZX",
+   "ZZZX",
+   "XXXX"
+  ],
+  "key": {
+   "X": "minecraft:birch_planks",
+   "Z": "#minecraft:wool"
+  },
+  "width": 4,
+  "height": 4,
+  "group": "variedcommodities:couch_wool"
+ },
+ {
+  "result": "variedcommodities:couch_wool_jungle",
+  "count": 1,
+  "pattern": [
+   "  ZX",
+   "  ZX",
+   "ZZZX",
+   "XXXX"
+  ],
+  "key": {
+   "X": "minecraft:jungle_planks",
+   "Z": "#minecraft:wool"
+  },
+  "width": 4,
+  "height": 4,
+  "group": "variedcommodities:couch_wool"
+ },
+ {
+  "result": "variedcommodities:couch_wool_acacia",
+  "count": 1,
+  "pattern": [
+   "  ZX",
+   "  ZX",
+   "ZZZX",
+   "XXXX"
+  ],
+  "key": {
+   "X": "minecraft:acacia_planks",
+   "Z": "#minecraft:wool"
+  },
+  "width": 4,
+  "height": 4,
+  "group": "variedcommodities:couch_wool"
+ },
+ {
+  "result": "variedcommodities:couch_wool_dark_oak",
+  "count": 1,
+  "pattern": [
+   "  ZX",
+   "  ZX",
+   "ZZZX",
+   "XXXX"
+  ],
+  "key": {
+   "X": "minecraft:dark_oak_planks",
+   "Z": "#minecraft:wool"
+  },
+  "width": 4,
+  "height": 4,
+  "group": "variedcommodities:couch_wool"
+ },
+ {
+  "result": "variedcommodities:table_oak",
+  "count": 1,
+  "pattern": [
+   "XXXX",
+   "X  X",
+   "X  X",
+   "X  X"
+  ],
+  "key": {
+   "X": "minecraft:oak_planks"
+  },
+  "width": 4,
+  "height": 4,
+  "group": "variedcommodities:table"
+ },
+ {
+  "result": "variedcommodities:table_spruce",
+  "count": 1,
+  "pattern": [
+   "XXXX",
+   "X  X",
+   "X  X",
+   "X  X"
+  ],
+  "key": {
+   "X": "minecraft:spruce_planks"
+  },
+  "width": 4,
+  "height": 4,
+  "group": "variedcommodities:table"
+ },
+ {
+  "result": "variedcommodities:table_birch",
+  "count": 1,
+  "pattern": [
+   "XXXX",
+   "X  X",
+   "X  X",
+   "X  X"
+  ],
+  "key": {
+   "X": "minecraft:birch_planks"
+  },
+  "width": 4,
+  "height": 4,
+  "group": "variedcommodities:table"
+ },
+ {
+  "result": "variedcommodities:table_jungle",
+  "count": 1,
+  "pattern": [
+   "XXXX",
+   "X  X",
+   "X  X",
+   "X  X"
+  ],
+  "key": {
+   "X": "minecraft:jungle_planks"
+  },
+  "width": 4,
+  "height": 4,
+  "group": "variedcommodities:table"
+ },
+ {
+  "result": "variedcommodities:table_acacia",
+  "count": 1,
+  "pattern": [
+   "XXXX",
+   "X  X",
+   "X  X",
+   "X  X"
+  ],
+  "key": {
+   "X": "minecraft:acacia_planks"
+  },
+  "width": 4,
+  "height": 4,
+  "group": "variedcommodities:table"
+ },
+ {
+  "result": "variedcommodities:table_dark_oak",
+  "count": 1,
+  "pattern": [
+   "XXXX",
+   "X  X",
+   "X  X",
+   "X  X"
+  ],
+  "key": {
+   "X": "minecraft:dark_oak_planks"
+  },
+  "width": 4,
+  "height": 4,
+  "group": "variedcommodities:table"
+ },
+ {
+  "result": "variedcommodities:stool_oak",
+  "count": 1,
+  "pattern": [
+   "XXXX",
+   " XX ",
+   "X  X"
+  ],
+  "key": {
+   "X": "minecraft:oak_planks"
+  },
+  "width": 4,
+  "height": 3,
+  "group": "variedcommodities:stool"
+ },
+ {
+  "result": "variedcommodities:stool_spruce",
+  "count": 1,
+  "pattern": [
+   "XXXX",
+   " XX ",
+   "X  X"
+  ],
+  "key": {
+   "X": "minecraft:spruce_planks"
+  },
+  "width": 4,
+  "height": 3,
+  "group": "variedcommodities:stool"
+ },
+ {
+  "result": "variedcommodities:stool_birch",
+  "count": 1,
+  "pattern": [
+   "XXXX",
+   " XX ",
+   "X  X"
+  ],
+  "key": {
+   "X": "minecraft:birch_planks"
+  },
+  "width": 4,
+  "height": 3,
+  "group": "variedcommodities:stool"
+ },
+ {
+  "result": "variedcommodities:stool_jungle",
+  "count": 1,
+  "pattern": [
+   "XXXX",
+   " XX ",
+   "X  X"
+  ],
+  "key": {
+   "X": "minecraft:jungle_planks"
+  },
+  "width": 4,
+  "height": 3,
+  "group": "variedcommodities:stool"
+ },
+ {
+  "result": "variedcommodities:stool_acacia",
+  "count": 1,
+  "pattern": [
+   "XXXX",
+   " XX ",
+   "X  X"
+  ],
+  "key": {
+   "X": "minecraft:acacia_planks"
+  },
+  "width": 4,
+  "height": 3,
+  "group": "variedcommodities:stool"
+ },
+ {
+  "result": "variedcommodities:stool_dark_oak",
+  "count": 1,
+  "pattern": [
+   "XXXX",
+   " XX ",
+   "X  X"
+  ],
+  "key": {
+   "X": "minecraft:dark_oak_planks"
+  },
+  "width": 4,
+  "height": 3,
+  "group": "variedcommodities:stool"
+ },
+ {
+  "result": "variedcommodities:barrel_oak",
+  "count": 1,
+  "pattern": [
+   "XXX",
+   "X X",
+   "X X",
+   "XXX"
+  ],
+  "key": {
+   "X": "minecraft:oak_planks"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:barrel"
+ },
+ {
+  "result": "variedcommodities:barrel_spruce",
+  "count": 1,
+  "pattern": [
+   "XXX",
+   "X X",
+   "X X",
+   "XXX"
+  ],
+  "key": {
+   "X": "minecraft:spruce_planks"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:barrel"
+ },
+ {
+  "result": "variedcommodities:barrel_birch",
+  "count": 1,
+  "pattern": [
+   "XXX",
+   "X X",
+   "X X",
+   "XXX"
+  ],
+  "key": {
+   "X": "minecraft:birch_planks"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:barrel"
+ },
+ {
+  "result": "variedcommodities:barrel_jungle",
+  "count": 1,
+  "pattern": [
+   "XXX",
+   "X X",
+   "X X",
+   "XXX"
+  ],
+  "key": {
+   "X": "minecraft:jungle_planks"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:barrel"
+ },
+ {
+  "result": "variedcommodities:barrel_acacia",
+  "count": 1,
+  "pattern": [
+   "XXX",
+   "X X",
+   "X X",
+   "XXX"
+  ],
+  "key": {
+   "X": "minecraft:acacia_planks"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:barrel"
+ },
+ {
+  "result": "variedcommodities:barrel_dark_oak",
+  "count": 1,
+  "pattern": [
+   "XXX",
+   "X X",
+   "X X",
+   "XXX"
+  ],
+  "key": {
+   "X": "minecraft:dark_oak_planks"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:barrel"
+ },
+ {
+  "result": "variedcommodities:shelf_oak",
+  "count": 3,
+  "pattern": [
+   "XXXX",
+   "X Y ",
+   "XY  "
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "minecraft:oak_planks"
+  },
+  "width": 4,
+  "height": 3,
+  "group": "variedcommodities:shelf"
+ },
+ {
+  "result": "variedcommodities:shelf_spruce",
+  "count": 3,
+  "pattern": [
+   "XXXX",
+   "X Y ",
+   "XY  "
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "minecraft:spruce_planks"
+  },
+  "width": 4,
+  "height": 3,
+  "group": "variedcommodities:shelf"
+ },
+ {
+  "result": "variedcommodities:shelf_birch",
+  "count": 3,
+  "pattern": [
+   "XXXX",
+   "X Y ",
+   "XY  "
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "minecraft:birch_planks"
+  },
+  "width": 4,
+  "height": 3,
+  "group": "variedcommodities:shelf"
+ },
+ {
+  "result": "variedcommodities:shelf_jungle",
+  "count": 3,
+  "pattern": [
+   "XXXX",
+   "X Y ",
+   "XY  "
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "minecraft:jungle_planks"
+  },
+  "width": 4,
+  "height": 3,
+  "group": "variedcommodities:shelf"
+ },
+ {
+  "result": "variedcommodities:shelf_acacia",
+  "count": 3,
+  "pattern": [
+   "XXXX",
+   "X Y ",
+   "XY  "
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "minecraft:acacia_planks"
+  },
+  "width": 4,
+  "height": 3,
+  "group": "variedcommodities:shelf"
+ },
+ {
+  "result": "variedcommodities:shelf_dark_oak",
+  "count": 3,
+  "pattern": [
+   "XXXX",
+   "X Y ",
+   "XY  "
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "minecraft:dark_oak_planks"
+  },
+  "width": 4,
+  "height": 3,
+  "group": "variedcommodities:shelf"
+ },
+ {
+  "result": "variedcommodities:beam_oak",
+  "count": 2,
+  "pattern": [
+   "XXXX"
+  ],
+  "key": {
+   "X": "minecraft:oak_planks"
+  },
+  "width": 4,
+  "height": 1,
+  "group": "variedcommodities:beam"
+ },
+ {
+  "result": "variedcommodities:beam_spruce",
+  "count": 2,
+  "pattern": [
+   "XXXX"
+  ],
+  "key": {
+   "X": "minecraft:spruce_planks"
+  },
+  "width": 4,
+  "height": 1,
+  "group": "variedcommodities:beam"
+ },
+ {
+  "result": "variedcommodities:beam_birch",
+  "count": 2,
+  "pattern": [
+   "XXXX"
+  ],
+  "key": {
+   "X": "minecraft:birch_planks"
+  },
+  "width": 4,
+  "height": 1,
+  "group": "variedcommodities:beam"
+ },
+ {
+  "result": "variedcommodities:beam_jungle",
+  "count": 2,
+  "pattern": [
+   "XXXX"
+  ],
+  "key": {
+   "X": "minecraft:jungle_planks"
+  },
+  "width": 4,
+  "height": 1,
+  "group": "variedcommodities:beam"
+ },
+ {
+  "result": "variedcommodities:beam_acacia",
+  "count": 2,
+  "pattern": [
+   "XXXX"
+  ],
+  "key": {
+   "X": "minecraft:acacia_planks"
+  },
+  "width": 4,
+  "height": 1,
+  "group": "variedcommodities:beam"
+ },
+ {
+  "result": "variedcommodities:beam_dark_oak",
+  "count": 2,
+  "pattern": [
+   "XXXX"
+  ],
+  "key": {
+   "X": "minecraft:dark_oak_planks"
+  },
+  "width": 4,
+  "height": 1,
+  "group": "variedcommodities:beam"
+ },
+ {
+  "result": "variedcommodities:sign_oak",
+  "count": 3,
+  "pattern": [
+   "YYY",
+   "XXX",
+   "XXX"
+  ],
+  "key": {
+   "X": "minecraft:oak_planks",
+   "Y": "minecraft:iron_ingot"
+  },
+  "width": 3,
+  "height": 3,
+  "group": "variedcommodities:sign"
+ },
+ {
+  "result": "variedcommodities:sign_spruce",
+  "count": 3,
+  "pattern": [
+   "YYY",
+   "XXX",
+   "XXX"
+  ],
+  "key": {
+   "X": "minecraft:spruce_planks",
+   "Y": "minecraft:iron_ingot"
+  },
+  "width": 3,
+  "height": 3,
+  "group": "variedcommodities:sign"
+ },
+ {
+  "result": "variedcommodities:sign_birch",
+  "count": 3,
+  "pattern": [
+   "YYY",
+   "XXX",
+   "XXX"
+  ],
+  "key": {
+   "X": "minecraft:birch_planks",
+   "Y": "minecraft:iron_ingot"
+  },
+  "width": 3,
+  "height": 3,
+  "group": "variedcommodities:sign"
+ },
+ {
+  "result": "variedcommodities:sign_jungle",
+  "count": 3,
+  "pattern": [
+   "YYY",
+   "XXX",
+   "XXX"
+  ],
+  "key": {
+   "X": "minecraft:jungle_planks",
+   "Y": "minecraft:iron_ingot"
+  },
+  "width": 3,
+  "height": 3,
+  "group": "variedcommodities:sign"
+ },
+ {
+  "result": "variedcommodities:sign_acacia",
+  "count": 3,
+  "pattern": [
+   "YYY",
+   "XXX",
+   "XXX"
+  ],
+  "key": {
+   "X": "minecraft:acacia_planks",
+   "Y": "minecraft:iron_ingot"
+  },
+  "width": 3,
+  "height": 3,
+  "group": "variedcommodities:sign"
+ },
+ {
+  "result": "variedcommodities:sign_dark_oak",
+  "count": 3,
+  "pattern": [
+   "YYY",
+   "XXX",
+   "XXX"
+  ],
+  "key": {
+   "X": "minecraft:dark_oak_planks",
+   "Y": "minecraft:iron_ingot"
+  },
+  "width": 3,
+  "height": 3,
+  "group": "variedcommodities:sign"
+ },
+ {
+  "result": "variedcommodities:lamp",
+  "count": 1,
+  "pattern": [
+   "XXX",
+   "Y Y",
+   "YZY",
+   "XXX"
+  ],
+  "key": {
+   "X": "minecraft:iron_ingot",
+   "Y": "minecraft:glass",
+   "Z": "minecraft:torch"
+  },
+  "width": 3,
+  "height": 4
+ },
+ {
+  "result": "variedcommodities:candle",
+  "count": 1,
+  "pattern": [
+   "XZX",
+   " X "
+  ],
+  "key": {
+   "X": "minecraft:iron_ingot",
+   "Z": "minecraft:torch"
+  },
+  "width": 3,
+  "height": 2
+ },
+ {
+  "result": "variedcommodities:big_sign",
+  "count": 2,
+  "pattern": [
+   "XXX",
+   "XXX",
+   "XXX"
+  ],
+  "key": {
+   "X": "#minecraft:planks"
+  },
+  "width": 3,
+  "height": 3
+ },
+ {
+  "result": "variedcommodities:holyhandgrenade",
+  "count": 1,
+  "pattern": [
+   " X ",
+   "XYX",
+   " X "
+  ],
+  "key": {
+   "X": "minecraft:rabbit_foot",
+   "Y": "minecraft:tnt"
+  },
+  "width": 3,
+  "height": 3
+ },
+ {
+  "result": "variedcommodities:wooden_gun",
+  "count": 1,
+  "pattern": [
+   "XXXY",
+   " ZM ",
+   "  M "
+  ],
+  "key": {
+   "Y": "minecraft:lever",
+   "M": "minecraft:stick",
+   "Z": "minecraft:stone_button",
+   "X": "#minecraft:planks"
+  },
+  "width": 4,
+  "height": 3,
+  "group": "variedcommodities:gun"
+ },
+ {
+  "result": "variedcommodities:stone_gun",
+  "count": 1,
+  "pattern": [
+   "XXXY",
+   " ZM ",
+   "  M "
+  ],
+  "key": {
+   "Y": "minecraft:lever",
+   "M": "minecraft:stick",
+   "Z": "minecraft:stone_button",
+   "X": "#forge:stone"
+  },
+  "width": 4,
+  "height": 3,
+  "group": "variedcommodities:gun"
+ },
+ {
+  "result": "variedcommodities:iron_gun",
+  "count": 1,
+  "pattern": [
+   "XXXY",
+   " ZM ",
+   "  M "
+  ],
+  "key": {
+   "Y": "minecraft:lever",
+   "M": "minecraft:stick",
+   "Z": "minecraft:stone_button",
+   "X": "minecraft:iron_ingot"
+  },
+  "width": 4,
+  "height": 3,
+  "group": "variedcommodities:gun"
+ },
+ {
+  "result": "variedcommodities:golden_gun",
+  "count": 1,
+  "pattern": [
+   "XXXY",
+   " ZM ",
+   "  M "
+  ],
+  "key": {
+   "Y": "minecraft:lever",
+   "M": "minecraft:stick",
+   "Z": "minecraft:stone_button",
+   "X": "minecraft:gold_ingot"
+  },
+  "width": 4,
+  "height": 3,
+  "group": "variedcommodities:gun"
+ },
+ {
+  "result": "variedcommodities:diamond_gun",
+  "count": 1,
+  "pattern": [
+   "XXXY",
+   " ZM ",
+   "  M "
+  ],
+  "key": {
+   "Y": "minecraft:lever",
+   "M": "minecraft:stick",
+   "Z": "minecraft:stone_button",
+   "X": "minecraft:diamond"
+  },
+  "width": 4,
+  "height": 3,
+  "group": "variedcommodities:gun"
+ },
+ {
+  "result": "variedcommodities:emerald_gun",
+  "count": 1,
+  "pattern": [
+   "XXXY",
+   " ZM ",
+   "  M "
+  ],
+  "key": {
+   "Y": "minecraft:lever",
+   "M": "minecraft:stick",
+   "Z": "minecraft:stone_button",
+   "X": "minecraft:emerald"
+  },
+  "width": 4,
+  "height": 3,
+  "group": "variedcommodities:gun"
+ },
+ {
+  "result": "variedcommodities:bronze_gun",
+  "count": 1,
+  "pattern": [
+   "XXXY",
+   " ZM ",
+   "  M "
+  ],
+  "key": {
+   "Y": "minecraft:lever",
+   "M": "minecraft:stick",
+   "Z": "minecraft:stone_button",
+   "X": "variedcommodities:ingot_bronze"
+  },
+  "width": 4,
+  "height": 3,
+  "group": "variedcommodities:gun"
+ },
+ {
+  "result": "variedcommodities:wooden_battleaxe",
+  "count": 1,
+  "pattern": [
+   "XX",
+   "XY",
+   " Y",
+   " Y"
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "#minecraft:planks"
+  },
+  "width": 2,
+  "height": 4,
+  "group": "variedcommodities:battleaxe"
+ },
+ {
+  "result": "variedcommodities:stone_battleaxe",
+  "count": 1,
+  "pattern": [
+   "XX",
+   "XY",
+   " Y",
+   " Y"
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "#forge:stone"
+  },
+  "width": 2,
+  "height": 4,
+  "group": "variedcommodities:battleaxe"
+ },
+ {
+  "result": "variedcommodities:iron_battleaxe",
+  "count": 1,
+  "pattern": [
+   "XX",
+   "XY",
+   " Y",
+   " Y"
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "minecraft:iron_ingot"
+  },
+  "width": 2,
+  "height": 4,
+  "group": "variedcommodities:battleaxe"
+ },
+ {
+  "result": "variedcommodities:golden_battleaxe",
+  "count": 1,
+  "pattern": [
+   "XX",
+   "XY",
+   " Y",
+   " Y"
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "minecraft:gold_ingot"
+  },
+  "width": 2,
+  "height": 4,
+  "group": "variedcommodities:battleaxe"
+ },
+ {
+  "result": "variedcommodities:diamond_battleaxe",
+  "count": 1,
+  "pattern": [
+   "XX",
+   "XY",
+   " Y",
+   " Y"
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "minecraft:diamond"
+  },
+  "width": 2,
+  "height": 4,
+  "group": "variedcommodities:battleaxe"
+ },
+ {
+  "result": "variedcommodities:bronze_battleaxe",
+  "count": 1,
+  "pattern": [
+   "XX",
+   "XY",
+   " Y",
+   " Y"
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "variedcommodities:ingot_bronze"
+  },
+  "width": 2,
+  "height": 4,
+  "group": "variedcommodities:battleaxe"
+ },
+ {
+  "result": "variedcommodities:emerald_battleaxe",
+  "count": 1,
+  "pattern": [
+   "XX",
+   "XY",
+   " Y",
+   " Y"
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "minecraft:emerald"
+  },
+  "width": 2,
+  "height": 4,
+  "group": "variedcommodities:battleaxe"
+ },
+ {
+  "result": "variedcommodities:mithril_battleaxe",
+  "count": 1,
+  "pattern": [
+   "XX",
+   "XY",
+   " Y",
+   " Y"
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "variedcommodities:ingot_mithril"
+  },
+  "width": 2,
+  "height": 4,
+  "group": "variedcommodities:battleaxe"
+ },
+ {
+  "result": "variedcommodities:frost_battleaxe",
+  "count": 1,
+  "pattern": [
+   "XX",
+   "XY",
+   " Y",
+   " Y"
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "minecraft:packed_ice"
+  },
+  "width": 2,
+  "height": 4,
+  "group": "variedcommodities:battleaxe"
+ },
+ {
+  "result": "variedcommodities:demonic_battleaxe",
+  "count": 1,
+  "pattern": [
+   "XX",
+   "XY",
+   " Y",
+   " Y"
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "variedcommodities:ingot_demonic"
+  },
+  "width": 2,
+  "height": 4,
+  "group": "variedcommodities:battleaxe"
+ },
+ {
+  "result": "variedcommodities:wooden_halberd",
+  "count": 1,
+  "pattern": [
+   "XYX",
+   "XY ",
+   " Y ",
+   " Y "
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "#minecraft:planks"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:halberd"
+ },
+ {
+  "result": "variedcommodities:stone_halberd",
+  "count": 1,
+  "pattern": [
+   "XYX",
+   "XY ",
+   " Y ",
+   " Y "
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "#forge:stone"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:halberd"
+ },
+ {
+  "result": "variedcommodities:iron_halberd",
+  "count": 1,
+  "pattern": [
+   "XYX",
+   "XY ",
+   " Y ",
+   " Y "
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "minecraft:iron_ingot"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:halberd"
+ },
+ {
+  "result": "variedcommodities:golden_halberd",
+  "count": 1,
+  "pattern": [
+   "XYX",
+   "XY ",
+   " Y ",
+   " Y "
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "minecraft:gold_ingot"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:halberd"
+ },
+ {
+  "result": "variedcommodities:diamond_halberd",
+  "count": 1,
+  "pattern": [
+   "XYX",
+   "XY ",
+   " Y ",
+   " Y "
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "minecraft:diamond"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:halberd"
+ },
+ {
+  "result": "variedcommodities:bronze_halberd",
+  "count": 1,
+  "pattern": [
+   "XYX",
+   "XY ",
+   " Y ",
+   " Y "
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "variedcommodities:ingot_bronze"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:halberd"
+ },
+ {
+  "result": "variedcommodities:emerald_halberd",
+  "count": 1,
+  "pattern": [
+   "XYX",
+   "XY ",
+   " Y ",
+   " Y "
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "minecraft:emerald"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:halberd"
+ },
+ {
+  "result": "variedcommodities:mithril_halberd",
+  "count": 1,
+  "pattern": [
+   "XYX",
+   "XY ",
+   " Y ",
+   " Y "
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "variedcommodities:ingot_mithril"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:halberd"
+ },
+ {
+  "result": "variedcommodities:frost_halberd",
+  "count": 1,
+  "pattern": [
+   "XYX",
+   "XY ",
+   " Y ",
+   " Y "
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "minecraft:packed_ice"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:halberd"
+ },
+ {
+  "result": "variedcommodities:demonic_halberd",
+  "count": 1,
+  "pattern": [
+   "XYX",
+   "XY ",
+   " Y ",
+   " Y "
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "variedcommodities:ingot_demonic"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:halberd"
+ },
+ {
+  "result": "variedcommodities:wooden_glaive",
+  "count": 1,
+  "pattern": [
+   "   X",
+   "  Y ",
+   " Y  ",
+   "X   "
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "#minecraft:planks"
+  },
+  "width": 4,
+  "height": 4,
+  "group": "variedcommodities:glaive"
+ },
+ {
+  "result": "variedcommodities:stone_glaive",
+  "count": 1,
+  "pattern": [
+   "   X",
+   "  Y ",
+   " Y  ",
+   "X   "
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "#forge:stone"
+  },
+  "width": 4,
+  "height": 4,
+  "group": "variedcommodities:glaive"
+ },
+ {
+  "result": "variedcommodities:iron_glaive",
+  "count": 1,
+  "pattern": [
+   "   X",
+   "  Y ",
+   " Y  ",
+   "X   "
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "minecraft:iron_ingot"
+  },
+  "width": 4,
+  "height": 4,
+  "group": "variedcommodities:glaive"
+ },
+ {
+  "result": "variedcommodities:golden_glaive",
+  "count": 1,
+  "pattern": [
+   "   X",
+   "  Y ",
+   " Y  ",
+   "X   "
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "minecraft:gold_ingot"
+  },
+  "width": 4,
+  "height": 4,
+  "group": "variedcommodities:glaive"
+ },
+ {
+  "result": "variedcommodities:diamond_glaive",
+  "count": 1,
+  "pattern": [
+   "   X",
+   "  Y ",
+   " Y  ",
+   "X   "
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "minecraft:diamond"
+  },
+  "width": 4,
+  "height": 4,
+  "group": "variedcommodities:glaive"
+ },
+ {
+  "result": "variedcommodities:bronze_glaive",
+  "count": 1,
+  "pattern": [
+   "   X",
+   "  Y ",
+   " Y  ",
+   "X   "
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "variedcommodities:ingot_bronze"
+  },
+  "width": 4,
+  "height": 4,
+  "group": "variedcommodities:glaive"
+ },
+ {
+  "result": "variedcommodities:emerald_glaive",
+  "count": 1,
+  "pattern": [
+   "   X",
+   "  Y ",
+   " Y  ",
+   "X   "
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "minecraft:emerald"
+  },
+  "width": 4,
+  "height": 4,
+  "group": "variedcommodities:glaive"
+ },
+ {
+  "result": "variedcommodities:mithril_glaive",
+  "count": 1,
+  "pattern": [
+   "   X",
+   "  Y ",
+   " Y  ",
+   "X   "
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "variedcommodities:ingot_mithril"
+  },
+  "width": 4,
+  "height": 4,
+  "group": "variedcommodities:glaive"
+ },
+ {
+  "result": "variedcommodities:frost_glaive",
+  "count": 1,
+  "pattern": [
+   "   X",
+   "  Y ",
+   " Y  ",
+   "X   "
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "minecraft:packed_ice"
+  },
+  "width": 4,
+  "height": 4,
+  "group": "variedcommodities:glaive"
+ },
+ {
+  "result": "variedcommodities:demonic_glaive",
+  "count": 1,
+  "pattern": [
+   "   X",
+   "  Y ",
+   " Y  ",
+   "X   "
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "variedcommodities:ingot_demonic"
+  },
+  "width": 4,
+  "height": 4,
+  "group": "variedcommodities:glaive"
+ },
+ {
+  "result": "variedcommodities:wooden_trident",
+  "count": 1,
+  "pattern": [
+   "X X",
+   " X ",
+   " Y ",
+   " Y "
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "#minecraft:planks"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:trident"
+ },
+ {
+  "result": "variedcommodities:stone_trident",
+  "count": 1,
+  "pattern": [
+   "X X",
+   " X ",
+   " Y ",
+   " Y "
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "#forge:stone"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:trident"
+ },
+ {
+  "result": "variedcommodities:iron_trident",
+  "count": 1,
+  "pattern": [
+   "X X",
+   " X ",
+   " Y ",
+   " Y "
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "minecraft:iron_ingot"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:trident"
+ },
+ {
+  "result": "variedcommodities:golden_trident",
+  "count": 1,
+  "pattern": [
+   "X X",
+   " X ",
+   " Y ",
+   " Y "
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "minecraft:gold_ingot"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:trident"
+ },
+ {
+  "result": "variedcommodities:diamond_trident",
+  "count": 1,
+  "pattern": [
+   "X X",
+   " X ",
+   " Y ",
+   " Y "
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "minecraft:diamond"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:trident"
+ },
+ {
+  "result": "variedcommodities:bronze_trident",
+  "count": 1,
+  "pattern": [
+   "X X",
+   " X ",
+   " Y ",
+   " Y "
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "variedcommodities:ingot_bronze"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:trident"
+ },
+ {
+  "result": "variedcommodities:emerald_trident",
+  "count": 1,
+  "pattern": [
+   "X X",
+   " X ",
+   " Y ",
+   " Y "
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "minecraft:emerald"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:trident"
+ },
+ {
+  "result": "variedcommodities:mithril_trident",
+  "count": 1,
+  "pattern": [
+   "X X",
+   " X ",
+   " Y ",
+   " Y "
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "variedcommodities:ingot_mithril"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:trident"
+ },
+ {
+  "result": "variedcommodities:frost_trident",
+  "count": 1,
+  "pattern": [
+   "X X",
+   " X ",
+   " Y ",
+   " Y "
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "minecraft:packed_ice"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:trident"
+ },
+ {
+  "result": "variedcommodities:demonic_trident",
+  "count": 1,
+  "pattern": [
+   "X X",
+   " X ",
+   " Y ",
+   " Y "
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "variedcommodities:ingot_demonic"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:trident"
+ },
+ {
+  "result": "variedcommodities:wooden_scythe",
+  "count": 1,
+  "pattern": [
+   "XXX",
+   "  Y",
+   "  Y",
+   "  Y"
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "#minecraft:planks"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:scythe"
+ },
+ {
+  "result": "variedcommodities:stone_scythe",
+  "count": 1,
+  "pattern": [
+   "XXX",
+   "  Y",
+   "  Y",
+   "  Y"
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "#forge:stone"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:scythe"
+ },
+ {
+  "result": "variedcommodities:iron_scythe",
+  "count": 1,
+  "pattern": [
+   "XXX",
+   "  Y",
+   "  Y",
+   "  Y"
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "minecraft:iron_ingot"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:scythe"
+ },
+ {
+  "result": "variedcommodities:golden_scythe",
+  "count": 1,
+  "pattern": [
+   "XXX",
+   "  Y",
+   "  Y",
+   "  Y"
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "minecraft:gold_ingot"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:scythe"
+ },
+ {
+  "result": "variedcommodities:diamond_scythe",
+  "count": 1,
+  "pattern": [
+   "XXX",
+   "  Y",
+   "  Y",
+   "  Y"
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "minecraft:diamond"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:scythe"
+ },
+ {
+  "result": "variedcommodities:bronze_scythe",
+  "count": 1,
+  "pattern": [
+   "XXX",
+   "  Y",
+   "  Y",
+   "  Y"
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "variedcommodities:ingot_bronze"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:scythe"
+ },
+ {
+  "result": "variedcommodities:emerald_scythe",
+  "count": 1,
+  "pattern": [
+   "XXX",
+   "  Y",
+   "  Y",
+   "  Y"
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "minecraft:emerald"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:scythe"
+ },
+ {
+  "result": "variedcommodities:mithril_scythe",
+  "count": 1,
+  "pattern": [
+   "XXX",
+   "  Y",
+   "  Y",
+   "  Y"
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "variedcommodities:ingot_mithril"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:scythe"
+ },
+ {
+  "result": "variedcommodities:frost_scythe",
+  "count": 1,
+  "pattern": [
+   "XXX",
+   "  Y",
+   "  Y",
+   "  Y"
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "minecraft:packed_ice"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:scythe"
+ },
+ {
+  "result": "variedcommodities:demonic_scythe",
+  "count": 1,
+  "pattern": [
+   "XXX",
+   "  Y",
+   "  Y",
+   "  Y"
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "variedcommodities:ingot_demonic"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:scythe"
+ },
+ {
+  "result": "variedcommodities:wooden_warhammer",
+  "count": 1,
+  "pattern": [
+   "XXX",
+   " Y ",
+   " Y ",
+   " Y "
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "#minecraft:planks"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:warhammer"
+ },
+ {
+  "result": "variedcommodities:stone_warhammer",
+  "count": 1,
+  "pattern": [
+   "XXX",
+   " Y ",
+   " Y ",
+   " Y "
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "#forge:stone"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:warhammer"
+ },
+ {
+  "result": "variedcommodities:iron_warhammer",
+  "count": 1,
+  "pattern": [
+   "XXX",
+   " Y ",
+   " Y ",
+   " Y "
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "minecraft:iron_ingot"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:warhammer"
+ },
+ {
+  "result": "variedcommodities:golden_warhammer",
+  "count": 1,
+  "pattern": [
+   "XXX",
+   " Y ",
+   " Y ",
+   " Y "
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "minecraft:gold_ingot"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:warhammer"
+ },
+ {
+  "result": "variedcommodities:diamond_warhammer",
+  "count": 1,
+  "pattern": [
+   "XXX",
+   " Y ",
+   " Y ",
+   " Y "
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "minecraft:diamond"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:warhammer"
+ },
+ {
+  "result": "variedcommodities:bronze_warhammer",
+  "count": 1,
+  "pattern": [
+   "XXX",
+   " Y ",
+   " Y ",
+   " Y "
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "variedcommodities:ingot_bronze"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:warhammer"
+ },
+ {
+  "result": "variedcommodities:emerald_warhammer",
+  "count": 1,
+  "pattern": [
+   "XXX",
+   " Y ",
+   " Y ",
+   " Y "
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "minecraft:emerald"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:warhammer"
+ },
+ {
+  "result": "variedcommodities:mithril_warhammer",
+  "count": 1,
+  "pattern": [
+   "XXX",
+   " Y ",
+   " Y ",
+   " Y "
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "variedcommodities:ingot_mithril"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:warhammer"
+ },
+ {
+  "result": "variedcommodities:frost_warhammer",
+  "count": 1,
+  "pattern": [
+   "XXX",
+   " Y ",
+   " Y ",
+   " Y "
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "minecraft:packed_ice"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:warhammer"
+ },
+ {
+  "result": "variedcommodities:demonic_warhammer",
+  "count": 1,
+  "pattern": [
+   "XXX",
+   " Y ",
+   " Y ",
+   " Y "
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "variedcommodities:ingot_demonic"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:warhammer"
+ },
+ {
+  "result": "variedcommodities:wooden_spear",
+  "count": 1,
+  "pattern": [
+   "X",
+   "Y",
+   "Y",
+   "Y"
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "#minecraft:planks"
+  },
+  "width": 1,
+  "height": 4,
+  "group": "variedcommodities:spear"
+ },
+ {
+  "result": "variedcommodities:stone_spear",
+  "count": 1,
+  "pattern": [
+   "X",
+   "Y",
+   "Y",
+   "Y"
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "#forge:stone"
+  },
+  "width": 1,
+  "height": 4,
+  "group": "variedcommodities:spear"
+ },
+ {
+  "result": "variedcommodities:iron_spear",
+  "count": 1,
+  "pattern": [
+   "X",
+   "Y",
+   "Y",
+   "Y"
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "minecraft:iron_ingot"
+  },
+  "width": 1,
+  "height": 4,
+  "group": "variedcommodities:spear"
+ },
+ {
+  "result": "variedcommodities:golden_spear",
+  "count": 1,
+  "pattern": [
+   "X",
+   "Y",
+   "Y",
+   "Y"
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "minecraft:gold_ingot"
+  },
+  "width": 1,
+  "height": 4,
+  "group": "variedcommodities:spear"
+ },
+ {
+  "result": "variedcommodities:diamond_spear",
+  "count": 1,
+  "pattern": [
+   "X",
+   "Y",
+   "Y",
+   "Y"
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "minecraft:diamond"
+  },
+  "width": 1,
+  "height": 4,
+  "group": "variedcommodities:spear"
+ },
+ {
+  "result": "variedcommodities:bronze_spear",
+  "count": 1,
+  "pattern": [
+   "X",
+   "Y",
+   "Y",
+   "Y"
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "variedcommodities:ingot_bronze"
+  },
+  "width": 1,
+  "height": 4,
+  "group": "variedcommodities:spear"
+ },
+ {
+  "result": "variedcommodities:emerald_spear",
+  "count": 1,
+  "pattern": [
+   "X",
+   "Y",
+   "Y",
+   "Y"
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "minecraft:emerald"
+  },
+  "width": 1,
+  "height": 4,
+  "group": "variedcommodities:spear"
+ },
+ {
+  "result": "variedcommodities:mithril_spear",
+  "count": 1,
+  "pattern": [
+   "X",
+   "Y",
+   "Y",
+   "Y"
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "variedcommodities:ingot_mithril"
+  },
+  "width": 1,
+  "height": 4,
+  "group": "variedcommodities:spear"
+ },
+ {
+  "result": "variedcommodities:frost_spear",
+  "count": 1,
+  "pattern": [
+   "X",
+   "Y",
+   "Y",
+   "Y"
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "minecraft:packed_ice"
+  },
+  "width": 1,
+  "height": 4,
+  "group": "variedcommodities:spear"
+ },
+ {
+  "result": "variedcommodities:demonic_spear",
+  "count": 1,
+  "pattern": [
+   "X",
+   "Y",
+   "Y",
+   "Y"
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "variedcommodities:ingot_demonic"
+  },
+  "width": 1,
+  "height": 4,
+  "group": "variedcommodities:spear"
+ },
+ {
+  "result": "variedcommodities:wooden_broadsword",
+  "count": 1,
+  "pattern": [
+   "X",
+   "X",
+   "X",
+   "Y"
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "#minecraft:planks"
+  },
+  "width": 1,
+  "height": 4,
+  "group": "variedcommodities:broadsword"
+ },
+ {
+  "result": "variedcommodities:stone_broadsword",
+  "count": 1,
+  "pattern": [
+   "X",
+   "X",
+   "X",
+   "Y"
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "#forge:stone"
+  },
+  "width": 1,
+  "height": 4,
+  "group": "variedcommodities:broadsword"
+ },
+ {
+  "result": "variedcommodities:iron_broadsword",
+  "count": 1,
+  "pattern": [
+   "X",
+   "X",
+   "X",
+   "Y"
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "minecraft:iron_ingot"
+  },
+  "width": 1,
+  "height": 4,
+  "group": "variedcommodities:broadsword"
+ },
+ {
+  "result": "variedcommodities:golden_broadsword",
+  "count": 1,
+  "pattern": [
+   "X",
+   "X",
+   "X",
+   "Y"
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "minecraft:gold_ingot"
+  },
+  "width": 1,
+  "height": 4,
+  "group": "variedcommodities:broadsword"
+ },
+ {
+  "result": "variedcommodities:diamond_broadsword",
+  "count": 1,
+  "pattern": [
+   "X",
+   "X",
+   "X",
+   "Y"
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "minecraft:diamond"
+  },
+  "width": 1,
+  "height": 4,
+  "group": "variedcommodities:broadsword"
+ },
+ {
+  "result": "variedcommodities:bronze_broadsword",
+  "count": 1,
+  "pattern": [
+   "X",
+   "X",
+   "X",
+   "Y"
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "variedcommodities:ingot_bronze"
+  },
+  "width": 1,
+  "height": 4,
+  "group": "variedcommodities:broadsword"
+ },
+ {
+  "result": "variedcommodities:emerald_broadsword",
+  "count": 1,
+  "pattern": [
+   "X",
+   "X",
+   "X",
+   "Y"
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "minecraft:emerald"
+  },
+  "width": 1,
+  "height": 4,
+  "group": "variedcommodities:broadsword"
+ },
+ {
+  "result": "variedcommodities:mithril_broadsword",
+  "count": 1,
+  "pattern": [
+   "X",
+   "X",
+   "X",
+   "Y"
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "variedcommodities:ingot_mithril"
+  },
+  "width": 1,
+  "height": 4,
+  "group": "variedcommodities:broadsword"
+ },
+ {
+  "result": "variedcommodities:frost_broadsword",
+  "count": 1,
+  "pattern": [
+   "X",
+   "X",
+   "X",
+   "Y"
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "minecraft:packed_ice"
+  },
+  "width": 1,
+  "height": 4,
+  "group": "variedcommodities:broadsword"
+ },
+ {
+  "result": "variedcommodities:demonic_broadsword",
+  "count": 1,
+  "pattern": [
+   "X",
+   "X",
+   "X",
+   "Y"
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "variedcommodities:ingot_demonic"
+  },
+  "width": 1,
+  "height": 4,
+  "group": "variedcommodities:broadsword"
+ },
+ {
+  "result": "variedcommodities:wooden_dagger",
+  "count": 1,
+  "pattern": [
+   " X",
+   "Y "
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "#minecraft:planks"
+  },
+  "width": 2,
+  "height": 2,
+  "group": "variedcommodities:dagger"
+ },
+ {
+  "result": "variedcommodities:stone_dagger",
+  "count": 1,
+  "pattern": [
+   " X",
+   "Y "
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "#forge:stone"
+  },
+  "width": 2,
+  "height": 2,
+  "group": "variedcommodities:dagger"
+ },
+ {
+  "result": "variedcommodities:iron_dagger",
+  "count": 1,
+  "pattern": [
+   " X",
+   "Y "
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "minecraft:iron_ingot"
+  },
+  "width": 2,
+  "height": 2,
+  "group": "variedcommodities:dagger"
+ },
+ {
+  "result": "variedcommodities:golden_dagger",
+  "count": 1,
+  "pattern": [
+   " X",
+   "Y "
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "minecraft:gold_ingot"
+  },
+  "width": 2,
+  "height": 2,
+  "group": "variedcommodities:dagger"
+ },
+ {
+  "result": "variedcommodities:diamond_dagger",
+  "count": 1,
+  "pattern": [
+   " X",
+   "Y "
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "minecraft:diamond"
+  },
+  "width": 2,
+  "height": 2,
+  "group": "variedcommodities:dagger"
+ },
+ {
+  "result": "variedcommodities:bronze_dagger",
+  "count": 1,
+  "pattern": [
+   " X",
+   "Y "
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "variedcommodities:ingot_bronze"
+  },
+  "width": 2,
+  "height": 2,
+  "group": "variedcommodities:dagger"
+ },
+ {
+  "result": "variedcommodities:emerald_dagger",
+  "count": 1,
+  "pattern": [
+   " X",
+   "Y "
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "minecraft:emerald"
+  },
+  "width": 2,
+  "height": 2,
+  "group": "variedcommodities:dagger"
+ },
+ {
+  "result": "variedcommodities:mithril_dagger",
+  "count": 1,
+  "pattern": [
+   " X",
+   "Y "
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "variedcommodities:ingot_mithril"
+  },
+  "width": 2,
+  "height": 2,
+  "group": "variedcommodities:dagger"
+ },
+ {
+  "result": "variedcommodities:frost_dagger",
+  "count": 1,
+  "pattern": [
+   " X",
+   "Y "
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "minecraft:packed_ice"
+  },
+  "width": 2,
+  "height": 2,
+  "group": "variedcommodities:dagger"
+ },
+ {
+  "result": "variedcommodities:demonic_dagger",
+  "count": 1,
+  "pattern": [
+   " X",
+   "Y "
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "variedcommodities:ingot_demonic"
+  },
+  "width": 2,
+  "height": 2,
+  "group": "variedcommodities:dagger"
+ },
+ {
+  "result": "variedcommodities:bronze_sword",
+  "count": 1,
+  "pattern": [
+   "X",
+   "X",
+   "Y"
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "variedcommodities:ingot_bronze"
+  },
+  "width": 1,
+  "height": 3,
+  "group": "variedcommodities:sword"
+ },
+ {
+  "result": "variedcommodities:emerald_sword",
+  "count": 1,
+  "pattern": [
+   "X",
+   "X",
+   "Y"
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "minecraft:emerald"
+  },
+  "width": 1,
+  "height": 3,
+  "group": "variedcommodities:sword"
+ },
+ {
+  "result": "variedcommodities:mithril_sword",
+  "count": 1,
+  "pattern": [
+   "X",
+   "X",
+   "Y"
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "variedcommodities:ingot_mithril"
+  },
+  "width": 1,
+  "height": 3,
+  "group": "variedcommodities:sword"
+ },
+ {
+  "result": "variedcommodities:frost_sword",
+  "count": 1,
+  "pattern": [
+   "X",
+   "X",
+   "Y"
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "minecraft:packed_ice"
+  },
+  "width": 1,
+  "height": 3,
+  "group": "variedcommodities:sword"
+ },
+ {
+  "result": "variedcommodities:demonic_sword",
+  "count": 1,
+  "pattern": [
+   "X",
+   "X",
+   "Y"
+  ],
+  "key": {
+   "Y": "minecraft:stick",
+   "X": "variedcommodities:ingot_demonic"
+  },
+  "width": 1,
+  "height": 3,
+  "group": "variedcommodities:sword"
+ },
+ {
+  "result": "variedcommodities:wooden_shield_round",
+  "count": 1,
+  "pattern": [
+   " XX ",
+   "XXXX",
+   "XXXX",
+   " XX "
+  ],
+  "key": {
+   "X": "#minecraft:planks"
+  },
+  "width": 4,
+  "height": 4,
+  "group": "variedcommodities:shield_round"
+ },
+ {
+  "result": "variedcommodities:stone_shield_round",
+  "count": 1,
+  "pattern": [
+   " XX ",
+   "XXXX",
+   "XXXX",
+   " XX "
+  ],
+  "key": {
+   "X": "#forge:stone"
+  },
+  "width": 4,
+  "height": 4,
+  "group": "variedcommodities:shield_round"
+ },
+ {
+  "result": "variedcommodities:iron_shield_round",
+  "count": 1,
+  "pattern": [
+   " XX ",
+   "XXXX",
+   "XXXX",
+   " XX "
+  ],
+  "key": {
+   "X": "minecraft:iron_ingot"
+  },
+  "width": 4,
+  "height": 4,
+  "group": "variedcommodities:shield_round"
+ },
+ {
+  "result": "variedcommodities:golden_shield_round",
+  "count": 1,
+  "pattern": [
+   " XX ",
+   "XXXX",
+   "XXXX",
+   " XX "
+  ],
+  "key": {
+   "X": "minecraft:gold_ingot"
+  },
+  "width": 4,
+  "height": 4,
+  "group": "variedcommodities:shield_round"
+ },
+ {
+  "result": "variedcommodities:diamond_shield_round",
+  "count": 1,
+  "pattern": [
+   " XX ",
+   "XXXX",
+   "XXXX",
+   " XX "
+  ],
+  "key": {
+   "X": "minecraft:diamond"
+  },
+  "width": 4,
+  "height": 4,
+  "group": "variedcommodities:shield_round"
+ },
+ {
+  "result": "variedcommodities:bronze_shield_round",
+  "count": 1,
+  "pattern": [
+   " XX ",
+   "XXXX",
+   "XXXX",
+   " XX "
+  ],
+  "key": {
+   "X": "variedcommodities:ingot_bronze"
+  },
+  "width": 4,
+  "height": 4,
+  "group": "variedcommodities:shield_round"
+ },
+ {
+  "result": "variedcommodities:emerald_shield_round",
+  "count": 1,
+  "pattern": [
+   " XX ",
+   "XXXX",
+   "XXXX",
+   " XX "
+  ],
+  "key": {
+   "X": "minecraft:emerald"
+  },
+  "width": 4,
+  "height": 4,
+  "group": "variedcommodities:shield_round"
+ },
+ {
+  "result": "variedcommodities:mithril_shield_round",
+  "count": 1,
+  "pattern": [
+   " XX ",
+   "XXXX",
+   "XXXX",
+   " XX "
+  ],
+  "key": {
+   "X": "variedcommodities:ingot_mithril"
+  },
+  "width": 4,
+  "height": 4,
+  "group": "variedcommodities:shield_round"
+ },
+ {
+  "result": "variedcommodities:demonic_shield_round",
+  "count": 1,
+  "pattern": [
+   " XX ",
+   "XXXX",
+   "XXXX",
+   " XX "
+  ],
+  "key": {
+   "X": "variedcommodities:ingot_demonic"
+  },
+  "width": 4,
+  "height": 4,
+  "group": "variedcommodities:shield_round"
+ },
+ {
+  "result": "variedcommodities:wooden_shield",
+  "count": 1,
+  "pattern": [
+   "X  X",
+   "XXXX",
+   "XXXX",
+   " XX "
+  ],
+  "key": {
+   "X": "#minecraft:planks"
+  },
+  "width": 4,
+  "height": 4,
+  "group": "variedcommodities:shield"
+ },
+ {
+  "result": "variedcommodities:stone_shield",
+  "count": 1,
+  "pattern": [
+   "X  X",
+   "XXXX",
+   "XXXX",
+   " XX "
+  ],
+  "key": {
+   "X": "#forge:stone"
+  },
+  "width": 4,
+  "height": 4,
+  "group": "variedcommodities:shield"
+ },
+ {
+  "result": "variedcommodities:iron_shield",
+  "count": 1,
+  "pattern": [
+   "X  X",
+   "XXXX",
+   "XXXX",
+   " XX "
+  ],
+  "key": {
+   "X": "minecraft:iron_ingot"
+  },
+  "width": 4,
+  "height": 4,
+  "group": "variedcommodities:shield"
+ },
+ {
+  "result": "variedcommodities:golden_shield",
+  "count": 1,
+  "pattern": [
+   "X  X",
+   "XXXX",
+   "XXXX",
+   " XX "
+  ],
+  "key": {
+   "X": "minecraft:gold_ingot"
+  },
+  "width": 4,
+  "height": 4,
+  "group": "variedcommodities:shield"
+ },
+ {
+  "result": "variedcommodities:diamond_shield",
+  "count": 1,
+  "pattern": [
+   "X  X",
+   "XXXX",
+   "XXXX",
+   " XX "
+  ],
+  "key": {
+   "X": "minecraft:diamond"
+  },
+  "width": 4,
+  "height": 4,
+  "group": "variedcommodities:shield"
+ },
+ {
+  "result": "variedcommodities:bronze_shield",
+  "count": 1,
+  "pattern": [
+   "X  X",
+   "XXXX",
+   "XXXX",
+   " XX "
+  ],
+  "key": {
+   "X": "variedcommodities:ingot_bronze"
+  },
+  "width": 4,
+  "height": 4,
+  "group": "variedcommodities:shield"
+ },
+ {
+  "result": "variedcommodities:emerald_shield",
+  "count": 1,
+  "pattern": [
+   "X  X",
+   "XXXX",
+   "XXXX",
+   " XX "
+  ],
+  "key": {
+   "X": "minecraft:emerald"
+  },
+  "width": 4,
+  "height": 4,
+  "group": "variedcommodities:shield"
+ },
+ {
+  "result": "variedcommodities:frost_shield",
+  "count": 1,
+  "pattern": [
+   "X  X",
+   "XXXX",
+   "XXXX",
+   " XX "
+  ],
+  "key": {
+   "X": "minecraft:packed_ice"
+  },
+  "width": 4,
+  "height": 4,
+  "group": "variedcommodities:shield"
+ },
+ {
+  "result": "variedcommodities:chain_skirt",
+  "count": 1,
+  "pattern": [
+   " XX ",
+   "XXXX"
+  ],
+  "key": {
+   "X": "variedcommodities:ingot_bronze"
+  },
+  "width": 4,
+  "height": 2,
+  "group": "variedcommodities:skirt"
+ },
+ {
+  "result": "variedcommodities:leather_skirt",
+  "count": 1,
+  "pattern": [
+   " XX ",
+   "XXXX"
+  ],
+  "key": {
+   "X": "minecraft:leather"
+  },
+  "width": 4,
+  "height": 2,
+  "group": "variedcommodities:skirt"
+ },
+ {
+  "result": "variedcommodities:iron_skirt",
+  "count": 1,
+  "pattern": [
+   " XX ",
+   "XXXX"
+  ],
+  "key": {
+   "X": "minecraft:iron_ingot"
+  },
+  "width": 4,
+  "height": 2,
+  "group": "variedcommodities:skirt"
+ },
+ {
+  "result": "variedcommodities:golden_skirt",
+  "count": 1,
+  "pattern": [
+   " XX ",
+   "XXXX"
+  ],
+  "key": {
+   "X": "minecraft:gold_ingot"
+  },
+  "width": 4,
+  "height": 2,
+  "group": "variedcommodities:skirt"
+ },
+ {
+  "result": "variedcommodities:diamond_skirt",
+  "count": 1,
+  "pattern": [
+   " XX ",
+   "XXXX"
+  ],
+  "key": {
+   "X": "minecraft:diamond"
+  },
+  "width": 4,
+  "height": 2,
+  "group": "variedcommodities:skirt"
+ },
+ {
+  "result": "variedcommodities:bronze_skirt",
+  "count": 1,
+  "pattern": [
+   " XX ",
+   "XXXX"
+  ],
+  "key": {
+   "X": "variedcommodities:ingot_bronze"
+  },
+  "width": 4,
+  "height": 2,
+  "group": "variedcommodities:skirt"
+ },
+ {
+  "result": "variedcommodities:emerald_skirt",
+  "count": 1,
+  "pattern": [
+   " XX ",
+   "XXXX"
+  ],
+  "key": {
+   "X": "minecraft:emerald"
+  },
+  "width": 4,
+  "height": 2,
+  "group": "variedcommodities:skirt"
+ },
+ {
+  "result": "variedcommodities:mithril_skirt",
+  "count": 1,
+  "pattern": [
+   " XX ",
+   "XXXX"
+  ],
+  "key": {
+   "X": "variedcommodities:ingot_mithril"
+  },
+  "width": 4,
+  "height": 2,
+  "group": "variedcommodities:skirt"
+ },
+ {
+  "result": "variedcommodities:demonic_skirt",
+  "count": 1,
+  "pattern": [
+   " XX ",
+   "XXXX"
+  ],
+  "key": {
+   "X": "variedcommodities:ingot_demonic"
+  },
+  "width": 4,
+  "height": 2,
+  "group": "variedcommodities:skirt"
+ },
+ {
+  "result": "variedcommodities:mithril_head",
+  "count": 1,
+  "pattern": [
+   "XXX",
+   "X X"
+  ],
+  "key": {
+   "X": "variedcommodities:ingot_mithril"
+  },
+  "width": 3,
+  "height": 2,
+  "group": "variedcommodities:head"
+ },
+ {
+  "result": "variedcommodities:demonic_head",
+  "count": 1,
+  "pattern": [
+   "XXX",
+   "X X"
+  ],
+  "key": {
+   "X": "variedcommodities:ingot_demonic"
+  },
+  "width": 3,
+  "height": 2,
+  "group": "variedcommodities:head"
+ },
+ {
+  "result": "variedcommodities:mithril_chest",
+  "count": 1,
+  "pattern": [
+   "X X",
+   "XXX",
+   "XXX"
+  ],
+  "key": {
+   "X": "variedcommodities:ingot_mithril"
+  },
+  "width": 3,
+  "height": 3,
+  "group": "variedcommodities:chest"
+ },
+ {
+  "result": "variedcommodities:demonic_chest",
+  "count": 1,
+  "pattern": [
+   "X X",
+   "XXX",
+   "XXX"
+  ],
+  "key": {
+   "X": "variedcommodities:ingot_demonic"
+  },
+  "width": 3,
+  "height": 3,
+  "group": "variedcommodities:chest"
+ },
+ {
+  "result": "variedcommodities:mithril_legs",
+  "count": 1,
+  "pattern": [
+   "XXX",
+   "X X",
+   "X X"
+  ],
+  "key": {
+   "X": "variedcommodities:ingot_mithril"
+  },
+  "width": 3,
+  "height": 3,
+  "group": "variedcommodities:legs"
+ },
+ {
+  "result": "variedcommodities:demonic_legs",
+  "count": 1,
+  "pattern": [
+   "XXX",
+   "X X",
+   "X X"
+  ],
+  "key": {
+   "X": "variedcommodities:ingot_demonic"
+  },
+  "width": 3,
+  "height": 3,
+  "group": "variedcommodities:legs"
+ },
+ {
+  "result": "variedcommodities:full_emerald_legs",
+  "count": 1,
+  "pattern": [
+   "XXX",
+   "X X",
+   "X X"
+  ],
+  "key": {
+   "X": "minecraft:emerald"
+  },
+  "width": 3,
+  "height": 3,
+  "group": "variedcommodities:legs"
+ },
+ {
+  "result": "variedcommodities:full_bronze_legs",
+  "count": 1,
+  "pattern": [
+   "XXX",
+   "X X",
+   "X X"
+  ],
+  "key": {
+   "X": "variedcommodities:ingot_bronze"
+  },
+  "width": 3,
+  "height": 3,
+  "group": "variedcommodities:legs"
+ },
+ {
+  "result": "variedcommodities:mithril_boots",
+  "count": 1,
+  "pattern": [
+   "X X",
+   "X X"
+  ],
+  "key": {
+   "X": "variedcommodities:ingot_mithril"
+  },
+  "width": 3,
+  "height": 2,
+  "group": "variedcommodities:boots"
+ },
+ {
+  "result": "variedcommodities:demonic_boots",
+  "count": 1,
+  "pattern": [
+   "X X",
+   "X X"
+  ],
+  "key": {
+   "X": "variedcommodities:ingot_demonic"
+  },
+  "width": 3,
+  "height": 2,
+  "group": "variedcommodities:boots"
+ },
+ {
+  "result": "variedcommodities:full_emerald_boots",
+  "count": 1,
+  "pattern": [
+   "X X",
+   "X X"
+  ],
+  "key": {
+   "X": "minecraft:emerald"
+  },
+  "width": 3,
+  "height": 2,
+  "group": "variedcommodities:boots"
+ },
+ {
+  "result": "variedcommodities:full_bronze_boots",
+  "count": 1,
+  "pattern": [
+   "X X",
+   "X X"
+  ],
+  "key": {
+   "X": "variedcommodities:ingot_bronze"
+  },
+  "width": 3,
+  "height": 2,
+  "group": "variedcommodities:boots"
+ },
+ {
+  "result": "variedcommodities:full_leather_head",
+  "count": 1,
+  "pattern": [
+   "XXXX",
+   "X  X"
+  ],
+  "key": {
+   "X": "minecraft:leather"
+  },
+  "width": 4,
+  "height": 2,
+  "group": "variedcommodities:full_head"
+ },
+ {
+  "result": "variedcommodities:full_iron_head",
+  "count": 1,
+  "pattern": [
+   "XXXX",
+   "X  X"
+  ],
+  "key": {
+   "X": "minecraft:iron_ingot"
+  },
+  "width": 4,
+  "height": 2,
+  "group": "variedcommodities:full_head"
+ },
+ {
+  "result": "variedcommodities:full_golden_head",
+  "count": 1,
+  "pattern": [
+   "XXXX",
+   "X  X"
+  ],
+  "key": {
+   "X": "minecraft:gold_ingot"
+  },
+  "width": 4,
+  "height": 2,
+  "group": "variedcommodities:full_head"
+ },
+ {
+  "result": "variedcommodities:full_diamond_head",
+  "count": 1,
+  "pattern": [
+   "XXXX",
+   "X  X"
+  ],
+  "key": {
+   "X": "minecraft:diamond"
+  },
+  "width": 4,
+  "height": 2,
+  "group": "variedcommodities:full_head"
+ },
+ {
+  "result": "variedcommodities:full_bronze_head",
+  "count": 1,
+  "pattern": [
+   "XXXX",
+   "X  X"
+  ],
+  "key": {
+   "X": "variedcommodities:ingot_bronze"
+  },
+  "width": 4,
+  "height": 2,
+  "group": "variedcommodities:full_head"
+ },
+ {
+  "result": "variedcommodities:full_emerald_head",
+  "count": 1,
+  "pattern": [
+   "XXXX",
+   "X  X"
+  ],
+  "key": {
+   "X": "minecraft:emerald"
+  },
+  "width": 4,
+  "height": 2,
+  "group": "variedcommodities:full_head"
+ },
+ {
+  "result": "variedcommodities:full_wooden_head",
+  "count": 1,
+  "pattern": [
+   "XXXX",
+   "X  X"
+  ],
+  "key": {
+   "X": "#minecraft:logs"
+  },
+  "width": 4,
+  "height": 2,
+  "group": "variedcommodities:full_head"
+ },
+ {
+  "result": "variedcommodities:full_leather_chest",
+  "count": 1,
+  "pattern": [
+   "X X",
+   "XXX",
+   "XXX",
+   "XXX"
+  ],
+  "key": {
+   "X": "minecraft:leather"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:full_chest"
+ },
+ {
+  "result": "variedcommodities:full_iron_chest",
+  "count": 1,
+  "pattern": [
+   "X X",
+   "XXX",
+   "XXX",
+   "XXX"
+  ],
+  "key": {
+   "X": "minecraft:iron_ingot"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:full_chest"
+ },
+ {
+  "result": "variedcommodities:full_golden_chest",
+  "count": 1,
+  "pattern": [
+   "X X",
+   "XXX",
+   "XXX",
+   "XXX"
+  ],
+  "key": {
+   "X": "minecraft:gold_ingot"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:full_chest"
+ },
+ {
+  "result": "variedcommodities:full_diamond_chest",
+  "count": 1,
+  "pattern": [
+   "X X",
+   "XXX",
+   "XXX",
+   "XXX"
+  ],
+  "key": {
+   "X": "minecraft:diamond"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:full_chest"
+ },
+ {
+  "result": "variedcommodities:full_bronze_chest",
+  "count": 1,
+  "pattern": [
+   "X X",
+   "XXX",
+   "XXX",
+   "XXX"
+  ],
+  "key": {
+   "X": "variedcommodities:ingot_bronze"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:full_chest"
+ },
+ {
+  "result": "variedcommodities:full_emerald_chest",
+  "count": 1,
+  "pattern": [
+   "X X",
+   "XXX",
+   "XXX",
+   "XXX"
+  ],
+  "key": {
+   "X": "minecraft:emerald"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:full_chest"
+ },
+ {
+  "result": "variedcommodities:full_wooden_chest",
+  "count": 1,
+  "pattern": [
+   "X X",
+   "XXX",
+   "XXX",
+   "XXX"
+  ],
+  "key": {
+   "X": "#minecraft:logs"
+  },
+  "width": 3,
+  "height": 4,
+  "group": "variedcommodities:full_chest"
+ }
+]

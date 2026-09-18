@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "carpentry_bench"
+    }
+  ],
+  "category": "building",
+  "pattern": [
+    "XYX",
+    "Z Z",
+    "Z Z"
+  ],
+  "key": {
+    "X": {
+      "tag": "minecraft:planks"
+    },
+    "Y": {
+      "item": "minecraft:crafting_table"
+    },
+    "Z": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:carpentry_bench",
+    "count": 1
+  }
+}

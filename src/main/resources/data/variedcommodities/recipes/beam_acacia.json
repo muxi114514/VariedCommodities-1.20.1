@@ -1,0 +1,22 @@
+{
+  "type": "variedcommodities:carpentry",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "beam_acacia"
+    }
+  ],
+  "group": "variedcommodities:beam",
+  "pattern": [
+    "XXXX"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:acacia_planks"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:beam_acacia",
+    "count": 2
+  }
+}

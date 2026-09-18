@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "rotation=0": {
+      "model": "variedcommodities:block/crate_netherite"
+    },
+    "rotation=1": {
+      "model": "variedcommodities:block/crate_netherite",
+      "y": 90
+    },
+    "rotation=2": {
+      "model": "variedcommodities:block/crate_netherite",
+      "y": 180
+    },
+    "rotation=3": {
+      "model": "variedcommodities:block/crate_netherite",
+      "y": 270
+    }
+  }
+}

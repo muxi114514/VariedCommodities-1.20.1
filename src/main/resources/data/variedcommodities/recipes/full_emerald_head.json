@@ -1,0 +1,23 @@
+{
+  "type": "variedcommodities:carpentry",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "full_emerald_head"
+    }
+  ],
+  "group": "variedcommodities:full_head",
+  "pattern": [
+    "XXXX",
+    "X  X"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:emerald"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:full_emerald_head",
+    "count": 1
+  }
+}

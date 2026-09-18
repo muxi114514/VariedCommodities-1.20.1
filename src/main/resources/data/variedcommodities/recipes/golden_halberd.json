@@ -1,0 +1,28 @@
+{
+  "type": "variedcommodities:carpentry",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "golden_halberd"
+    }
+  ],
+  "group": "variedcommodities:halberd",
+  "pattern": [
+    "XYX",
+    "XY ",
+    " Y ",
+    " Y "
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:gold_ingot"
+    },
+    "Y": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:golden_halberd",
+    "count": 1
+  }
+}

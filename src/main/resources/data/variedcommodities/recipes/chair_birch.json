@@ -1,0 +1,25 @@
+{
+  "type": "variedcommodities:carpentry",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "chair_birch"
+    }
+  ],
+  "group": "variedcommodities:chair",
+  "pattern": [
+    "  X",
+    "  X",
+    "XXX",
+    "X X"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:birch_planks"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:chair_birch",
+    "count": 1
+  }
+}

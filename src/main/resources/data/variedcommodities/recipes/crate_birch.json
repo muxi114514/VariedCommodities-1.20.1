@@ -1,0 +1,25 @@
+{
+  "type": "variedcommodities:carpentry",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "crate_birch"
+    }
+  ],
+  "group": "variedcommodities:crate",
+  "pattern": [
+    "XXXX",
+    "X  X",
+    "X  X",
+    "XXXX"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:birch_planks"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:crate_birch",
+    "count": 1
+  }
+}

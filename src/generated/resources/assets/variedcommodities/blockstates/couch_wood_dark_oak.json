@@ -1,0 +1,64 @@
+{
+  "variants": {
+    "left=false,right=false,rotation=0": {
+      "model": "variedcommodities:block/couch_wood_dark_oak"
+    },
+    "left=false,right=false,rotation=1": {
+      "model": "variedcommodities:block/couch_wood_dark_oak",
+      "y": 90
+    },
+    "left=false,right=false,rotation=2": {
+      "model": "variedcommodities:block/couch_wood_dark_oak",
+      "y": 180
+    },
+    "left=false,right=false,rotation=3": {
+      "model": "variedcommodities:block/couch_wood_dark_oak",
+      "y": 270
+    },
+    "left=false,right=true,rotation=0": {
+      "model": "variedcommodities:block/couch_wood_dark_oak_right"
+    },
+    "left=false,right=true,rotation=1": {
+      "model": "variedcommodities:block/couch_wood_dark_oak_right",
+      "y": 90
+    },
+    "left=false,right=true,rotation=2": {
+      "model": "variedcommodities:block/couch_wood_dark_oak_right",
+      "y": 180
+    },
+    "left=false,right=true,rotation=3": {
+      "model": "variedcommodities:block/couch_wood_dark_oak_right",
+      "y": 270
+    },
+    "left=true,right=false,rotation=0": {
+      "model": "variedcommodities:block/couch_wood_dark_oak_left"
+    },
+    "left=true,right=false,rotation=1": {
+      "model": "variedcommodities:block/couch_wood_dark_oak_left",
+      "y": 90
+    },
+    "left=true,right=false,rotation=2": {
+      "model": "variedcommodities:block/couch_wood_dark_oak_left",
+      "y": 180
+    },
+    "left=true,right=false,rotation=3": {
+      "model": "variedcommodities:block/couch_wood_dark_oak_left",
+      "y": 270
+    },
+    "left=true,right=true,rotation=0": {
+      "model": "variedcommodities:block/couch_wood_dark_oak_middle"
+    },
+    "left=true,right=true,rotation=1": {
+      "model": "variedcommodities:block/couch_wood_dark_oak_middle",
+      "y": 90
+    },
+    "left=true,right=true,rotation=2": {
+      "model": "variedcommodities:block/couch_wood_dark_oak_middle",
+      "y": 180
+    },
+    "left=true,right=true,rotation=3": {
+      "model": "variedcommodities:block/couch_wood_dark_oak_middle",
+      "y": 270
+    }
+  }
+}

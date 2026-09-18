@@ -1,0 +1,7 @@
+{
+  "parent": "variedcommodities:block/shape/weapon_rack",
+  "textures": {
+    "particle": "minecraft:block/birch_planks",
+    "planks": "minecraft:block/birch_planks"
+  }
+}

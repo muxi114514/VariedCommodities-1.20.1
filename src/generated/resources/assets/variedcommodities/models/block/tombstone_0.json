@@ -1,0 +1,7 @@
+{
+  "parent": "variedcommodities:block/shape/tombstone_0",
+  "textures": {
+    "particle": "minecraft:block/stone",
+    "stone": "minecraft:block/stone"
+  }
+}

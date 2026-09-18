@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "mithril_dagger"
+    }
+  ],
+  "category": "equipment",
+  "group": "variedcommodities:dagger",
+  "pattern": [
+    " X",
+    "Y "
+  ],
+  "key": {
+    "X": {
+      "item": "variedcommodities:ingot_mithril"
+    },
+    "Y": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:mithril_dagger",
+    "count": 1
+  }
+}

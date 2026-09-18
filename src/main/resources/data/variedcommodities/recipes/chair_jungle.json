@@ -1,0 +1,25 @@
+{
+  "type": "variedcommodities:carpentry",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "chair_jungle"
+    }
+  ],
+  "group": "variedcommodities:chair",
+  "pattern": [
+    "  X",
+    "  X",
+    "XXX",
+    "X X"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:jungle_planks"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:chair_jungle",
+    "count": 1
+  }
+}

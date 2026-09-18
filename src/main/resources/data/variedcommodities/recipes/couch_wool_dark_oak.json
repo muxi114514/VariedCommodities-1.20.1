@@ -1,0 +1,28 @@
+{
+  "type": "variedcommodities:carpentry",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "couch_wool_dark_oak"
+    }
+  ],
+  "group": "variedcommodities:couch_wool",
+  "pattern": [
+    "  ZX",
+    "  ZX",
+    "ZZZX",
+    "XXXX"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:dark_oak_planks"
+    },
+    "Z": {
+      "tag": "minecraft:wool"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:couch_wool_dark_oak",
+    "count": 1
+  }
+}

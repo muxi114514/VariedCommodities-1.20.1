@@ -1,0 +1,25 @@
+{
+  "type": "variedcommodities:carpentry",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "chair_dark_oak"
+    }
+  ],
+  "group": "variedcommodities:chair",
+  "pattern": [
+    "  X",
+    "  X",
+    "XXX",
+    "X X"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:dark_oak_planks"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:chair_dark_oak",
+    "count": 1
+  }
+}

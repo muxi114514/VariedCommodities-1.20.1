@@ -1,0 +1,33 @@
+# Gradle / build output
+.gradle/
+build/
+out/
+run/
+logs/
+*.log
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.settings/
+.classpath
+.project
+bin/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local-only files (not part of the published repo)
+CLAUDE.md
+.claude/
+README.zh-CN.md
+reference/vc-1.12.2-src-noppes/
+reference/vc-1.12.2-assets/
+libs/*.jar
+
+# DataGen cache
+src/generated/resources/.cache/

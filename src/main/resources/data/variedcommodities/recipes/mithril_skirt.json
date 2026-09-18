@@ -1,0 +1,23 @@
+{
+  "type": "variedcommodities:carpentry",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "mithril_skirt"
+    }
+  ],
+  "group": "variedcommodities:skirt",
+  "pattern": [
+    " XX ",
+    "XXXX"
+  ],
+  "key": {
+    "X": {
+      "item": "variedcommodities:ingot_mithril"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:mithril_skirt",
+    "count": 1
+  }
+}

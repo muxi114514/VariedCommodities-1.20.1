@@ -1,0 +1,23 @@
+{
+  "type": "variedcommodities:carpentry",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "chain_skirt"
+    }
+  ],
+  "group": "variedcommodities:skirt",
+  "pattern": [
+    " XX ",
+    "XXXX"
+  ],
+  "key": {
+    "X": {
+      "item": "variedcommodities:ingot_bronze"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:chain_skirt",
+    "count": 1
+  }
+}

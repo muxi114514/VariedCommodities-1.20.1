@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "rotation=0": {
+      "model": "variedcommodities:block/sign_spruce"
+    },
+    "rotation=1": {
+      "model": "variedcommodities:block/sign_spruce",
+      "y": 90
+    },
+    "rotation=2": {
+      "model": "variedcommodities:block/sign_spruce",
+      "y": 180
+    },
+    "rotation=3": {
+      "model": "variedcommodities:block/sign_spruce",
+      "y": 270
+    }
+  }
+}

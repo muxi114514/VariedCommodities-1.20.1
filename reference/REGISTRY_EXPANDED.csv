@@ -1,0 +1,520 @@
+name_1201,kind,base_1122,meta,axis,variant,lang_key_1201,display_en
+trading_block,block,trading_block,0,,,block.variedcommodities.trading_block,Trading Block
+carpentry_bench,block,carpentry_bench,0,BENCH2,bench,block.variedcommodities.carpentry_bench,Carpentry Bench
+carpentry_bench_anvil,block,carpentry_bench,1,BENCH2,anvil,block.minecraft.anvil,Anvil
+blood_block_0,block,blood_block,0,NUM3,0,block.variedcommodities.blood_block_0,Blood Block
+blood_block_1,block,blood_block,1,NUM3,1,block.variedcommodities.blood_block_1,Blood Block
+blood_block_2,block,blood_block,2,NUM3,2,block.variedcommodities.blood_block_2,Blood Block
+banner_wood,block,banner,0,MATERIAL,wood,block.variedcommodities.banner_wood,Wooden Banner
+banner_stone,block,banner,1,MATERIAL,stone,block.variedcommodities.banner_stone,Stone Banner
+banner_iron,block,banner,2,MATERIAL,iron,block.variedcommodities.banner_iron,Iron Banner
+banner_gold,block,banner,3,MATERIAL,gold,block.variedcommodities.banner_gold,Golden Banner
+banner_diamond,block,banner,4,MATERIAL,diamond,block.variedcommodities.banner_diamond,Diamond Banner
+wall_banner_wood,block,wall_banner,0,MATERIAL,wood,block.variedcommodities.wall_banner_wood,Wooden Wall Banner
+wall_banner_stone,block,wall_banner,1,MATERIAL,stone,block.variedcommodities.wall_banner_stone,Stone Wall Banner
+wall_banner_iron,block,wall_banner,2,MATERIAL,iron,block.variedcommodities.wall_banner_iron,Iron Wall Banner
+wall_banner_gold,block,wall_banner,3,MATERIAL,gold,block.variedcommodities.wall_banner_gold,Golden Wall Banner
+wall_banner_diamond,block,wall_banner,4,MATERIAL,diamond,block.variedcommodities.wall_banner_diamond,Diamond Wall Banner
+sign_oak,block,sign,0,WOOD,oak,block.variedcommodities.sign_oak,Oak Sign
+sign_spruce,block,sign,1,WOOD,spruce,block.variedcommodities.sign_spruce,Spruce Sign
+sign_birch,block,sign,2,WOOD,birch,block.variedcommodities.sign_birch,Birch Sign
+sign_jungle,block,sign,3,WOOD,jungle,block.variedcommodities.sign_jungle,Jungle Sign
+sign_acacia,block,sign,4,WOOD,acacia,block.variedcommodities.sign_acacia,Acacia Sign
+sign_dark_oak,block,sign,5,WOOD,dark_oak,block.variedcommodities.sign_dark_oak,Dark Oak Sign
+tall_lamp_wood,block,tall_lamp,0,MATERIAL,wood,block.variedcommodities.tall_lamp_wood,Wooden Tall Lamp
+tall_lamp_stone,block,tall_lamp,1,MATERIAL,stone,block.variedcommodities.tall_lamp_stone,Stone Tall Lamp
+tall_lamp_iron,block,tall_lamp,2,MATERIAL,iron,block.variedcommodities.tall_lamp_iron,Iron Tall Lamp
+tall_lamp_gold,block,tall_lamp,3,MATERIAL,gold,block.variedcommodities.tall_lamp_gold,Golden Tall Lamp
+tall_lamp_diamond,block,tall_lamp,4,MATERIAL,diamond,block.variedcommodities.tall_lamp_diamond,Diamond Tall Lamp
+candle,block,candle,0,,,block.variedcommodities.candle,Candle
+candle_unlit,block,candle_unlit,0,,,block.variedcommodities.candle_unlit,Candle
+lamp,block,lamp,0,,,block.variedcommodities.lamp,Lamp
+lamp_unlit,block,lamp_unlit,0,,,block.variedcommodities.lamp_unlit,Lamp
+campfire,block,campfire,0,,,block.variedcommodities.campfire,Campfire
+campfire_unlit,block,campfire_unlit,0,,,block.variedcommodities.campfire_unlit,Campfire
+chair_oak,block,chair,0,WOOD,oak,block.variedcommodities.chair_oak,Oak Chair
+chair_spruce,block,chair,1,WOOD,spruce,block.variedcommodities.chair_spruce,Spruce Chair
+chair_birch,block,chair,2,WOOD,birch,block.variedcommodities.chair_birch,Birch Chair
+chair_jungle,block,chair,3,WOOD,jungle,block.variedcommodities.chair_jungle,Jungle Chair
+chair_acacia,block,chair,4,WOOD,acacia,block.variedcommodities.chair_acacia,Acacia Chair
+chair_dark_oak,block,chair,5,WOOD,dark_oak,block.variedcommodities.chair_dark_oak,Dark Oak Chair
+couch_wool_oak,block,couch_wool,0,WOOD,oak,block.variedcommodities.couch_wool_oak,Oak Wool Couch
+couch_wool_spruce,block,couch_wool,1,WOOD,spruce,block.variedcommodities.couch_wool_spruce,Spruce Wool Couch
+couch_wool_birch,block,couch_wool,2,WOOD,birch,block.variedcommodities.couch_wool_birch,Birch Wool Couch
+couch_wool_jungle,block,couch_wool,3,WOOD,jungle,block.variedcommodities.couch_wool_jungle,Jungle Wool Couch
+couch_wool_acacia,block,couch_wool,4,WOOD,acacia,block.variedcommodities.couch_wool_acacia,Acacia Wool Couch
+couch_wool_dark_oak,block,couch_wool,5,WOOD,dark_oak,block.variedcommodities.couch_wool_dark_oak,Dark Oak Wool Couch
+couch_wood_oak,block,couch_wood,0,WOOD,oak,block.variedcommodities.couch_wood_oak,Oak Wooden Couch
+couch_wood_spruce,block,couch_wood,1,WOOD,spruce,block.variedcommodities.couch_wood_spruce,Spruce Wooden Couch
+couch_wood_birch,block,couch_wood,2,WOOD,birch,block.variedcommodities.couch_wood_birch,Birch Wooden Couch
+couch_wood_jungle,block,couch_wood,3,WOOD,jungle,block.variedcommodities.couch_wood_jungle,Jungle Wooden Couch
+couch_wood_acacia,block,couch_wood,4,WOOD,acacia,block.variedcommodities.couch_wood_acacia,Acacia Wooden Couch
+couch_wood_dark_oak,block,couch_wood,5,WOOD,dark_oak,block.variedcommodities.couch_wood_dark_oak,Dark Oak Wooden Couch
+crate_oak,block,crate,0,WOOD,oak,block.variedcommodities.crate_oak,Oak Crate
+crate_spruce,block,crate,1,WOOD,spruce,block.variedcommodities.crate_spruce,Spruce Crate
+crate_birch,block,crate,2,WOOD,birch,block.variedcommodities.crate_birch,Birch Crate
+crate_jungle,block,crate,3,WOOD,jungle,block.variedcommodities.crate_jungle,Jungle Crate
+crate_acacia,block,crate,4,WOOD,acacia,block.variedcommodities.crate_acacia,Acacia Crate
+crate_dark_oak,block,crate,5,WOOD,dark_oak,block.variedcommodities.crate_dark_oak,Dark Oak Crate
+barrel_oak,block,barrel,0,WOOD,oak,block.variedcommodities.barrel_oak,Oak Barrel
+barrel_spruce,block,barrel,1,WOOD,spruce,block.variedcommodities.barrel_spruce,Spruce Barrel
+barrel_birch,block,barrel,2,WOOD,birch,block.variedcommodities.barrel_birch,Birch Barrel
+barrel_jungle,block,barrel,3,WOOD,jungle,block.variedcommodities.barrel_jungle,Jungle Barrel
+barrel_acacia,block,barrel,4,WOOD,acacia,block.variedcommodities.barrel_acacia,Acacia Barrel
+barrel_dark_oak,block,barrel,5,WOOD,dark_oak,block.variedcommodities.barrel_dark_oak,Dark Oak Barrel
+weapon_rack_oak,block,weapon_rack,0,WOOD,oak,block.variedcommodities.weapon_rack_oak,Oak Weapon Rack
+weapon_rack_spruce,block,weapon_rack,1,WOOD,spruce,block.variedcommodities.weapon_rack_spruce,Spruce Weapon Rack
+weapon_rack_birch,block,weapon_rack,2,WOOD,birch,block.variedcommodities.weapon_rack_birch,Birch Weapon Rack
+weapon_rack_jungle,block,weapon_rack,3,WOOD,jungle,block.variedcommodities.weapon_rack_jungle,Jungle Weapon Rack
+weapon_rack_acacia,block,weapon_rack,4,WOOD,acacia,block.variedcommodities.weapon_rack_acacia,Acacia Weapon Rack
+weapon_rack_dark_oak,block,weapon_rack,5,WOOD,dark_oak,block.variedcommodities.weapon_rack_dark_oak,Dark Oak Weapon Rack
+pedestal_wood,block,pedestal,0,MATERIAL,wood,block.variedcommodities.pedestal_wood,Wooden Pedestal
+pedestal_stone,block,pedestal,1,MATERIAL,stone,block.variedcommodities.pedestal_stone,Stone Pedestal
+pedestal_iron,block,pedestal,2,MATERIAL,iron,block.variedcommodities.pedestal_iron,Iron Pedestal
+pedestal_gold,block,pedestal,3,MATERIAL,gold,block.variedcommodities.pedestal_gold,Golden Pedestal
+pedestal_diamond,block,pedestal,4,MATERIAL,diamond,block.variedcommodities.pedestal_diamond,Diamond Pedestal
+crystal_block_black,block,crystal_block,0,COLOR,black,block.variedcommodities.crystal_block_black,Black Crystal
+crystal_block_red,block,crystal_block,1,COLOR,red,block.variedcommodities.crystal_block_red,Red Crystal
+crystal_block_green,block,crystal_block,2,COLOR,green,block.variedcommodities.crystal_block_green,Green Crystal
+crystal_block_brown,block,crystal_block,3,COLOR,brown,block.variedcommodities.crystal_block_brown,Brown Crystal
+crystal_block_blue,block,crystal_block,4,COLOR,blue,block.variedcommodities.crystal_block_blue,Blue Crystal
+crystal_block_purple,block,crystal_block,5,COLOR,purple,block.variedcommodities.crystal_block_purple,Purple Crystal
+crystal_block_cyan,block,crystal_block,6,COLOR,cyan,block.variedcommodities.crystal_block_cyan,Cyan Crystal
+crystal_block_light_gray,block,crystal_block,7,COLOR,light_gray,block.variedcommodities.crystal_block_light_gray,Light Gray Crystal
+crystal_block_gray,block,crystal_block,8,COLOR,gray,block.variedcommodities.crystal_block_gray,Gray Crystal
+crystal_block_pink,block,crystal_block,9,COLOR,pink,block.variedcommodities.crystal_block_pink,Pink Crystal
+crystal_block_lime,block,crystal_block,10,COLOR,lime,block.variedcommodities.crystal_block_lime,Lime Crystal
+crystal_block_yellow,block,crystal_block,11,COLOR,yellow,block.variedcommodities.crystal_block_yellow,Yellow Crystal
+crystal_block_light_blue,block,crystal_block,12,COLOR,light_blue,block.variedcommodities.crystal_block_light_blue,Light Blue Crystal
+crystal_block_magenta,block,crystal_block,13,COLOR,magenta,block.variedcommodities.crystal_block_magenta,Magenta Crystal
+crystal_block_orange,block,crystal_block,14,COLOR,orange,block.variedcommodities.crystal_block_orange,Orange Crystal
+crystal_block_white,block,crystal_block,15,COLOR,white,block.variedcommodities.crystal_block_white,White Crystal
+placeholder_0,block,placeholder,0,NUM16,0,block.variedcommodities.placeholder_0,Placeholder
+placeholder_1,block,placeholder,1,NUM16,1,block.variedcommodities.placeholder_1,Placeholder
+placeholder_2,block,placeholder,2,NUM16,2,block.variedcommodities.placeholder_2,Placeholder
+placeholder_3,block,placeholder,3,NUM16,3,block.variedcommodities.placeholder_3,Placeholder
+placeholder_4,block,placeholder,4,NUM16,4,block.variedcommodities.placeholder_4,Placeholder
+placeholder_5,block,placeholder,5,NUM16,5,block.variedcommodities.placeholder_5,Placeholder
+placeholder_6,block,placeholder,6,NUM16,6,block.variedcommodities.placeholder_6,Placeholder
+placeholder_7,block,placeholder,7,NUM16,7,block.variedcommodities.placeholder_7,Placeholder
+placeholder_8,block,placeholder,8,NUM16,8,block.variedcommodities.placeholder_8,Placeholder
+placeholder_9,block,placeholder,9,NUM16,9,block.variedcommodities.placeholder_9,Placeholder
+placeholder_10,block,placeholder,10,NUM16,10,block.variedcommodities.placeholder_10,Placeholder
+placeholder_11,block,placeholder,11,NUM16,11,block.variedcommodities.placeholder_11,Placeholder
+placeholder_12,block,placeholder,12,NUM16,12,block.variedcommodities.placeholder_12,Placeholder
+placeholder_13,block,placeholder,13,NUM16,13,block.variedcommodities.placeholder_13,Placeholder
+placeholder_14,block,placeholder,14,NUM16,14,block.variedcommodities.placeholder_14,Placeholder
+placeholder_15,block,placeholder,15,NUM16,15,block.variedcommodities.placeholder_15,Placeholder
+stool_oak,block,stool,0,WOOD,oak,block.variedcommodities.stool_oak,Oak Stool
+stool_spruce,block,stool,1,WOOD,spruce,block.variedcommodities.stool_spruce,Spruce Stool
+stool_birch,block,stool,2,WOOD,birch,block.variedcommodities.stool_birch,Birch Stool
+stool_jungle,block,stool,3,WOOD,jungle,block.variedcommodities.stool_jungle,Jungle Stool
+stool_acacia,block,stool,4,WOOD,acacia,block.variedcommodities.stool_acacia,Acacia Stool
+stool_dark_oak,block,stool,5,WOOD,dark_oak,block.variedcommodities.stool_dark_oak,Dark Oak Stool
+table_oak,block,table,0,WOOD,oak,block.variedcommodities.table_oak,Oak Wooden Table
+table_spruce,block,table,1,WOOD,spruce,block.variedcommodities.table_spruce,Spruce Wooden Table
+table_birch,block,table,2,WOOD,birch,block.variedcommodities.table_birch,Birch Wooden Table
+table_jungle,block,table,3,WOOD,jungle,block.variedcommodities.table_jungle,Jungle Wooden Table
+table_acacia,block,table,4,WOOD,acacia,block.variedcommodities.table_acacia,Acacia Wooden Table
+table_dark_oak,block,table,5,WOOD,dark_oak,block.variedcommodities.table_dark_oak,Dark Oak Wooden Table
+shelf_oak,block,shelf,0,WOOD,oak,block.variedcommodities.shelf_oak,Oak Shelf
+shelf_spruce,block,shelf,1,WOOD,spruce,block.variedcommodities.shelf_spruce,Spruce Shelf
+shelf_birch,block,shelf,2,WOOD,birch,block.variedcommodities.shelf_birch,Birch Shelf
+shelf_jungle,block,shelf,3,WOOD,jungle,block.variedcommodities.shelf_jungle,Jungle Shelf
+shelf_acacia,block,shelf,4,WOOD,acacia,block.variedcommodities.shelf_acacia,Acacia Shelf
+shelf_dark_oak,block,shelf,5,WOOD,dark_oak,block.variedcommodities.shelf_dark_oak,Dark Oak Shelf
+beam_oak,block,beam,0,WOOD,oak,block.variedcommodities.beam_oak,Oak Beam
+beam_spruce,block,beam,1,WOOD,spruce,block.variedcommodities.beam_spruce,Spruce Beam
+beam_birch,block,beam,2,WOOD,birch,block.variedcommodities.beam_birch,Birch Beam
+beam_jungle,block,beam,3,WOOD,jungle,block.variedcommodities.beam_jungle,Jungle Beam
+beam_acacia,block,beam,4,WOOD,acacia,block.variedcommodities.beam_acacia,Acacia Beam
+beam_dark_oak,block,beam,5,WOOD,dark_oak,block.variedcommodities.beam_dark_oak,Dark Oak Beam
+big_sign,block,big_sign,0,,,block.variedcommodities.big_sign,Big Sign
+book,block,book,0,,,item.minecraft.book,Book
+tombstone_0,block,tombstone,0,NUM3,0,block.variedcommodities.tombstone_0,Tombstone
+tombstone_1,block,tombstone,1,NUM3,1,block.variedcommodities.tombstone_1,Tombstone
+tombstone_2,block,tombstone,2,NUM3,2,block.variedcommodities.tombstone_2,Tombstone
+ancient_coin,item,ancient_coin,0,,,item.variedcommodities.ancient_coin,Ancient Coin
+ancient_scroll,item,ancient_scroll,0,,,item.variedcommodities.ancient_scroll,Ancient Scroll
+artifact,item,artifact,0,,,item.variedcommodities.artifact,Artifact
+assassin_boots,item,assassin_boots,0,,,item.variedcommodities.assassin_boots,Assassins Boots
+assassin_chest,item,assassin_chest,0,,,item.variedcommodities.assassin_chest,Assassins ChestPlate
+assassin_head,item,assassin_head,0,,,item.variedcommodities.assassin_head,Assassins Helmet
+assassin_legs,item,assassin_legs,0,,,item.variedcommodities.assassin_legs,Assassins Leggings
+bag,item,bag,0,,,item.variedcommodities.bag,Bag
+bandit_mask,item,bandit_mask,0,,,item.variedcommodities.bandit_mask,Bandit Mask
+banjo,item,banjo,0,,,item.variedcommodities.banjo,Banjo
+baseball_bat,item,baseball_bat,0,,,item.variedcommodities.baseball_bat,Baseball Bat
+batton,item,batton,0,,,item.variedcommodities.batton,Baton
+bear_claw,item,bear_claw,0,,,item.variedcommodities.bear_claw,Bear Claw
+blueprint,item,blueprint,0,,,item.variedcommodities.blueprint,Blueprint
+bo_staff,item,bo_staff,0,,,item.variedcommodities.bo_staff,Bo Staff
+broken_arrow,item,broken_arrow,0,,,item.variedcommodities.broken_arrow,Broken Arrow
+broken_bottle,item,broken_bottle,0,,,item.variedcommodities.broken_bottle,Broken Bottle
+bronze_battleaxe,item,bronze_battleaxe,0,,,item.variedcommodities.bronze_battleaxe,Bronze Battle Axe
+bronze_broadsword,item,bronze_broadsword,0,,,item.variedcommodities.bronze_broadsword,Bronze Broadsword
+bronze_dagger,item,bronze_dagger,0,,,item.variedcommodities.bronze_dagger,Bronze Dagger
+bronze_dagger_reversed,item,bronze_dagger_reversed,0,,,item.variedcommodities.bronze_dagger_reversed,Reversed Bronze Dagger
+bronze_glaive,item,bronze_glaive,0,,,item.variedcommodities.bronze_glaive,Bronze Glaive
+bronze_gun,item,bronze_gun,0,,,item.variedcommodities.bronze_gun,Bronze Gun
+bronze_halberd,item,bronze_halberd,0,,,item.variedcommodities.bronze_halberd,Bronze Halberd
+bronze_mace,item,bronze_mace,0,,,item.variedcommodities.bronze_mace,Bronze Mace
+bronze_scythe,item,bronze_scythe,0,,,item.variedcommodities.bronze_scythe,Bronze Scythe
+bronze_shield,item,bronze_shield,0,,,item.variedcommodities.bronze_shield,Bronze Shield
+bronze_shield_round,item,bronze_shield_round,0,,,item.variedcommodities.bronze_shield_round,Round Bronze Shield
+bronze_skirt,item,bronze_skirt,0,,,item.variedcommodities.bronze_skirt,Bronze Skirt
+bronze_spear,item,bronze_spear,0,,,item.variedcommodities.bronze_spear,Bronze Spear
+bronze_staff,item,bronze_staff,0,,,item.variedcommodities.bronze_staff,Bronze Staff
+bronze_sword,item,bronze_sword,0,,,item.variedcommodities.bronze_sword,Bronze Sword
+bronze_trident,item,bronze_trident,0,,,item.variedcommodities.bronze_trident,Bronze Trident
+bronze_warhammer,item,bronze_warhammer,0,,,item.variedcommodities.bronze_warhammer,Bronze Warhammer
+bullet,item,bullet,0,,,item.variedcommodities.bullet,Bullet
+car_key,item,car_key,0,,,item.variedcommodities.car_key,Car Key
+chain_skirt,item,chain_skirt,0,,,item.variedcommodities.chain_skirt,Chain Skirt
+chainsaw_gun,item,chainsaw_gun,0,,,item.variedcommodities.chainsaw_gun,GunChainsaw
+chicken_sword,item,chicken_sword,0,,,item.variedcommodities.chicken_sword,Chicken Sword
+clarinet,item,clarinet,0,,,item.variedcommodities.clarinet,Clarinet
+cleaver,item,cleaver,0,,,item.variedcommodities.cleaver,Cleaver
+coin_bronze,item,coin_bronze,0,,,item.variedcommodities.coin_bronze,Bronze Coin
+coin_diamond,item,coin_diamond,0,,,item.variedcommodities.coin_diamond,Diamond Coin
+coin_emerald,item,coin_emerald,0,,,item.variedcommodities.coin_emerald,Emerald Coin
+coin_gold,item,coin_gold,0,,,item.variedcommodities.coin_gold,Golden Coin
+coin_iron,item,coin_iron,0,,,item.variedcommodities.coin_iron,Iron Coin
+coin_stone,item,coin_stone,0,,,item.variedcommodities.coin_stone,Stone Coin
+coin_wood,item,coin_wood,0,,,item.variedcommodities.coin_wood,Wooden Coin
+combat_knive,item,combat_knive,0,,,item.variedcommodities.combat_knive,Combat Knife
+commissar_bottom,item,commissar_bottom,0,,,item.variedcommodities.commissar_bottom,Commissar Trenchcoat
+commissar_chest,item,commissar_chest,0,,,item.variedcommodities.commissar_chest,Commissar ChestPlate
+commissar_head,item,commissar_head,0,,,item.variedcommodities.commissar_head,Commissar Helmet
+commissar_legs,item,commissar_legs,0,,,item.variedcommodities.commissar_legs,Commissar Leggings
+cow_leather_boots,item,cow_leather_boots,0,,,item.variedcommodities.cow_leather_boots,Cowleather Boots
+cow_leather_chest,item,cow_leather_chest,0,,,item.variedcommodities.cow_leather_chest,Cowleather ChestPlate
+cow_leather_head,item,cow_leather_head,0,,,item.variedcommodities.cow_leather_head,Cowleather Helmet
+cow_leather_legs,item,cow_leather_legs,0,,,item.variedcommodities.cow_leather_legs,Cowleather Leggings
+crescent_shield,item,crescent_shield,0,,,item.variedcommodities.crescent_shield,Steel Cryscent Shield
+crossbow,item,crossbow,0,,,item.variedcommodities.crossbow,Crossbow
+crossbow_bolt,item,crossbow_bolt,0,,,item.variedcommodities.crossbow_bolt,Crossbow Bolt
+crowbar,item,crowbar,0,,,item.variedcommodities.crowbar,Crowbar
+crown,item,crown,0,,,item.variedcommodities.crown,Crown
+crown2,item,crown2,0,,,item.variedcommodities.crown2,Crown
+crystal,item,crystal,0,,,item.variedcommodities.crystal,Crystal
+cursed_trident,item,cursed_trident,0,,,item.variedcommodities.cursed_trident,Cursed Trident
+demonic_battleaxe,item,demonic_battleaxe,0,,,item.variedcommodities.demonic_battleaxe,Demonic Battle Axe
+demonic_boots,item,demonic_boots,0,,,item.variedcommodities.demonic_boots,Demonic Boots
+demonic_broadsword,item,demonic_broadsword,0,,,item.variedcommodities.demonic_broadsword,Demonic Broadsword
+demonic_chest,item,demonic_chest,0,,,item.variedcommodities.demonic_chest,Demonic ChestPlate
+demonic_dagger,item,demonic_dagger,0,,,item.variedcommodities.demonic_dagger,Demonic Dagger
+demonic_dagger_reversed,item,demonic_dagger_reversed,0,,,item.variedcommodities.demonic_dagger_reversed,Reversed Demonic Dagger
+demonic_glaive,item,demonic_glaive,0,,,item.variedcommodities.demonic_glaive,Demonic Glaive
+demonic_halberd,item,demonic_halberd,0,,,item.variedcommodities.demonic_halberd,Demonic Halberd
+demonic_head,item,demonic_head,0,,,item.variedcommodities.demonic_head,Demonic Helmet
+demonic_legs,item,demonic_legs,0,,,item.variedcommodities.demonic_legs,Demonic Leggings
+demonic_mace,item,demonic_mace,0,,,item.variedcommodities.demonic_mace,Demonic Mace
+demonic_scythe,item,demonic_scythe,0,,,item.variedcommodities.demonic_scythe,Demonic Scythe
+demonic_shield_round,item,demonic_shield_round,0,,,item.variedcommodities.demonic_shield_round,Demonic Shield
+demonic_skirt,item,demonic_skirt,0,,,item.variedcommodities.demonic_skirt,Demonic Skirt
+demonic_spear,item,demonic_spear,0,,,item.variedcommodities.demonic_spear,Demonic Spear
+demonic_staff,item,demonic_staff,0,,,item.variedcommodities.demonic_staff,Demonic Staff
+demonic_sword,item,demonic_sword,0,,,item.variedcommodities.demonic_sword,Demonic Sword
+demonic_trident,item,demonic_trident,0,,,item.variedcommodities.demonic_trident,Demonic Trident
+demonic_warhammer,item,demonic_warhammer,0,,,item.variedcommodities.demonic_warhammer,Demonic Warhammer
+diamond_battleaxe,item,diamond_battleaxe,0,,,item.variedcommodities.diamond_battleaxe,Diamond Battle Axe
+diamond_broadsword,item,diamond_broadsword,0,,,item.variedcommodities.diamond_broadsword,Diamond Broadsword
+diamond_dagger,item,diamond_dagger,0,,,item.variedcommodities.diamond_dagger,Diamond Dagger
+diamond_dagger_reversed,item,diamond_dagger_reversed,0,,,item.variedcommodities.diamond_dagger_reversed,Reversed Diamond Dagger
+diamond_glaive,item,diamond_glaive,0,,,item.variedcommodities.diamond_glaive,Diamond Glaive
+diamond_gun,item,diamond_gun,0,,,item.variedcommodities.diamond_gun,Diamond Gun
+diamond_halberd,item,diamond_halberd,0,,,item.variedcommodities.diamond_halberd,Diamond Halberd
+diamond_mace,item,diamond_mace,0,,,item.variedcommodities.diamond_mace,Diamond Mace
+diamond_scythe,item,diamond_scythe,0,,,item.variedcommodities.diamond_scythe,Diamond Scythe
+diamond_shield,item,diamond_shield,0,,,item.variedcommodities.diamond_shield,Diamond Shield
+diamond_shield_round,item,diamond_shield_round,0,,,item.variedcommodities.diamond_shield_round,Round Diamond Shield
+diamond_skirt,item,diamond_skirt,0,,,item.variedcommodities.diamond_skirt,Diamond Skirt
+diamond_spear,item,diamond_spear,0,,,item.variedcommodities.diamond_spear,Diamond Spear
+diamond_staff,item,diamond_staff,0,,,item.variedcommodities.diamond_staff,Diamond Staff
+diamond_trident,item,diamond_trident,0,,,item.variedcommodities.diamond_trident,Diamond Trident
+diamond_warhammer,item,diamond_warhammer,0,,,item.variedcommodities.diamond_warhammer,Diamond Warhammer
+element_air,item,element_air,0,,,item.variedcommodities.element_air,Air Element
+element_earth,item,element_earth,0,,,item.variedcommodities.element_earth,Earth Element
+element_fire,item,element_fire,0,,,item.variedcommodities.element_fire,Fire Element
+element_water,item,element_water,0,,,item.variedcommodities.element_water,Water Element
+elemental_staff_black,item,elemental_staff,0,COLOR,black,item.variedcommodities.elemental_staff_black,Black Elemental Staff
+elemental_staff_red,item,elemental_staff,1,COLOR,red,item.variedcommodities.elemental_staff_red,Red Elemental Staff
+elemental_staff_green,item,elemental_staff,2,COLOR,green,item.variedcommodities.elemental_staff_green,Green Elemental Staff
+elemental_staff_brown,item,elemental_staff,3,COLOR,brown,item.variedcommodities.elemental_staff_brown,Brown Elemental Staff
+elemental_staff_blue,item,elemental_staff,4,COLOR,blue,item.variedcommodities.elemental_staff_blue,Blue Elemental Staff
+elemental_staff_purple,item,elemental_staff,5,COLOR,purple,item.variedcommodities.elemental_staff_purple,Purple Elemental Staff
+elemental_staff_cyan,item,elemental_staff,6,COLOR,cyan,item.variedcommodities.elemental_staff_cyan,Cyan Elemental Staff
+elemental_staff_light_gray,item,elemental_staff,7,COLOR,light_gray,item.variedcommodities.elemental_staff_light_gray,Light Gray Elemental Staff
+elemental_staff_gray,item,elemental_staff,8,COLOR,gray,item.variedcommodities.elemental_staff_gray,Gray Elemental Staff
+elemental_staff_pink,item,elemental_staff,9,COLOR,pink,item.variedcommodities.elemental_staff_pink,Pink Elemental Staff
+elemental_staff_lime,item,elemental_staff,10,COLOR,lime,item.variedcommodities.elemental_staff_lime,Lime Elemental Staff
+elemental_staff_yellow,item,elemental_staff,11,COLOR,yellow,item.variedcommodities.elemental_staff_yellow,Yellow Elemental Staff
+elemental_staff_light_blue,item,elemental_staff,12,COLOR,light_blue,item.variedcommodities.elemental_staff_light_blue,Light Blue Elemental Staff
+elemental_staff_magenta,item,elemental_staff,13,COLOR,magenta,item.variedcommodities.elemental_staff_magenta,Magenta Elemental Staff
+elemental_staff_orange,item,elemental_staff,14,COLOR,orange,item.variedcommodities.elemental_staff_orange,Orange Elemental Staff
+elemental_staff_white,item,elemental_staff,15,COLOR,white,item.variedcommodities.elemental_staff_white,White Elemental Staff
+emerald_battleaxe,item,emerald_battleaxe,0,,,item.variedcommodities.emerald_battleaxe,Emerald Battle Axe
+emerald_broadsword,item,emerald_broadsword,0,,,item.variedcommodities.emerald_broadsword,Emerald Broadsword
+emerald_dagger,item,emerald_dagger,0,,,item.variedcommodities.emerald_dagger,Emerald Dagger
+emerald_dagger_reversed,item,emerald_dagger_reversed,0,,,item.variedcommodities.emerald_dagger_reversed,Reversed Emerald Dagger
+emerald_glaive,item,emerald_glaive,0,,,item.variedcommodities.emerald_glaive,Emerald Glaive
+emerald_gun,item,emerald_gun,0,,,item.variedcommodities.emerald_gun,Emerald Gun
+emerald_halberd,item,emerald_halberd,0,,,item.variedcommodities.emerald_halberd,Emerald Halberd
+emerald_mace,item,emerald_mace,0,,,item.variedcommodities.emerald_mace,Emerald Mace
+emerald_scythe,item,emerald_scythe,0,,,item.variedcommodities.emerald_scythe,Emerald Scythe
+emerald_shield,item,emerald_shield,0,,,item.variedcommodities.emerald_shield,Emerald Shield
+emerald_shield_round,item,emerald_shield_round,0,,,item.variedcommodities.emerald_shield_round,Round Emerald Shield
+emerald_skirt,item,emerald_skirt,0,,,item.variedcommodities.emerald_skirt,Emerald Skirt
+emerald_spear,item,emerald_spear,0,,,item.variedcommodities.emerald_spear,Emerald Spear
+emerald_staff,item,emerald_staff,0,,,item.variedcommodities.emerald_staff,Emerald Staff
+emerald_sword,item,emerald_sword,0,,,item.variedcommodities.emerald_sword,Emerald Sword
+emerald_trident,item,emerald_trident,0,,,item.variedcommodities.emerald_trident,Emerald Trident
+emerald_warhammer,item,emerald_warhammer,0,,,item.variedcommodities.emerald_warhammer,Emerald Warhammer
+excalibur,item,excalibur,0,,,item.variedcommodities.excalibur,Excalibur
+french_horn,item,french_horn,0,,,item.variedcommodities.french_horn,French Horn
+frost_battleaxe,item,frost_battleaxe,0,,,item.variedcommodities.frost_battleaxe,Frost Battle Axe
+frost_broadsword,item,frost_broadsword,0,,,item.variedcommodities.frost_broadsword,Frost Broadsword
+frost_dagger,item,frost_dagger,0,,,item.variedcommodities.frost_dagger,Frost Dagger
+frost_dagger_reversed,item,frost_dagger_reversed,0,,,item.variedcommodities.frost_dagger_reversed,Reversed Frost Dagger
+frost_glaive,item,frost_glaive,0,,,item.variedcommodities.frost_glaive,Frost Glaive
+frost_halberd,item,frost_halberd,0,,,item.variedcommodities.frost_halberd,Frost Halberd
+frost_mace,item,frost_mace,0,,,item.variedcommodities.frost_mace,Frost Mace
+frost_scythe,item,frost_scythe,0,,,item.variedcommodities.frost_scythe,Frost Scythe
+frost_shield,item,frost_shield,0,,,item.variedcommodities.frost_shield,Frost Shield
+frost_spear,item,frost_spear,0,,,item.variedcommodities.frost_spear,Frost Spear
+frost_staff,item,frost_staff,0,,,item.variedcommodities.frost_staff,Frost Staff
+frost_sword,item,frost_sword,0,,,item.variedcommodities.frost_sword,Frost Sword
+frost_trident,item,frost_trident,0,,,item.variedcommodities.frost_trident,Frost Trident
+frost_warhammer,item,frost_warhammer,0,,,item.variedcommodities.frost_warhammer,Frost Warhammer
+full_bronze_boots,item,full_bronze_boots,0,,,item.variedcommodities.full_bronze_boots,Full Bronze Boots
+full_bronze_chest,item,full_bronze_chest,0,,,item.variedcommodities.full_bronze_chest,Full Bronze ChestPlate
+full_bronze_head,item,full_bronze_head,0,,,item.variedcommodities.full_bronze_head,Full Bronze Helmet
+full_bronze_legs,item,full_bronze_legs,0,,,item.variedcommodities.full_bronze_legs,Full Bronze Leggings
+full_diamond_chest,item,full_diamond_chest,0,,,item.variedcommodities.full_diamond_chest,Full Diamond ChestPlate
+full_diamond_head,item,full_diamond_head,0,,,item.variedcommodities.full_diamond_head,Full Diamond Helmet
+full_emerald_boots,item,full_emerald_boots,0,,,item.variedcommodities.full_emerald_boots,Full Emerald Boots
+full_emerald_chest,item,full_emerald_chest,0,,,item.variedcommodities.full_emerald_chest,Full Emerald ChestPlate
+full_emerald_head,item,full_emerald_head,0,,,item.variedcommodities.full_emerald_head,Full Emerald Helmet
+full_emerald_legs,item,full_emerald_legs,0,,,item.variedcommodities.full_emerald_legs,Full Emerald Leggings
+full_golden_chest,item,full_golden_chest,0,,,item.variedcommodities.full_golden_chest,Full Gold ChestPlate
+full_golden_head,item,full_golden_head,0,,,item.variedcommodities.full_golden_head,Full Gold Helmet
+full_iron_chest,item,full_iron_chest,0,,,item.variedcommodities.full_iron_chest,Full Iron ChestPlate
+full_iron_head,item,full_iron_head,0,,,item.variedcommodities.full_iron_head,Full Iron Helmet
+full_leather_chest,item,full_leather_chest,0,,,item.variedcommodities.full_leather_chest,Full Leather ChestPlate
+full_leather_head,item,full_leather_head,0,,,item.variedcommodities.full_leather_head,Full Leather Helmet
+full_wooden_boots,item,full_wooden_boots,0,,,item.variedcommodities.full_wooden_boots,Full Wooden Boots
+full_wooden_chest,item,full_wooden_chest,0,,,item.variedcommodities.full_wooden_chest,Full Wooden ChestPlate
+full_wooden_head,item,full_wooden_head,0,,,item.variedcommodities.full_wooden_head,Full Wooden Helmet
+full_wooden_legs,item,full_wooden_legs,0,,,item.variedcommodities.full_wooden_legs,Full Wooden Leggings
+gem_amethyst,item,gem_amethyst,0,,,item.variedcommodities.gem_amethyst,Amethyst
+gem_ruby,item,gem_ruby,0,,,item.variedcommodities.gem_ruby,Ruby
+gem_sapphire,item,gem_sapphire,0,,,item.variedcommodities.gem_sapphire,Sapphire
+golden_battleaxe,item,golden_battleaxe,0,,,item.variedcommodities.golden_battleaxe,Golden Battle Axe
+golden_broadsword,item,golden_broadsword,0,,,item.variedcommodities.golden_broadsword,Golden Broadsword
+golden_dagger,item,golden_dagger,0,,,item.variedcommodities.golden_dagger,Golden Dagger
+golden_dagger_reversed,item,golden_dagger_reversed,0,,,item.variedcommodities.golden_dagger_reversed,Reversed Golden Dagger
+golden_glaive,item,golden_glaive,0,,,item.variedcommodities.golden_glaive,Golden Glaive
+golden_gun,item,golden_gun,0,,,item.variedcommodities.golden_gun,Golden Gun
+golden_halberd,item,golden_halberd,0,,,item.variedcommodities.golden_halberd,Golden Halberd
+golden_mace,item,golden_mace,0,,,item.variedcommodities.golden_mace,Golden Mace
+golden_scythe,item,golden_scythe,0,,,item.variedcommodities.golden_scythe,Golden Scythe
+golden_shield,item,golden_shield,0,,,item.variedcommodities.golden_shield,Golden Shield
+golden_shield_round,item,golden_shield_round,0,,,item.variedcommodities.golden_shield_round,Round Golden Shield
+golden_skirt,item,golden_skirt,0,,,item.variedcommodities.golden_skirt,Golden Skirt
+golden_spear,item,golden_spear,0,,,item.variedcommodities.golden_spear,Golden Spear
+golden_staff,item,golden_staff,0,,,item.variedcommodities.golden_staff,Golden Staff
+golden_trident,item,golden_trident,0,,,item.variedcommodities.golden_trident,Golden Trident
+golden_warhammer,item,golden_warhammer,0,,,item.variedcommodities.golden_warhammer,Golden Warhammer
+golf_club,item,golf_club,0,,,item.variedcommodities.golf_club,Golf Club
+guitar,item,guitar,0,,,item.variedcommodities.guitar,Guitar
+hammer,item,hammer,0,,,item.variedcommodities.hammer,Hammer
+handcuffs,item,handcuffs,0,,,item.variedcommodities.handcuffs,Handcuffs
+harp,item,harp,0,,,item.variedcommodities.harp,Harp
+heart,item,heart,0,,,item.variedcommodities.heart,Heart
+heater_shield,item,heater_shield,0,,,item.variedcommodities.heater_shield,Steel Heater Shield
+hockey_stick,item,hockey_stick,0,,,item.variedcommodities.hockey_stick,Hockey Stick
+holyhandgrenade,item,holyhandgrenade,0,,,item.variedcommodities.holyhandgrenade,Holy Hand Grenade
+infantry_helmet,item,infantry_helmet,0,,,item.variedcommodities.infantry_helmet,Infantry Helmet
+ingot_bronze,item,ingot_bronze,0,,,item.variedcommodities.ingot_bronze,Bronze Ingot
+ingot_demonic,item,ingot_demonic,0,,,item.variedcommodities.ingot_demonic,Demonic Ingot
+ingot_mithril,item,ingot_mithril,0,,,item.variedcommodities.ingot_mithril,Mithril Ingot
+ingot_steel,item,ingot_steel,0,,,item.variedcommodities.ingot_steel,Steel Ingot
+iron_battleaxe,item,iron_battleaxe,0,,,item.variedcommodities.iron_battleaxe,Iron Battle Axe
+iron_broadsword,item,iron_broadsword,0,,,item.variedcommodities.iron_broadsword,Iron Broadsword
+iron_dagger,item,iron_dagger,0,,,item.variedcommodities.iron_dagger,Iron Dagger
+iron_dagger_reversed,item,iron_dagger_reversed,0,,,item.variedcommodities.iron_dagger_reversed,Reversed Iron Dagger
+iron_glaive,item,iron_glaive,0,,,item.variedcommodities.iron_glaive,Iron Glaive
+iron_gun,item,iron_gun,0,,,item.variedcommodities.iron_gun,Iron Gun
+iron_halberd,item,iron_halberd,0,,,item.variedcommodities.iron_halberd,Iron Halberd
+iron_mace,item,iron_mace,0,,,item.variedcommodities.iron_mace,Iron Mace
+iron_scythe,item,iron_scythe,0,,,item.variedcommodities.iron_scythe,Iron Scythe
+iron_shield,item,iron_shield,0,,,item.variedcommodities.iron_shield,Iron Shield
+iron_shield_round,item,iron_shield_round,0,,,item.variedcommodities.iron_shield_round,Round Iron Shield
+iron_skirt,item,iron_skirt,0,,,item.variedcommodities.iron_skirt,Iron Skirt
+iron_spear,item,iron_spear,0,,,item.variedcommodities.iron_spear,Iron Spear
+iron_staff,item,iron_staff,0,,,item.variedcommodities.iron_staff,Iron Staff
+iron_trident,item,iron_trident,0,,,item.variedcommodities.iron_trident,Iron Trident
+iron_warhammer,item,iron_warhammer,0,,,item.variedcommodities.iron_warhammer,Iron Warhammer
+katana,item,katana,0,,,item.variedcommodities.katana,Katana
+katar,item,katar,0,,,item.variedcommodities.katar,Katar
+key,item,key,0,,,item.variedcommodities.key,Key
+key2,item,key2,0,,,item.variedcommodities.key2,Key
+kukri,item,kukri,0,,,item.variedcommodities.kukri,Kukri
+kunai,item,kunai,0,,,item.variedcommodities.kunai,Kunai
+kunai_reversed,item,kunai_reversed,0,,,item.variedcommodities.kunai_reversed,Reverse Kunai
+lead_pipe,item,lead_pipe,0,,,item.variedcommodities.lead_pipe,Lead Pipe
+leaf_sword,item,leaf_sword,0,,,item.variedcommodities.leaf_sword,Leaf Blade
+leather_skirt,item,leather_skirt,0,,,item.variedcommodities.leather_skirt,Leather Skirt
+letter,item,letter,0,,,item.variedcommodities.letter,Letter
+lighter,item,lighter,0,,,item.variedcommodities.lighter,Lighter
+locket,item,locket,0,,,item.variedcommodities.locket,Locket
+machine_gun,item,machine_gun,0,,,item.variedcommodities.machine_gun,Machine Gun
+macuahuitl,item,macuahuitl,0,,,item.variedcommodities.macuahuitl,Macuahuitl
+magic_wand,item,magic_wand,0,,,item.variedcommodities.magic_wand,Magic Wand
+mana,item,mana,0,,,item.variedcommodities.mana,Mana
+mithril_battleaxe,item,mithril_battleaxe,0,,,item.variedcommodities.mithril_battleaxe,Mithril Battle Axe
+mithril_boots,item,mithril_boots,0,,,item.variedcommodities.mithril_boots,Mithril Boots
+mithril_broadsword,item,mithril_broadsword,0,,,item.variedcommodities.mithril_broadsword,Mithril Broadsword
+mithril_chest,item,mithril_chest,0,,,item.variedcommodities.mithril_chest,Mithril ChestPlate
+mithril_dagger,item,mithril_dagger,0,,,item.variedcommodities.mithril_dagger,Mithril Dagger
+mithril_dagger_reversed,item,mithril_dagger_reversed,0,,,item.variedcommodities.mithril_dagger_reversed,Reversed Mithril Dagger
+mithril_glaive,item,mithril_glaive,0,,,item.variedcommodities.mithril_glaive,Mithril Glaive
+mithril_halberd,item,mithril_halberd,0,,,item.variedcommodities.mithril_halberd,Mithril Halberd
+mithril_head,item,mithril_head,0,,,item.variedcommodities.mithril_head,Mithril Helmet
+mithril_legs,item,mithril_legs,0,,,item.variedcommodities.mithril_legs,Mithril Leggings
+mithril_mace,item,mithril_mace,0,,,item.variedcommodities.mithril_mace,Mithril Mace
+mithril_scythe,item,mithril_scythe,0,,,item.variedcommodities.mithril_scythe,Mithril Scythe
+mithril_shield_round,item,mithril_shield_round,0,,,item.variedcommodities.mithril_shield_round,Mithril Shield
+mithril_skirt,item,mithril_skirt,0,,,item.variedcommodities.mithril_skirt,Mithril Skirt
+mithril_spear,item,mithril_spear,0,,,item.variedcommodities.mithril_spear,Mithril Spear
+mithril_staff,item,mithril_staff,0,,,item.variedcommodities.mithril_staff,Mithril Staff
+mithril_sword,item,mithril_sword,0,,,item.variedcommodities.mithril_sword,Mithril Sword
+mithril_trident,item,mithril_trident,0,,,item.variedcommodities.mithril_trident,Mithril Trident
+mithril_warhammer,item,mithril_warhammer,0,,,item.variedcommodities.mithril_warhammer,Mithril Warhammer
+money,item,money,0,,,item.variedcommodities.money,Money
+musket,item,musket,0,,,item.variedcommodities.musket,Musket
+nanorum_boots,item,nanorum_boots,0,,,item.variedcommodities.nanorum_boots,Nanorum Boots
+nanorum_chest,item,nanorum_chest,0,,,item.variedcommodities.nanorum_chest,Nanorum ChestPlate
+nanorum_head,item,nanorum_head,0,,,item.variedcommodities.nanorum_head,Nanorum Helmet
+nanorum_legs,item,nanorum_legs,0,,,item.variedcommodities.nanorum_legs,Nanorum Leggings
+necklace,item,necklace,0,,,item.variedcommodities.necklace,Necklace
+ninja_chest,item,ninja_chest,0,,,item.variedcommodities.ninja_chest,Ninja Chest
+ninja_claw,item,ninja_claw,0,,,item.variedcommodities.ninja_claw,Ninja Claw
+ninja_head,item,ninja_head,0,,,item.variedcommodities.ninja_head,Ninja Head
+ninja_legs,item,ninja_legs,0,,,item.variedcommodities.ninja_legs,Ninja Leggings
+ocarina,item,ocarina,0,,,item.variedcommodities.ocarina,Ocarina
+officer_chest,item,officer_chest,0,,,item.variedcommodities.officer_chest,Officer ChestPlate
+orb_black,item,orb,0,COLOR,black,item.variedcommodities.orb_black,Black Orb
+orb_red,item,orb,1,COLOR,red,item.variedcommodities.orb_red,Red Orb
+orb_green,item,orb,2,COLOR,green,item.variedcommodities.orb_green,Green Orb
+orb_brown,item,orb,3,COLOR,brown,item.variedcommodities.orb_brown,Brown Orb
+orb_blue,item,orb,4,COLOR,blue,item.variedcommodities.orb_blue,Blue Orb
+orb_purple,item,orb,5,COLOR,purple,item.variedcommodities.orb_purple,Purple Orb
+orb_cyan,item,orb,6,COLOR,cyan,item.variedcommodities.orb_cyan,Cyan Orb
+orb_light_gray,item,orb,7,COLOR,light_gray,item.variedcommodities.orb_light_gray,Light Gray Orb
+orb_gray,item,orb,8,COLOR,gray,item.variedcommodities.orb_gray,Gray Orb
+orb_pink,item,orb,9,COLOR,pink,item.variedcommodities.orb_pink,Pink Orb
+orb_lime,item,orb,10,COLOR,lime,item.variedcommodities.orb_lime,Lime Orb
+orb_yellow,item,orb,11,COLOR,yellow,item.variedcommodities.orb_yellow,Yellow Orb
+orb_light_blue,item,orb,12,COLOR,light_blue,item.variedcommodities.orb_light_blue,Light Blue Orb
+orb_magenta,item,orb,13,COLOR,magenta,item.variedcommodities.orb_magenta,Magenta Orb
+orb_orange,item,orb,14,COLOR,orange,item.variedcommodities.orb_orange,Orange Orb
+orb_white,item,orb,15,COLOR,white,item.variedcommodities.orb_white,White Orb
+orb_broken_black,item,orb_broken,0,COLOR,black,item.variedcommodities.orb_broken_black,Black BrokenOrb
+orb_broken_red,item,orb_broken,1,COLOR,red,item.variedcommodities.orb_broken_red,Red BrokenOrb
+orb_broken_green,item,orb_broken,2,COLOR,green,item.variedcommodities.orb_broken_green,Green BrokenOrb
+orb_broken_brown,item,orb_broken,3,COLOR,brown,item.variedcommodities.orb_broken_brown,Brown BrokenOrb
+orb_broken_blue,item,orb_broken,4,COLOR,blue,item.variedcommodities.orb_broken_blue,Blue BrokenOrb
+orb_broken_purple,item,orb_broken,5,COLOR,purple,item.variedcommodities.orb_broken_purple,Purple BrokenOrb
+orb_broken_cyan,item,orb_broken,6,COLOR,cyan,item.variedcommodities.orb_broken_cyan,Cyan BrokenOrb
+orb_broken_light_gray,item,orb_broken,7,COLOR,light_gray,item.variedcommodities.orb_broken_light_gray,Light Gray BrokenOrb
+orb_broken_gray,item,orb_broken,8,COLOR,gray,item.variedcommodities.orb_broken_gray,Gray BrokenOrb
+orb_broken_pink,item,orb_broken,9,COLOR,pink,item.variedcommodities.orb_broken_pink,Pink BrokenOrb
+orb_broken_lime,item,orb_broken,10,COLOR,lime,item.variedcommodities.orb_broken_lime,Lime BrokenOrb
+orb_broken_yellow,item,orb_broken,11,COLOR,yellow,item.variedcommodities.orb_broken_yellow,Yellow BrokenOrb
+orb_broken_light_blue,item,orb_broken,12,COLOR,light_blue,item.variedcommodities.orb_broken_light_blue,Light Blue BrokenOrb
+orb_broken_magenta,item,orb_broken,13,COLOR,magenta,item.variedcommodities.orb_broken_magenta,Magenta BrokenOrb
+orb_broken_orange,item,orb_broken,14,COLOR,orange,item.variedcommodities.orb_broken_orange,Orange BrokenOrb
+orb_broken_white,item,orb_broken,15,COLOR,white,item.variedcommodities.orb_broken_white,White BrokenOrb
+paper_crown,item,paper_crown,0,,,item.variedcommodities.paper_crown,Paper Crown
+pendant,item,pendant,0,,,item.variedcommodities.pendant,Pendant
+phone,item,phone,0,,,item.variedcommodities.phone,Phone
+pipe_wrench,item,pipe_wrench,0,,,item.variedcommodities.pipe_wrench,Pipe Wrench
+plans,item,plans,0,,,item.variedcommodities.plans,Plans
+rapier,item,rapier,0,,,item.variedcommodities.rapier,Rapier
+ring,item,ring,0,,,item.variedcommodities.ring,Ring
+saber,item,saber,0,,,item.variedcommodities.saber,Saber
+sai,item,sai,0,,,item.variedcommodities.sai,Sai Blade
+satchel,item,satchel,0,,,item.variedcommodities.satchel,Satchel
+scutum_shield,item,scutum_shield,0,,,item.variedcommodities.scutum_shield,Steel Scutum Shield
+severed_ear,item,severed_ear,0,,,item.variedcommodities.severed_ear,Severed Ear
+shuriken,item,shuriken,0,,,item.variedcommodities.shuriken,Shuriken
+shuriken_giant,item,shuriken_giant,0,,,item.variedcommodities.shuriken_giant,Giant Shuriken
+silk,item,silk,0,,,item.variedcommodities.silk,Silk
+skull,item,skull,0,,,item.variedcommodities.skull,Skull
+sledge_hammer,item,sledge_hammer,0,,,item.variedcommodities.sledge_hammer,Sledgehammer
+slingshot,item,slingshot,0,,,item.variedcommodities.slingshot,Slingshot
+soldier_bottom,item,soldier_bottom,0,,,item.variedcommodities.soldier_bottom,Soldier Trenchcoat
+soldier_chest,item,soldier_chest,0,,,item.variedcommodities.soldier_chest,Soldier ChestPlate
+soldier_head,item,soldier_head,0,,,item.variedcommodities.soldier_head,Soldier Helmet
+soldier_legs,item,soldier_legs,0,,,item.variedcommodities.soldier_legs,Soldier Leggings
+spell_arcane,item,spell_arcane,0,,,item.variedcommodities.spell_arcane,Arcane Spell
+spell_dark,item,spell_dark,0,,,item.variedcommodities.spell_dark,Dark Spell
+spell_fire,item,spell_fire,0,,,item.variedcommodities.spell_fire,Fire Spell
+spell_holy,item,spell_holy,0,,,item.variedcommodities.spell_holy,Holy Spell
+spell_ice,item,spell_ice,0,,,item.variedcommodities.spell_ice,Ice Spell
+spell_lightning,item,spell_lightning,0,,,item.variedcommodities.spell_lightning,Lightning Spell
+spell_nature,item,spell_nature,0,,,item.variedcommodities.spell_nature,Nature Spell
+statuette,item,statuette,0,,,item.variedcommodities.statuette,Statuette
+steel_claw,item,steel_claw,0,,,item.variedcommodities.steel_claw,Steel Claw
+stone_battleaxe,item,stone_battleaxe,0,,,item.variedcommodities.stone_battleaxe,Stone Battle Axe
+stone_broadsword,item,stone_broadsword,0,,,item.variedcommodities.stone_broadsword,Stone Broadsword
+stone_dagger,item,stone_dagger,0,,,item.variedcommodities.stone_dagger,Stone Dagger
+stone_dagger_reversed,item,stone_dagger_reversed,0,,,item.variedcommodities.stone_dagger_reversed,Reversed Stone Dagger
+stone_glaive,item,stone_glaive,0,,,item.variedcommodities.stone_glaive,Stone Glaive
+stone_gun,item,stone_gun,0,,,item.variedcommodities.stone_gun,Stone Gun
+stone_halberd,item,stone_halberd,0,,,item.variedcommodities.stone_halberd,Stone Halberd
+stone_mace,item,stone_mace,0,,,item.variedcommodities.stone_mace,Stone Mace
+stone_scythe,item,stone_scythe,0,,,item.variedcommodities.stone_scythe,Stone Scythe
+stone_shield,item,stone_shield,0,,,item.variedcommodities.stone_shield,Stone Shield
+stone_shield_round,item,stone_shield_round,0,,,item.variedcommodities.stone_shield_round,Round Stone Shield
+stone_spear,item,stone_spear,0,,,item.variedcommodities.stone_spear,Stone Spear
+stone_staff,item,stone_staff,0,,,item.variedcommodities.stone_staff,Stone Staff
+stone_trident,item,stone_trident,0,,,item.variedcommodities.stone_trident,Stone Trident
+stone_warhammer,item,stone_warhammer,0,,,item.variedcommodities.stone_warhammer,Stone Warhammer
+swiss_army_knife,item,swiss_army_knife,0,,,item.variedcommodities.swiss_army_knife,Swiss Army Knife
+tablet,item,tablet,0,,,item.variedcommodities.tablet,Tablet
+tactical_chest,item,tactical_chest,0,,,item.variedcommodities.tactical_chest,Tactical Vest
+tactical_head,item,tactical_head,0,,,item.variedcommodities.tactical_head,Tactical Helmet
+tower_shield,item,tower_shield,0,,,item.variedcommodities.tower_shield,Steel Tower Shield
+tuxedo_bottom,item,tuxedo_bottom,0,,,item.variedcommodities.tuxedo_bottom,Tuxedo Trenchcoat
+tuxedo_chest,item,tuxedo_chest,0,,,item.variedcommodities.tuxedo_chest,Tuxedo Chest
+tuxedo_pants,item,tuxedo_pants,0,,,item.variedcommodities.tuxedo_pants,Tuxedo Pants
+usb_stick,item,usb_stick,0,,,item.variedcommodities.usb_stick,USB-Stick
+vcrecipes_book,item,vcrecipes_book,0,,,item.variedcommodities.vcrecipes_book,VariedCommodities Recipe Book
+violin,item,violin,0,,,item.variedcommodities.violin,Violin
+violin_bow,item,violin_bow,0,,,item.variedcommodities.violin_bow,Violin Bow
+wizard_chest,item,wizard_chest,0,,,item.variedcommodities.wizard_chest,Wizard Chest
+wizard_head,item,wizard_head,0,,,item.variedcommodities.wizard_head,Wizard Head
+wizard_pants,item,wizard_pants,0,,,item.variedcommodities.wizard_pants,Wizard Leggings
+wooden_battleaxe,item,wooden_battleaxe,0,,,item.variedcommodities.wooden_battleaxe,Wooden Battle Axe
+wooden_broadsword,item,wooden_broadsword,0,,,item.variedcommodities.wooden_broadsword,Wooden Broadsword
+wooden_dagger,item,wooden_dagger,0,,,item.variedcommodities.wooden_dagger,Wooden Dagger
+wooden_dagger_reversed,item,wooden_dagger_reversed,0,,,item.variedcommodities.wooden_dagger_reversed,Reversed Wooden Dagger
+wooden_glaive,item,wooden_glaive,0,,,item.variedcommodities.wooden_glaive,Wooden Glaive
+wooden_gun,item,wooden_gun,0,,,item.variedcommodities.wooden_gun,Wooden Gun
+wooden_halberd,item,wooden_halberd,0,,,item.variedcommodities.wooden_halberd,Wooden Halberd
+wooden_mace,item,wooden_mace,0,,,item.variedcommodities.wooden_mace,Wooden Mace
+wooden_scythe,item,wooden_scythe,0,,,item.variedcommodities.wooden_scythe,Wooden Scythe
+wooden_shield,item,wooden_shield,0,,,item.variedcommodities.wooden_shield,Wooden Shield
+wooden_shield_round,item,wooden_shield_round,0,,,item.variedcommodities.wooden_shield_round,Round Wooden Shield
+wooden_spear,item,wooden_spear,0,,,item.variedcommodities.wooden_spear,Wooden Spear
+wooden_staff,item,wooden_staff,0,,,item.variedcommodities.wooden_staff,Wooden Staff
+wooden_trident,item,wooden_trident,0,,,item.variedcommodities.wooden_trident,Wooden Trident
+wooden_warhammer,item,wooden_warhammer,0,,,item.variedcommodities.wooden_warhammer,Wooden Warhammer
+wrench,item,wrench,0,,,item.variedcommodities.wrench,Wrench
+x407_boots,item,x407_boots,0,,,item.variedcommodities.x407_boots,X407 Prototype Boots
+x407_chest,item,x407_chest,0,,,item.variedcommodities.x407_chest,X407 Prototype ChestPlate
+x407_head,item,x407_head,0,,,item.variedcommodities.x407_head,X407 Prototype Helmet
+x407_legs,item,x407_legs,0,,,item.variedcommodities.x407_legs,X407 Prototype Leggings

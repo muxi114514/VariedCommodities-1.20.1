@@ -1,0 +1,7 @@
+{
+	"parent": "variedcommodities:item/basic_scythe",
+	"textures": {
+		"layer0": "variedcommodities:item/stone_scythe"
+	}
+}
+

@@ -1,0 +1,15 @@
+{
+	"parent": "variedcommodities:item/basic_shield",
+	"textures": {
+		"layer0": "variedcommodities:item/golden_shield"
+	},
+    "overrides": [
+        {
+            "predicate": {
+                "blocking": 1
+            },
+            "model": "variedcommodities:item/golden_shield_blocking"
+        }
+    ]    
+}
+

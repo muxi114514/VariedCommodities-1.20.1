@@ -1,0 +1,33 @@
+{
+  "type": "variedcommodities:carpentry",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "golden_gun"
+    }
+  ],
+  "group": "variedcommodities:gun",
+  "pattern": [
+    "XXXY",
+    " ZM ",
+    "  M "
+  ],
+  "key": {
+    "M": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "minecraft:gold_ingot"
+    },
+    "Y": {
+      "item": "minecraft:lever"
+    },
+    "Z": {
+      "item": "minecraft:stone_button"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:golden_gun",
+    "count": 1
+  }
+}

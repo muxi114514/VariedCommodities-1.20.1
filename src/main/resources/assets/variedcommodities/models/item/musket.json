@@ -1,0 +1,7 @@
+{
+	"parent": "variedcommodities:item/machine_gun",
+	"textures": {
+		"layer0": "variedcommodities:item/musket"
+	}
+}
+

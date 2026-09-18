@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "iron_dagger"
+    }
+  ],
+  "category": "equipment",
+  "group": "variedcommodities:dagger",
+  "pattern": [
+    " X",
+    "Y "
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:iron_ingot"
+    },
+    "Y": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:iron_dagger",
+    "count": 1
+  }
+}

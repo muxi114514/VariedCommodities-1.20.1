@@ -1,0 +1,22 @@
+{
+  "type": "variedcommodities:carpentry",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "beam_oak"
+    }
+  ],
+  "group": "variedcommodities:beam",
+  "pattern": [
+    "XXXX"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:oak_planks"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:beam_oak",
+    "count": 2
+  }
+}

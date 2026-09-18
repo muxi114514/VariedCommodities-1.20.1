@@ -1,0 +1,28 @@
+{
+  "type": "variedcommodities:carpentry",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "wooden_warhammer"
+    }
+  ],
+  "group": "variedcommodities:warhammer",
+  "pattern": [
+    "XXX",
+    " Y ",
+    " Y ",
+    " Y "
+  ],
+  "key": {
+    "X": {
+      "tag": "minecraft:planks"
+    },
+    "Y": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:wooden_warhammer",
+    "count": 1
+  }
+}

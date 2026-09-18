@@ -1,0 +1,28 @@
+{
+  "type": "variedcommodities:carpentry",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "frost_battleaxe"
+    }
+  ],
+  "group": "variedcommodities:battleaxe",
+  "pattern": [
+    "XX",
+    "XY",
+    " Y",
+    " Y"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:packed_ice"
+    },
+    "Y": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:frost_battleaxe",
+    "count": 1
+  }
+}

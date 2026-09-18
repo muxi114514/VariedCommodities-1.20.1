@@ -1,0 +1,22 @@
+{
+  "type": "variedcommodities:carpentry",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "beam_spruce"
+    }
+  ],
+  "group": "variedcommodities:beam",
+  "pattern": [
+    "XXXX"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:spruce_planks"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:beam_spruce",
+    "count": 2
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "variedcommodities:carpentry",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "weapon_rack_dark_oak"
+    }
+  ],
+  "group": "variedcommodities:weapon_rack",
+  "pattern": [
+    "XXX",
+    "XYX",
+    "XYX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:dark_oak_planks"
+    },
+    "Y": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:weapon_rack_dark_oak",
+    "count": 1
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "variedcommodities:carpentry",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "barrel_acacia"
+    }
+  ],
+  "group": "variedcommodities:barrel",
+  "pattern": [
+    "XXX",
+    "X X",
+    "X X",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:acacia_planks"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:barrel_acacia",
+    "count": 1
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "variedcommodities:carpentry",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "wooden_shield"
+    }
+  ],
+  "group": "variedcommodities:shield",
+  "pattern": [
+    "X  X",
+    "XXXX",
+    "XXXX",
+    " XX "
+  ],
+  "key": {
+    "X": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:wooden_shield",
+    "count": 1
+  }
+}

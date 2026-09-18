@@ -1,0 +1,22 @@
+{
+  "type": "variedcommodities:carpentry",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "beam_birch"
+    }
+  ],
+  "group": "variedcommodities:beam",
+  "pattern": [
+    "XXXX"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:birch_planks"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:beam_birch",
+    "count": 2
+  }
+}

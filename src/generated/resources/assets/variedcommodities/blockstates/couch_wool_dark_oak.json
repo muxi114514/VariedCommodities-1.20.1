@@ -1,0 +1,244 @@
+{
+  "variants": {
+    "corner_left=false,corner_right=false,left=false,right=false,rotation=0": {
+      "model": "variedcommodities:block/couch_wool_dark_oak"
+    },
+    "corner_left=false,corner_right=false,left=false,right=false,rotation=1": {
+      "model": "variedcommodities:block/couch_wool_dark_oak",
+      "y": 90
+    },
+    "corner_left=false,corner_right=false,left=false,right=false,rotation=2": {
+      "model": "variedcommodities:block/couch_wool_dark_oak",
+      "y": 180
+    },
+    "corner_left=false,corner_right=false,left=false,right=false,rotation=3": {
+      "model": "variedcommodities:block/couch_wool_dark_oak",
+      "y": 270
+    },
+    "corner_left=false,corner_right=false,left=false,right=true,rotation=0": {
+      "model": "variedcommodities:block/couch_wool_dark_oak_right"
+    },
+    "corner_left=false,corner_right=false,left=false,right=true,rotation=1": {
+      "model": "variedcommodities:block/couch_wool_dark_oak_right",
+      "y": 90
+    },
+    "corner_left=false,corner_right=false,left=false,right=true,rotation=2": {
+      "model": "variedcommodities:block/couch_wool_dark_oak_right",
+      "y": 180
+    },
+    "corner_left=false,corner_right=false,left=false,right=true,rotation=3": {
+      "model": "variedcommodities:block/couch_wool_dark_oak_right",
+      "y": 270
+    },
+    "corner_left=false,corner_right=false,left=true,right=false,rotation=0": {
+      "model": "variedcommodities:block/couch_wool_dark_oak_left"
+    },
+    "corner_left=false,corner_right=false,left=true,right=false,rotation=1": {
+      "model": "variedcommodities:block/couch_wool_dark_oak_left",
+      "y": 90
+    },
+    "corner_left=false,corner_right=false,left=true,right=false,rotation=2": {
+      "model": "variedcommodities:block/couch_wool_dark_oak_left",
+      "y": 180
+    },
+    "corner_left=false,corner_right=false,left=true,right=false,rotation=3": {
+      "model": "variedcommodities:block/couch_wool_dark_oak_left",
+      "y": 270
+    },
+    "corner_left=false,corner_right=false,left=true,right=true,rotation=0": {
+      "model": "variedcommodities:block/couch_wool_dark_oak"
+    },
+    "corner_left=false,corner_right=false,left=true,right=true,rotation=1": {
+      "model": "variedcommodities:block/couch_wool_dark_oak",
+      "y": 90
+    },
+    "corner_left=false,corner_right=false,left=true,right=true,rotation=2": {
+      "model": "variedcommodities:block/couch_wool_dark_oak",
+      "y": 180
+    },
+    "corner_left=false,corner_right=false,left=true,right=true,rotation=3": {
+      "model": "variedcommodities:block/couch_wool_dark_oak",
+      "y": 270
+    },
+    "corner_left=false,corner_right=true,left=false,right=false,rotation=0": {
+      "model": "variedcommodities:block/couch_wool_dark_oak_corner",
+      "y": 90
+    },
+    "corner_left=false,corner_right=true,left=false,right=false,rotation=1": {
+      "model": "variedcommodities:block/couch_wool_dark_oak_corner",
+      "y": 180
+    },
+    "corner_left=false,corner_right=true,left=false,right=false,rotation=2": {
+      "model": "variedcommodities:block/couch_wool_dark_oak_corner",
+      "y": 270
+    },
+    "corner_left=false,corner_right=true,left=false,right=false,rotation=3": {
+      "model": "variedcommodities:block/couch_wool_dark_oak_corner"
+    },
+    "corner_left=false,corner_right=true,left=false,right=true,rotation=0": {
+      "model": "variedcommodities:block/couch_wool_dark_oak_corner",
+      "y": 90
+    },
+    "corner_left=false,corner_right=true,left=false,right=true,rotation=1": {
+      "model": "variedcommodities:block/couch_wool_dark_oak_corner",
+      "y": 180
+    },
+    "corner_left=false,corner_right=true,left=false,right=true,rotation=2": {
+      "model": "variedcommodities:block/couch_wool_dark_oak_corner",
+      "y": 270
+    },
+    "corner_left=false,corner_right=true,left=false,right=true,rotation=3": {
+      "model": "variedcommodities:block/couch_wool_dark_oak_corner"
+    },
+    "corner_left=false,corner_right=true,left=true,right=false,rotation=0": {
+      "model": "variedcommodities:block/couch_wool_dark_oak_corner",
+      "y": 90
+    },
+    "corner_left=false,corner_right=true,left=true,right=false,rotation=1": {
+      "model": "variedcommodities:block/couch_wool_dark_oak_corner",
+      "y": 180
+    },
+    "corner_left=false,corner_right=true,left=true,right=false,rotation=2": {
+      "model": "variedcommodities:block/couch_wool_dark_oak_corner",
+      "y": 270
+    },
+    "corner_left=false,corner_right=true,left=true,right=false,rotation=3": {
+      "model": "variedcommodities:block/couch_wool_dark_oak_corner"
+    },
+    "corner_left=false,corner_right=true,left=true,right=true,rotation=0": {
+      "model": "variedcommodities:block/couch_wool_dark_oak_corner",
+      "y": 90
+    },
+    "corner_left=false,corner_right=true,left=true,right=true,rotation=1": {
+      "model": "variedcommodities:block/couch_wool_dark_oak_corner",
+      "y": 180
+    },
+    "corner_left=false,corner_right=true,left=true,right=true,rotation=2": {
+      "model": "variedcommodities:block/couch_wool_dark_oak_corner",
+      "y": 270
+    },
+    "corner_left=false,corner_right=true,left=true,right=true,rotation=3": {
+      "model": "variedcommodities:block/couch_wool_dark_oak_corner"
+    },
+    "corner_left=true,corner_right=false,left=false,right=false,rotation=0": {
+      "model": "variedcommodities:block/couch_wool_dark_oak_corner"
+    },
+    "corner_left=true,corner_right=false,left=false,right=false,rotation=1": {
+      "model": "variedcommodities:block/couch_wool_dark_oak_corner",
+      "y": 90
+    },
+    "corner_left=true,corner_right=false,left=false,right=false,rotation=2": {
+      "model": "variedcommodities:block/couch_wool_dark_oak_corner",
+      "y": 180
+    },
+    "corner_left=true,corner_right=false,left=false,right=false,rotation=3": {
+      "model": "variedcommodities:block/couch_wool_dark_oak_corner",
+      "y": 270
+    },
+    "corner_left=true,corner_right=false,left=false,right=true,rotation=0": {
+      "model": "variedcommodities:block/couch_wool_dark_oak_corner"
+    },
+    "corner_left=true,corner_right=false,left=false,right=true,rotation=1": {
+      "model": "variedcommodities:block/couch_wool_dark_oak_corner",
+      "y": 90
+    },
+    "corner_left=true,corner_right=false,left=false,right=true,rotation=2": {
+      "model": "variedcommodities:block/couch_wool_dark_oak_corner",
+      "y": 180
+    },
+    "corner_left=true,corner_right=false,left=false,right=true,rotation=3": {
+      "model": "variedcommodities:block/couch_wool_dark_oak_corner",
+      "y": 270
+    },
+    "corner_left=true,corner_right=false,left=true,right=false,rotation=0": {
+      "model": "variedcommodities:block/couch_wool_dark_oak_corner"
+    },
+    "corner_left=true,corner_right=false,left=true,right=false,rotation=1": {
+      "model": "variedcommodities:block/couch_wool_dark_oak_corner",
+      "y": 90
+    },
+    "corner_left=true,corner_right=false,left=true,right=false,rotation=2": {
+      "model": "variedcommodities:block/couch_wool_dark_oak_corner",
+      "y": 180
+    },
+    "corner_left=true,corner_right=false,left=true,right=false,rotation=3": {
+      "model": "variedcommodities:block/couch_wool_dark_oak_corner",
+      "y": 270
+    },
+    "corner_left=true,corner_right=false,left=true,right=true,rotation=0": {
+      "model": "variedcommodities:block/couch_wool_dark_oak_corner"
+    },
+    "corner_left=true,corner_right=false,left=true,right=true,rotation=1": {
+      "model": "variedcommodities:block/couch_wool_dark_oak_corner",
+      "y": 90
+    },
+    "corner_left=true,corner_right=false,left=true,right=true,rotation=2": {
+      "model": "variedcommodities:block/couch_wool_dark_oak_corner",
+      "y": 180
+    },
+    "corner_left=true,corner_right=false,left=true,right=true,rotation=3": {
+      "model": "variedcommodities:block/couch_wool_dark_oak_corner",
+      "y": 270
+    },
+    "corner_left=true,corner_right=true,left=false,right=false,rotation=0": {
+      "model": "variedcommodities:block/couch_wool_dark_oak_corner",
+      "y": 90
+    },
+    "corner_left=true,corner_right=true,left=false,right=false,rotation=1": {
+      "model": "variedcommodities:block/couch_wool_dark_oak_corner",
+      "y": 180
+    },
+    "corner_left=true,corner_right=true,left=false,right=false,rotation=2": {
+      "model": "variedcommodities:block/couch_wool_dark_oak_corner",
+      "y": 270
+    },
+    "corner_left=true,corner_right=true,left=false,right=false,rotation=3": {
+      "model": "variedcommodities:block/couch_wool_dark_oak_corner"
+    },
+    "corner_left=true,corner_right=true,left=false,right=true,rotation=0": {
+      "model": "variedcommodities:block/couch_wool_dark_oak_corner",
+      "y": 90
+    },
+    "corner_left=true,corner_right=true,left=false,right=true,rotation=1": {
+      "model": "variedcommodities:block/couch_wool_dark_oak_corner",
+      "y": 180
+    },
+    "corner_left=true,corner_right=true,left=false,right=true,rotation=2": {
+      "model": "variedcommodities:block/couch_wool_dark_oak_corner",
+      "y": 270
+    },
+    "corner_left=true,corner_right=true,left=false,right=true,rotation=3": {
+      "model": "variedcommodities:block/couch_wool_dark_oak_corner"
+    },
+    "corner_left=true,corner_right=true,left=true,right=false,rotation=0": {
+      "model": "variedcommodities:block/couch_wool_dark_oak_corner",
+      "y": 90
+    },
+    "corner_left=true,corner_right=true,left=true,right=false,rotation=1": {
+      "model": "variedcommodities:block/couch_wool_dark_oak_corner",
+      "y": 180
+    },
+    "corner_left=true,corner_right=true,left=true,right=false,rotation=2": {
+      "model": "variedcommodities:block/couch_wool_dark_oak_corner",
+      "y": 270
+    },
+    "corner_left=true,corner_right=true,left=true,right=false,rotation=3": {
+      "model": "variedcommodities:block/couch_wool_dark_oak_corner"
+    },
+    "corner_left=true,corner_right=true,left=true,right=true,rotation=0": {
+      "model": "variedcommodities:block/couch_wool_dark_oak_corner",
+      "y": 90
+    },
+    "corner_left=true,corner_right=true,left=true,right=true,rotation=1": {
+      "model": "variedcommodities:block/couch_wool_dark_oak_corner",
+      "y": 180
+    },
+    "corner_left=true,corner_right=true,left=true,right=true,rotation=2": {
+      "model": "variedcommodities:block/couch_wool_dark_oak_corner",
+      "y": 270
+    },
+    "corner_left=true,corner_right=true,left=true,right=true,rotation=3": {
+      "model": "variedcommodities:block/couch_wool_dark_oak_corner"
+    }
+  }
+}

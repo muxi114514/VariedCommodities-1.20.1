@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "holyhandgrenade"
+    }
+  ],
+  "category": "equipment",
+  "pattern": [
+    " X ",
+    "XYX",
+    " X "
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:rabbit_foot"
+    },
+    "Y": {
+      "item": "minecraft:tnt"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:holyhandgrenade",
+    "count": 1
+  }
+}

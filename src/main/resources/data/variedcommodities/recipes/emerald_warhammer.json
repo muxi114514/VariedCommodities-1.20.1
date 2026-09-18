@@ -1,0 +1,28 @@
+{
+  "type": "variedcommodities:carpentry",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "emerald_warhammer"
+    }
+  ],
+  "group": "variedcommodities:warhammer",
+  "pattern": [
+    "XXX",
+    " Y ",
+    " Y ",
+    " Y "
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:emerald"
+    },
+    "Y": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:emerald_warhammer",
+    "count": 1
+  }
+}

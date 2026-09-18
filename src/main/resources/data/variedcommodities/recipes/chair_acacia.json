@@ -1,0 +1,25 @@
+{
+  "type": "variedcommodities:carpentry",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "chair_acacia"
+    }
+  ],
+  "group": "variedcommodities:chair",
+  "pattern": [
+    "  X",
+    "  X",
+    "XXX",
+    "X X"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:acacia_planks"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:chair_acacia",
+    "count": 1
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "variedcommodities:carpentry",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "frost_shield"
+    }
+  ],
+  "group": "variedcommodities:shield",
+  "pattern": [
+    "X  X",
+    "XXXX",
+    "XXXX",
+    " XX "
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:packed_ice"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:frost_shield",
+    "count": 1
+  }
+}

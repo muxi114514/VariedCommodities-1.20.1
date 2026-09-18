@@ -1,0 +1,25 @@
+{
+  "type": "variedcommodities:carpentry",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "crate_spruce"
+    }
+  ],
+  "group": "variedcommodities:crate",
+  "pattern": [
+    "XXXX",
+    "X  X",
+    "X  X",
+    "XXXX"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:spruce_planks"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:crate_spruce",
+    "count": 1
+  }
+}

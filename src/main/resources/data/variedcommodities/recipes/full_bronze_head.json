@@ -1,0 +1,23 @@
+{
+  "type": "variedcommodities:carpentry",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "full_bronze_head"
+    }
+  ],
+  "group": "variedcommodities:full_head",
+  "pattern": [
+    "XXXX",
+    "X  X"
+  ],
+  "key": {
+    "X": {
+      "item": "variedcommodities:ingot_bronze"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:full_bronze_head",
+    "count": 1
+  }
+}

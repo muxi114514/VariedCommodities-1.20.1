@@ -1,0 +1,28 @@
+{
+  "type": "variedcommodities:carpentry",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "wooden_spear"
+    }
+  ],
+  "group": "variedcommodities:spear",
+  "pattern": [
+    "X",
+    "Y",
+    "Y",
+    "Y"
+  ],
+  "key": {
+    "X": {
+      "tag": "minecraft:planks"
+    },
+    "Y": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:wooden_spear",
+    "count": 1
+  }
+}

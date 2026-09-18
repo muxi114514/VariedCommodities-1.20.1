@@ -1,0 +1,23 @@
+{
+  "type": "variedcommodities:carpentry",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "iron_skirt"
+    }
+  ],
+  "group": "variedcommodities:skirt",
+  "pattern": [
+    " XX ",
+    "XXXX"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:iron_skirt",
+    "count": 1
+  }
+}

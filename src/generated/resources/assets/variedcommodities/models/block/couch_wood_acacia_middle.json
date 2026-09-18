@@ -1,0 +1,7 @@
+{
+  "parent": "variedcommodities:block/shape/couch_wood_middle",
+  "textures": {
+    "particle": "minecraft:block/acacia_planks",
+    "planks": "minecraft:block/acacia_planks"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "variedcommodities:carpentry",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "golden_skirt"
+    }
+  ],
+  "group": "variedcommodities:skirt",
+  "pattern": [
+    " XX ",
+    "XXXX"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:golden_skirt",
+    "count": 1
+  }
+}

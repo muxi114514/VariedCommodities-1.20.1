@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+	"textures": {
+		"layer0": "variedcommodities:item/x407_legs"
+	}
+}
+

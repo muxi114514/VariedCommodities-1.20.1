@@ -1,0 +1,28 @@
+{
+  "type": "variedcommodities:carpentry",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "frost_glaive"
+    }
+  ],
+  "group": "variedcommodities:glaive",
+  "pattern": [
+    "   X",
+    "  Y ",
+    " Y  ",
+    "X   "
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:packed_ice"
+    },
+    "Y": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:frost_glaive",
+    "count": 1
+  }
+}

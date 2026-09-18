@@ -1,0 +1,7 @@
+{
+	"parent": "variedcommodities:item/basic_dagger_reversed",
+	"textures": {
+		"layer0": "variedcommodities:item/golden_dagger_reversed"
+	}
+}
+

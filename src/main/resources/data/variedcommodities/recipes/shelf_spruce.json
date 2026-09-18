@@ -1,0 +1,27 @@
+{
+  "type": "variedcommodities:carpentry",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "shelf_spruce"
+    }
+  ],
+  "group": "variedcommodities:shelf",
+  "pattern": [
+    "XXXX",
+    "X Y ",
+    "XY  "
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:spruce_planks"
+    },
+    "Y": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:shelf_spruce",
+    "count": 3
+  }
+}

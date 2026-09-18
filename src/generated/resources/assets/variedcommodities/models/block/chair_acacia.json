@@ -1,0 +1,7 @@
+{
+  "parent": "variedcommodities:block/shape/chair",
+  "textures": {
+    "particle": "minecraft:block/acacia_planks",
+    "planks": "minecraft:block/acacia_planks"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "variedcommodities:carpentry",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "banner_stone"
+    }
+  ],
+  "group": "variedcommodities:banner",
+  "pattern": [
+    " X ",
+    " Z ",
+    " Z ",
+    "ZZZ"
+  ],
+  "key": {
+    "X": {
+      "item": "variedcommodities:wall_banner_stone"
+    },
+    "Z": {
+      "tag": "forge:stone"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:banner_stone",
+    "count": 1
+  }
+}

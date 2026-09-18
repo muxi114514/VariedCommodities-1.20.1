@@ -1,0 +1,28 @@
+{
+  "type": "variedcommodities:carpentry",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "iron_glaive"
+    }
+  ],
+  "group": "variedcommodities:glaive",
+  "pattern": [
+    "   X",
+    "  Y ",
+    " Y  ",
+    "X   "
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:iron_ingot"
+    },
+    "Y": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:iron_glaive",
+    "count": 1
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "variedcommodities:carpentry",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "demonic_shield_round"
+    }
+  ],
+  "group": "variedcommodities:shield_round",
+  "pattern": [
+    " XX ",
+    "XXXX",
+    "XXXX",
+    " XX "
+  ],
+  "key": {
+    "X": {
+      "item": "variedcommodities:ingot_demonic"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:demonic_shield_round",
+    "count": 1
+  }
+}

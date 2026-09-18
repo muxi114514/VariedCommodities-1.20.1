@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "sign_acacia"
+    }
+  ],
+  "category": "building",
+  "group": "variedcommodities:sign",
+  "pattern": [
+    "YYY",
+    "XXX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:acacia_planks"
+    },
+    "Y": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:sign_acacia",
+    "count": 3
+  }
+}

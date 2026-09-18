@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "rotation=0": {
+      "model": "variedcommodities:block/shelf_birch"
+    },
+    "rotation=1": {
+      "model": "variedcommodities:block/shelf_birch",
+      "y": 90
+    },
+    "rotation=2": {
+      "model": "variedcommodities:block/shelf_birch",
+      "y": 180
+    },
+    "rotation=3": {
+      "model": "variedcommodities:block/shelf_birch",
+      "y": 270
+    }
+  }
+}

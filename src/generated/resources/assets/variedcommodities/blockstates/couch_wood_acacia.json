@@ -1,0 +1,64 @@
+{
+  "variants": {
+    "left=false,right=false,rotation=0": {
+      "model": "variedcommodities:block/couch_wood_acacia"
+    },
+    "left=false,right=false,rotation=1": {
+      "model": "variedcommodities:block/couch_wood_acacia",
+      "y": 90
+    },
+    "left=false,right=false,rotation=2": {
+      "model": "variedcommodities:block/couch_wood_acacia",
+      "y": 180
+    },
+    "left=false,right=false,rotation=3": {
+      "model": "variedcommodities:block/couch_wood_acacia",
+      "y": 270
+    },
+    "left=false,right=true,rotation=0": {
+      "model": "variedcommodities:block/couch_wood_acacia_right"
+    },
+    "left=false,right=true,rotation=1": {
+      "model": "variedcommodities:block/couch_wood_acacia_right",
+      "y": 90
+    },
+    "left=false,right=true,rotation=2": {
+      "model": "variedcommodities:block/couch_wood_acacia_right",
+      "y": 180
+    },
+    "left=false,right=true,rotation=3": {
+      "model": "variedcommodities:block/couch_wood_acacia_right",
+      "y": 270
+    },
+    "left=true,right=false,rotation=0": {
+      "model": "variedcommodities:block/couch_wood_acacia_left"
+    },
+    "left=true,right=false,rotation=1": {
+      "model": "variedcommodities:block/couch_wood_acacia_left",
+      "y": 90
+    },
+    "left=true,right=false,rotation=2": {
+      "model": "variedcommodities:block/couch_wood_acacia_left",
+      "y": 180
+    },
+    "left=true,right=false,rotation=3": {
+      "model": "variedcommodities:block/couch_wood_acacia_left",
+      "y": 270
+    },
+    "left=true,right=true,rotation=0": {
+      "model": "variedcommodities:block/couch_wood_acacia_middle"
+    },
+    "left=true,right=true,rotation=1": {
+      "model": "variedcommodities:block/couch_wood_acacia_middle",
+      "y": 90
+    },
+    "left=true,right=true,rotation=2": {
+      "model": "variedcommodities:block/couch_wood_acacia_middle",
+      "y": 180
+    },
+    "left=true,right=true,rotation=3": {
+      "model": "variedcommodities:block/couch_wood_acacia_middle",
+      "y": 270
+    }
+  }
+}

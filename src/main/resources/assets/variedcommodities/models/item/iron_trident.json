@@ -1,0 +1,7 @@
+{
+	"parent": "variedcommodities:item/basic_spear",
+	"textures": {
+		"layer0": "variedcommodities:item/iron_trident"
+	}
+}
+

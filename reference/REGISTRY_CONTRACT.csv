@@ -1,0 +1,369 @@
+name,kind,source,impl,variants,item_class,display
+vcrecipes_book,item,VCItems,ItemVCRecipesBook,1,,VariedCommodities Recipe Book
+coin_wood,item,VCItems,ItemBasic,1,,Wooden Coin
+coin_stone,item,VCItems,ItemBasic,1,,Stone Coin
+coin_bronze,item,VCItems,ItemBasic,1,,Bronze Coin
+coin_iron,item,VCItems,ItemBasic,1,,Iron Coin
+coin_gold,item,VCItems,ItemBasic,1,,Golden Coin
+coin_diamond,item,VCItems,ItemBasic,1,,Diamond Coin
+coin_emerald,item,VCItems,ItemBasic,1,,Emerald Coin
+gem_sapphire,item,VCItems,ItemBasic,1,,Sapphire
+gem_ruby,item,VCItems,ItemBasic,1,,Ruby
+gem_amethyst,item,VCItems,ItemBasic,1,,Amethyst
+ingot_bronze,item,VCItems,ItemBasic,1,,Bronze Ingot
+ingot_steel,item,VCItems,ItemBasic,1,,Steel Ingot
+ingot_demonic,item,VCItems,ItemBasic,1,,Demonic Ingot
+ingot_mithril,item,VCItems,ItemBasic,1,,Mithril Ingot
+banjo,item,VCItems,ItemMusic,1,,Banjo
+violin,item,VCItems,ItemMusicViolin,1,,Violin
+violin_bow,item,VCItems,ItemBasic,1,,Violin Bow
+harp,item,VCItems,ItemMusicViolin,1,,Harp
+guitar,item,VCItems,ItemMusic,1,,Guitar
+french_horn,item,VCItems,ItemMusic,1,,French Horn
+ocarina,item,VCItems,ItemMusicOracina,1,,Ocarina
+clarinet,item,VCItems,ItemMusicClarinet,1,,Clarinet
+element_earth,item,VCItems,ItemBasic,1,,Earth Element
+element_water,item,VCItems,ItemBasic,1,,Water Element
+element_fire,item,VCItems,ItemBasic,1,,Fire Element
+element_air,item,VCItems,ItemBasic,1,,Air Element
+spell_nature,item,VCItems,ItemBasic,1,,Nature Spell
+spell_arcane,item,VCItems,ItemBasic,1,,Arcane Spell
+spell_lightning,item,VCItems,ItemBasic,1,,Lightning Spell
+spell_ice,item,VCItems,ItemBasic,1,,Ice Spell
+spell_fire,item,VCItems,ItemBasic,1,,Fire Spell
+spell_dark,item,VCItems,ItemBasic,1,,Dark Spell
+spell_holy,item,VCItems,ItemBasic,1,,Holy Spell
+orb,item,VCItems,ItemOrb,16,,Orb
+orb_broken,item,VCItems,ItemOrb,16,,BrokenOrb
+ancient_scroll,item,VCItems,ItemBasic,1,,Ancient Scroll
+artifact,item,VCItems,ItemBasic,1,,Artifact
+locket,item,VCItems,ItemBasic,1,,Locket
+silk,item,VCItems,ItemBasic,1,,Silk
+statuette,item,VCItems,ItemBasic,1,,Statuette
+tablet,item,VCItems,ItemBasic,1,,Tablet
+heart,item,VCItems,ItemBasic,1,,Heart
+money,item,VCItems,ItemBasic,1,,Money
+necklace,item,VCItems,ItemBasic,1,,Necklace
+usb_stick,item,VCItems,ItemBasic,1,,USB-Stick
+ancient_coin,item,VCItems,ItemBasic,1,,Ancient Coin
+letter,item,VCItems,ItemBasic,1,,Letter
+plans,item,VCItems,ItemBasic,1,,Plans
+satchel,item,VCItems,ItemBasic,1,,Satchel
+bag,item,VCItems,ItemBasic,1,,Bag
+crystal,item,VCItems,ItemBasic,1,,Crystal
+severed_ear,item,VCItems,ItemBasic,1,,Severed Ear
+phone,item,VCItems,ItemBasic,1,,Phone
+bandit_mask,item,VCItems,ItemArmorBasic,1,,Bandit Mask
+paper_crown,item,VCItems,ItemArmorBasicColorable,1,,Paper Crown
+broken_arrow,item,VCItems,ItemBasic,1,,Broken Arrow
+car_key,item,VCItems,ItemBasic,1,,Car Key
+key,item,VCItems,ItemBasic,1,,Key
+key2,item,VCItems,ItemBasic,1,,Key
+pendant,item,VCItems,ItemBasic,1,,Pendant
+blueprint,item,VCItems,ItemBasic,1,,Blueprint
+ring,item,VCItems,ItemBasic,1,,Ring
+skull,item,VCItems,ItemBasic,1,,Skull
+chicken_sword,item,VCItems,ItemBasic,1,,Chicken Sword
+handcuffs,item,VCItems,ItemBasic,1,,Handcuffs
+magic_wand,item,VCItems,ItemWand,1,,Magic Wand
+bullet,item,VCWeapons,ItemBasic,1,,Bullet
+wooden_gun,item,VCWeapons,ItemGun,1,,Wooden Gun
+stone_gun,item,VCWeapons,ItemGun,1,,Stone Gun
+iron_gun,item,VCWeapons,ItemGun,1,,Iron Gun
+golden_gun,item,VCWeapons,ItemGun,1,,Golden Gun
+diamond_gun,item,VCWeapons,ItemGun,1,,Diamond Gun
+bronze_gun,item,VCWeapons,ItemGun,1,,Bronze Gun
+emerald_gun,item,VCWeapons,ItemGun,1,,Emerald Gun
+machine_gun,item,VCWeapons,ItemMachineGun,1,,Machine Gun
+mana,item,VCWeapons,ItemBasic,1,,Mana
+wooden_staff,item,VCWeapons,ItemStaff,1,,Wooden Staff
+stone_staff,item,VCWeapons,ItemStaff,1,,Stone Staff
+iron_staff,item,VCWeapons,ItemStaff,1,,Iron Staff
+golden_staff,item,VCWeapons,ItemStaff,1,,Golden Staff
+diamond_staff,item,VCWeapons,ItemStaff,1,,Diamond Staff
+bronze_staff,item,VCWeapons,ItemStaff,1,,Bronze Staff
+emerald_staff,item,VCWeapons,ItemStaff,1,,Emerald Staff
+demonic_staff,item,VCWeapons,ItemStaff,1,,Demonic Staff
+frost_staff,item,VCWeapons,ItemStaff,1,,Frost Staff
+mithril_staff,item,VCWeapons,ItemStaff,1,,Mithril Staff
+elemental_staff,item,VCWeapons,ItemStaffElemental,16,,Elemental Staff
+wooden_trident,item,VCWeapons,ItemWeaponBasic,1,,Wooden Trident
+stone_trident,item,VCWeapons,ItemWeaponBasic,1,,Stone Trident
+iron_trident,item,VCWeapons,ItemWeaponBasic,1,,Iron Trident
+golden_trident,item,VCWeapons,ItemWeaponBasic,1,,Golden Trident
+diamond_trident,item,VCWeapons,ItemWeaponBasic,1,,Diamond Trident
+bronze_trident,item,VCWeapons,ItemWeaponBasic,1,,Bronze Trident
+emerald_trident,item,VCWeapons,ItemWeaponBasic,1,,Emerald Trident
+cursed_trident,item,VCWeapons,ItemWeaponBasic,1,,Cursed Trident
+demonic_trident,item,VCWeapons,ItemWeaponBasic,1,,Demonic Trident
+frost_trident,item,VCWeapons,ItemWeaponBasic,1,,Frost Trident
+mithril_trident,item,VCWeapons,ItemWeaponBasic,1,,Mithril Trident
+kunai,item,VCWeapons,ItemKunai,1,,Kunai
+kunai_reversed,item,VCWeapons,ItemKunai,1,,Reverse Kunai
+shuriken,item,VCWeapons,ItemThrowingShuriken,1,,Shuriken
+shuriken_giant,item,VCWeapons,ItemThrowingWeapon,1,,Giant Shuriken
+katana,item,VCWeapons,ItemWeaponBasic,1,,Katana
+kukri,item,VCWeapons,ItemWeaponBasic,1,,Kukri
+ninja_claw,item,VCWeapons,ItemWeaponBasic,1,,Ninja Claw
+steel_claw,item,VCWeapons,ItemWeaponBasic,1,,Steel Claw
+bear_claw,item,VCWeapons,ItemWeaponBasic,1,,Bear Claw
+katar,item,VCWeapons,ItemWeaponBasic,1,,Katar
+bronze_sword,item,VCWeapons,ItemWeaponBasic,1,,Bronze Sword
+emerald_sword,item,VCWeapons,ItemWeaponBasic,1,,Emerald Sword
+demonic_sword,item,VCWeapons,ItemWeaponBasic,1,,Demonic Sword
+frost_sword,item,VCWeapons,ItemWeaponBasic,1,,Frost Sword
+mithril_sword,item,VCWeapons,ItemWeaponBasic,1,,Mithril Sword
+leaf_sword,item,VCWeapons,ItemWeaponBasic,1,,Leaf Blade
+golf_club,item,VCWeapons,ItemWeaponBasic,1,,Golf Club
+hammer,item,VCWeapons,ItemWeaponBasic,1,,Hammer
+baseball_bat,item,VCWeapons,ItemWeaponBasic,1,,Baseball Bat
+lead_pipe,item,VCWeapons,ItemWeaponBasic,1,,Lead Pipe
+cleaver,item,VCWeapons,ItemWeaponBasic,1,,Cleaver
+saber,item,VCWeapons,ItemWeaponBasic,1,,Saber
+hockey_stick,item,VCWeapons,ItemWeaponBasic,1,,Hockey Stick
+sledge_hammer,item,VCWeapons,ItemWeaponBasic,1,,Sledgehammer
+broken_bottle,item,VCWeapons,ItemWeaponBasic,1,,Broken Bottle
+combat_knive,item,VCWeapons,ItemWeaponBasic,1,,Combat Knife
+macuahuitl,item,VCWeapons,ItemWeaponBasic,1,,Macuahuitl
+bo_staff,item,VCWeapons,ItemWeaponBasic,1,,Bo Staff
+sai,item,VCWeapons,ItemWeaponBasic,1,,Sai Blade
+slingshot,item,VCWeapons,ItemSlingshot,1,,Slingshot
+musket,item,VCWeapons,ItemMusket,1,,Musket
+crossbow,item,VCWeapons,ItemCrossbow,1,,Crossbow
+crossbow_bolt,item,VCWeapons,ItemBasic,1,,Crossbow Bolt
+batton,item,VCWeapons,ItemWeaponBasic,1,,Baton
+chainsaw_gun,item,VCWeapons,ItemWeaponBasic,1,,GunChainsaw
+rapier,item,VCWeapons,ItemWeaponBasic,1,,Rapier
+crowbar,item,VCWeapons,ItemWeaponBasic,1,,Crowbar
+pipe_wrench,item,VCWeapons,ItemWeaponBasic,1,,Pipe Wrench
+swiss_army_knife,item,VCWeapons,ItemWeaponBasic,1,,Swiss Army Knife
+wrench,item,VCWeapons,ItemWeaponBasic,1,,Wrench
+excalibur,item,VCWeapons,ItemWeaponBasic,1,,Excalibur
+wooden_shield_round,item,VCWeapons,ItemShieldBasic,1,,Round Wooden Shield
+stone_shield_round,item,VCWeapons,ItemShieldBasic,1,,Round Stone Shield
+iron_shield_round,item,VCWeapons,ItemShieldBasic,1,,Round Iron Shield
+golden_shield_round,item,VCWeapons,ItemShieldBasic,1,,Round Golden Shield
+diamond_shield_round,item,VCWeapons,ItemShieldBasic,1,,Round Diamond Shield
+bronze_shield_round,item,VCWeapons,ItemShieldBasic,1,,Round Bronze Shield
+emerald_shield_round,item,VCWeapons,ItemShieldBasic,1,,Round Emerald Shield
+demonic_shield_round,item,VCWeapons,ItemShieldBasic,1,,Demonic Shield
+mithril_shield_round,item,VCWeapons,ItemShieldBasic,1,,Mithril Shield
+wooden_shield,item,VCWeapons,ItemShieldBasic,1,,Wooden Shield
+stone_shield,item,VCWeapons,ItemShieldBasic,1,,Stone Shield
+iron_shield,item,VCWeapons,ItemShieldBasic,1,,Iron Shield
+golden_shield,item,VCWeapons,ItemShieldBasic,1,,Golden Shield
+diamond_shield,item,VCWeapons,ItemShieldBasic,1,,Diamond Shield
+bronze_shield,item,VCWeapons,ItemShieldBasic,1,,Bronze Shield
+emerald_shield,item,VCWeapons,ItemShieldBasic,1,,Emerald Shield
+frost_shield,item,VCWeapons,ItemShieldBasic,1,,Frost Shield
+heater_shield,item,VCWeapons,ItemShieldBasic,1,,Steel Heater Shield
+crescent_shield,item,VCWeapons,ItemShieldBasic,1,,Steel Cryscent Shield
+scutum_shield,item,VCWeapons,ItemShieldBasic,1,,Steel Scutum Shield
+tower_shield,item,VCWeapons,ItemShieldBasic,1,,Steel Tower Shield
+wooden_spear,item,VCWeapons,ItemWeaponBasic,1,,Wooden Spear
+stone_spear,item,VCWeapons,ItemWeaponBasic,1,,Stone Spear
+iron_spear,item,VCWeapons,ItemWeaponBasic,1,,Iron Spear
+golden_spear,item,VCWeapons,ItemWeaponBasic,1,,Golden Spear
+diamond_spear,item,VCWeapons,ItemWeaponBasic,1,,Diamond Spear
+bronze_spear,item,VCWeapons,ItemWeaponBasic,1,,Bronze Spear
+emerald_spear,item,VCWeapons,ItemWeaponBasic,1,,Emerald Spear
+demonic_spear,item,VCWeapons,ItemWeaponBasic,1,,Demonic Spear
+frost_spear,item,VCWeapons,ItemWeaponBasic,1,,Frost Spear
+mithril_spear,item,VCWeapons,ItemWeaponBasic,1,,Mithril Spear
+wooden_halberd,item,VCWeapons,ItemWeaponBasic,1,,Wooden Halberd
+stone_halberd,item,VCWeapons,ItemWeaponBasic,1,,Stone Halberd
+iron_halberd,item,VCWeapons,ItemWeaponBasic,1,,Iron Halberd
+golden_halberd,item,VCWeapons,ItemWeaponBasic,1,,Golden Halberd
+diamond_halberd,item,VCWeapons,ItemWeaponBasic,1,,Diamond Halberd
+bronze_halberd,item,VCWeapons,ItemWeaponBasic,1,,Bronze Halberd
+emerald_halberd,item,VCWeapons,ItemWeaponBasic,1,,Emerald Halberd
+demonic_halberd,item,VCWeapons,ItemWeaponBasic,1,,Demonic Halberd
+frost_halberd,item,VCWeapons,ItemWeaponBasic,1,,Frost Halberd
+mithril_halberd,item,VCWeapons,ItemWeaponBasic,1,,Mithril Halberd
+wooden_battleaxe,item,VCWeapons,ItemWeaponBasic,1,,Wooden Battle Axe
+stone_battleaxe,item,VCWeapons,ItemWeaponBasic,1,,Stone Battle Axe
+iron_battleaxe,item,VCWeapons,ItemWeaponBasic,1,,Iron Battle Axe
+golden_battleaxe,item,VCWeapons,ItemWeaponBasic,1,,Golden Battle Axe
+diamond_battleaxe,item,VCWeapons,ItemWeaponBasic,1,,Diamond Battle Axe
+bronze_battleaxe,item,VCWeapons,ItemWeaponBasic,1,,Bronze Battle Axe
+emerald_battleaxe,item,VCWeapons,ItemWeaponBasic,1,,Emerald Battle Axe
+demonic_battleaxe,item,VCWeapons,ItemWeaponBasic,1,,Demonic Battle Axe
+frost_battleaxe,item,VCWeapons,ItemWeaponBasic,1,,Frost Battle Axe
+mithril_battleaxe,item,VCWeapons,ItemWeaponBasic,1,,Mithril Battle Axe
+wooden_warhammer,item,VCWeapons,ItemWeaponBasic,1,,Wooden Warhammer
+stone_warhammer,item,VCWeapons,ItemWeaponBasic,1,,Stone Warhammer
+iron_warhammer,item,VCWeapons,ItemWeaponBasic,1,,Iron Warhammer
+golden_warhammer,item,VCWeapons,ItemWeaponBasic,1,,Golden Warhammer
+diamond_warhammer,item,VCWeapons,ItemWeaponBasic,1,,Diamond Warhammer
+bronze_warhammer,item,VCWeapons,ItemWeaponBasic,1,,Bronze Warhammer
+emerald_warhammer,item,VCWeapons,ItemWeaponBasic,1,,Emerald Warhammer
+demonic_warhammer,item,VCWeapons,ItemWeaponBasic,1,,Demonic Warhammer
+frost_warhammer,item,VCWeapons,ItemWeaponBasic,1,,Frost Warhammer
+mithril_warhammer,item,VCWeapons,ItemWeaponBasic,1,,Mithril Warhammer
+wooden_mace,item,VCWeapons,ItemWeaponBasic,1,,Wooden Mace
+stone_mace,item,VCWeapons,ItemWeaponBasic,1,,Stone Mace
+iron_mace,item,VCWeapons,ItemWeaponBasic,1,,Iron Mace
+golden_mace,item,VCWeapons,ItemWeaponBasic,1,,Golden Mace
+diamond_mace,item,VCWeapons,ItemWeaponBasic,1,,Diamond Mace
+bronze_mace,item,VCWeapons,ItemWeaponBasic,1,,Bronze Mace
+emerald_mace,item,VCWeapons,ItemWeaponBasic,1,,Emerald Mace
+demonic_mace,item,VCWeapons,ItemWeaponBasic,1,,Demonic Mace
+frost_mace,item,VCWeapons,ItemWeaponBasic,1,,Frost Mace
+mithril_mace,item,VCWeapons,ItemWeaponBasic,1,,Mithril Mace
+wooden_dagger,item,VCWeapons,ItemWeaponBasic,1,,Wooden Dagger
+wooden_dagger_reversed,item,VCWeapons,ItemWeaponBasic,1,,Reversed Wooden Dagger
+stone_dagger,item,VCWeapons,ItemWeaponBasic,1,,Stone Dagger
+stone_dagger_reversed,item,VCWeapons,ItemWeaponBasic,1,,Reversed Stone Dagger
+iron_dagger,item,VCWeapons,ItemWeaponBasic,1,,Iron Dagger
+iron_dagger_reversed,item,VCWeapons,ItemWeaponBasic,1,,Reversed Iron Dagger
+golden_dagger,item,VCWeapons,ItemWeaponBasic,1,,Golden Dagger
+golden_dagger_reversed,item,VCWeapons,ItemWeaponBasic,1,,Reversed Golden Dagger
+diamond_dagger,item,VCWeapons,ItemWeaponBasic,1,,Diamond Dagger
+diamond_dagger_reversed,item,VCWeapons,ItemWeaponBasic,1,,Reversed Diamond Dagger
+bronze_dagger,item,VCWeapons,ItemWeaponBasic,1,,Bronze Dagger
+bronze_dagger_reversed,item,VCWeapons,ItemWeaponBasic,1,,Reversed Bronze Dagger
+emerald_dagger,item,VCWeapons,ItemWeaponBasic,1,,Emerald Dagger
+emerald_dagger_reversed,item,VCWeapons,ItemWeaponBasic,1,,Reversed Emerald Dagger
+demonic_dagger,item,VCWeapons,ItemWeaponBasic,1,,Demonic Dagger
+demonic_dagger_reversed,item,VCWeapons,ItemWeaponBasic,1,,Reversed Demonic Dagger
+frost_dagger,item,VCWeapons,ItemWeaponBasic,1,,Frost Dagger
+frost_dagger_reversed,item,VCWeapons,ItemWeaponBasic,1,,Reversed Frost Dagger
+mithril_dagger,item,VCWeapons,ItemWeaponBasic,1,,Mithril Dagger
+mithril_dagger_reversed,item,VCWeapons,ItemWeaponBasic,1,,Reversed Mithril Dagger
+wooden_scythe,item,VCWeapons,ItemWeaponBasic,1,,Wooden Scythe
+stone_scythe,item,VCWeapons,ItemWeaponBasic,1,,Stone Scythe
+iron_scythe,item,VCWeapons,ItemWeaponBasic,1,,Iron Scythe
+golden_scythe,item,VCWeapons,ItemWeaponBasic,1,,Golden Scythe
+diamond_scythe,item,VCWeapons,ItemWeaponBasic,1,,Diamond Scythe
+bronze_scythe,item,VCWeapons,ItemWeaponBasic,1,,Bronze Scythe
+emerald_scythe,item,VCWeapons,ItemWeaponBasic,1,,Emerald Scythe
+demonic_scythe,item,VCWeapons,ItemWeaponBasic,1,,Demonic Scythe
+frost_scythe,item,VCWeapons,ItemWeaponBasic,1,,Frost Scythe
+mithril_scythe,item,VCWeapons,ItemWeaponBasic,1,,Mithril Scythe
+wooden_glaive,item,VCWeapons,ItemWeaponBasic,1,,Wooden Glaive
+stone_glaive,item,VCWeapons,ItemWeaponBasic,1,,Stone Glaive
+iron_glaive,item,VCWeapons,ItemWeaponBasic,1,,Iron Glaive
+golden_glaive,item,VCWeapons,ItemWeaponBasic,1,,Golden Glaive
+diamond_glaive,item,VCWeapons,ItemWeaponBasic,1,,Diamond Glaive
+bronze_glaive,item,VCWeapons,ItemWeaponBasic,1,,Bronze Glaive
+emerald_glaive,item,VCWeapons,ItemWeaponBasic,1,,Emerald Glaive
+demonic_glaive,item,VCWeapons,ItemWeaponBasic,1,,Demonic Glaive
+frost_glaive,item,VCWeapons,ItemWeaponBasic,1,,Frost Glaive
+mithril_glaive,item,VCWeapons,ItemWeaponBasic,1,,Mithril Glaive
+wooden_broadsword,item,VCWeapons,ItemWeaponBasic,1,,Wooden Broadsword
+stone_broadsword,item,VCWeapons,ItemWeaponBasic,1,,Stone Broadsword
+iron_broadsword,item,VCWeapons,ItemWeaponBasic,1,,Iron Broadsword
+golden_broadsword,item,VCWeapons,ItemWeaponBasic,1,,Golden Broadsword
+diamond_broadsword,item,VCWeapons,ItemWeaponBasic,1,,Diamond Broadsword
+bronze_broadsword,item,VCWeapons,ItemWeaponBasic,1,,Bronze Broadsword
+emerald_broadsword,item,VCWeapons,ItemWeaponBasic,1,,Emerald Broadsword
+demonic_broadsword,item,VCWeapons,ItemWeaponBasic,1,,Demonic Broadsword
+frost_broadsword,item,VCWeapons,ItemWeaponBasic,1,,Frost Broadsword
+mithril_broadsword,item,VCWeapons,ItemWeaponBasic,1,,Mithril Broadsword
+holyhandgrenade,item,VCWeapons,ItemHolyHandGrenade,1,,Holy Hand Grenade
+cow_leather_head,item,VCArmors,ItemArmorBasic,1,,Cowleather Helmet
+cow_leather_chest,item,VCArmors,ItemArmorBasic,1,,Cowleather ChestPlate
+cow_leather_legs,item,VCArmors,ItemArmorBasic,1,,Cowleather Leggings
+cow_leather_boots,item,VCArmors,ItemArmorBasic,1,,Cowleather Boots
+nanorum_head,item,VCArmors,ItemArmorBasic,1,,Nanorum Helmet
+nanorum_chest,item,VCArmors,ItemArmorBasic,1,,Nanorum ChestPlate
+nanorum_legs,item,VCArmors,ItemArmorBasic,1,,Nanorum Leggings
+nanorum_boots,item,VCArmors,ItemArmorBasic,1,,Nanorum Boots
+tactical_head,item,VCArmors,ItemArmorBasic,1,,Tactical Helmet
+tactical_chest,item,VCArmors,ItemArmorBasic,1,,Tactical Vest
+full_leather_head,item,VCArmors,ItemArmorBasic,1,,Full Leather Helmet
+full_leather_chest,item,VCArmors,ItemArmorBasic,1,,Full Leather ChestPlate
+full_iron_head,item,VCArmors,ItemArmorBasic,1,,Full Iron Helmet
+full_iron_chest,item,VCArmors,ItemArmorBasic,1,,Full Iron ChestPlate
+full_golden_head,item,VCArmors,ItemArmorBasic,1,,Full Gold Helmet
+full_golden_chest,item,VCArmors,ItemArmorBasic,1,,Full Gold ChestPlate
+full_diamond_head,item,VCArmors,ItemArmorBasic,1,,Full Diamond Helmet
+full_diamond_chest,item,VCArmors,ItemArmorBasic,1,,Full Diamond ChestPlate
+full_bronze_head,item,VCArmors,ItemArmorBasic,1,,Full Bronze Helmet
+full_bronze_chest,item,VCArmors,ItemArmorBasic,1,,Full Bronze ChestPlate
+full_bronze_legs,item,VCArmors,ItemArmorBasic,1,,Full Bronze Leggings
+full_bronze_boots,item,VCArmors,ItemArmorBasic,1,,Full Bronze Boots
+full_emerald_head,item,VCArmors,ItemArmorBasic,1,,Full Emerald Helmet
+full_emerald_chest,item,VCArmors,ItemArmorBasic,1,,Full Emerald ChestPlate
+full_emerald_legs,item,VCArmors,ItemArmorBasic,1,,Full Emerald Leggings
+full_emerald_boots,item,VCArmors,ItemArmorBasic,1,,Full Emerald Boots
+full_wooden_head,item,VCArmors,ItemArmorBasic,1,,Full Wooden Helmet
+full_wooden_chest,item,VCArmors,ItemArmorBasic,1,,Full Wooden ChestPlate
+full_wooden_legs,item,VCArmors,ItemArmorBasic,1,,Full Wooden Leggings
+full_wooden_boots,item,VCArmors,ItemArmorBasic,1,,Full Wooden Boots
+tuxedo_chest,item,VCArmors,ItemArmorBasic,1,,Tuxedo Chest
+tuxedo_pants,item,VCArmors,ItemArmorBasic,1,,Tuxedo Pants
+tuxedo_bottom,item,VCArmors,ItemArmorBasic,1,,Tuxedo Trenchcoat
+wizard_head,item,VCArmors,ItemArmorBasic,1,,Wizard Head
+wizard_chest,item,VCArmors,ItemArmorBasic,1,,Wizard Chest
+wizard_pants,item,VCArmors,ItemArmorBasic,1,,Wizard Leggings
+assassin_head,item,VCArmors,ItemArmorBasic,1,,Assassins Helmet
+assassin_chest,item,VCArmors,ItemArmorBasic,1,,Assassins ChestPlate
+assassin_legs,item,VCArmors,ItemArmorBasic,1,,Assassins Leggings
+assassin_boots,item,VCArmors,ItemArmorBasic,1,,Assassins Boots
+soldier_head,item,VCArmors,ItemArmorBasic,1,,Soldier Helmet
+soldier_chest,item,VCArmors,ItemArmorBasic,1,,Soldier ChestPlate
+soldier_legs,item,VCArmors,ItemArmorBasic,1,,Soldier Leggings
+soldier_bottom,item,VCArmors,ItemArmorBasic,1,,Soldier Trenchcoat
+x407_head,item,VCArmors,ItemArmorBasic,1,,X407 Prototype Helmet
+x407_chest,item,VCArmors,ItemArmorBasic,1,,X407 Prototype ChestPlate
+x407_legs,item,VCArmors,ItemArmorBasic,1,,X407 Prototype Leggings
+x407_boots,item,VCArmors,ItemArmorBasic,1,,X407 Prototype Boots
+mithril_head,item,VCArmors,ItemArmorBasic,1,,Mithril Helmet
+mithril_chest,item,VCArmors,ItemArmorBasic,1,,Mithril ChestPlate
+mithril_legs,item,VCArmors,ItemArmorBasic,1,,Mithril Leggings
+mithril_boots,item,VCArmors,ItemArmorBasic,1,,Mithril Boots
+demonic_head,item,VCArmors,ItemArmorBasic,1,,Demonic Helmet
+demonic_chest,item,VCArmors,ItemArmorBasic,1,,Demonic ChestPlate
+demonic_legs,item,VCArmors,ItemArmorBasic,1,,Demonic Leggings
+demonic_boots,item,VCArmors,ItemArmorBasic,1,,Demonic Boots
+commissar_head,item,VCArmors,ItemArmorBasic,1,,Commissar Helmet
+commissar_chest,item,VCArmors,ItemArmorBasic,1,,Commissar ChestPlate
+commissar_legs,item,VCArmors,ItemArmorBasic,1,,Commissar Leggings
+commissar_bottom,item,VCArmors,ItemArmorBasic,1,,Commissar Trenchcoat
+infantry_helmet,item,VCArmors,ItemArmorBasic,1,,Infantry Helmet
+officer_chest,item,VCArmors,ItemArmorBasic,1,,Officer ChestPlate
+crown,item,VCArmors,ItemArmorBasic,1,,Crown
+crown2,item,VCArmors,ItemArmorBasic,1,,Crown
+ninja_head,item,VCArmors,ItemArmorBasic,1,,Ninja Head
+ninja_chest,item,VCArmors,ItemArmorBasic,1,,Ninja Chest
+ninja_legs,item,VCArmors,ItemArmorBasic,1,,Ninja Leggings
+chain_skirt,item,VCArmors,ItemArmorSkirt,1,,Chain Skirt
+leather_skirt,item,VCArmors,ItemArmorSkirt,1,,Leather Skirt
+golden_skirt,item,VCArmors,ItemArmorSkirt,1,,Golden Skirt
+iron_skirt,item,VCArmors,ItemArmorSkirt,1,,Iron Skirt
+diamond_skirt,item,VCArmors,ItemArmorSkirt,1,,Diamond Skirt
+emerald_skirt,item,VCArmors,ItemArmorSkirt,1,,Emerald Skirt
+bronze_skirt,item,VCArmors,ItemArmorSkirt,1,,Bronze Skirt
+demonic_skirt,item,VCArmors,ItemArmorSkirt,1,,Demonic Skirt
+mithril_skirt,item,VCArmors,ItemArmorSkirt,1,,Mithril Skirt
+trading_block,block,VCBlocks,BlockTrading,1,ItemBlock,Trading Block
+carpentry_bench,block,VCBlocks,BlockCarpentryBench,2,ItemBlockNamed,Carpentry Bench
+blood_block,block,VCBlocks,BlockBlood,3,ItemBlock,Blood Block
+banner,block,VCBlocks,BlockBanner,5,ItemBlock,Banner
+wall_banner,block,VCBlocks,BlockWallBanner,5,ItemBlock,Wall Banner
+sign,block,VCBlocks,BlockSign,6,ItemBlock,Sign
+tall_lamp,block,VCBlocks,BlockTallLamp,5,ItemBlock,Tall Lamp
+candle,block,VCBlocks,BlockCandle,1,ItemBlockLight,Candle
+candle_unlit,block,VCBlocks,BlockCandle,1,ItemBlockLight,
+lamp,block,VCBlocks,BlockLamp,1,ItemBlockLight,Lamp
+lamp_unlit,block,VCBlocks,BlockLamp,1,ItemBlockLight,
+campfire,block,VCBlocks,BlockCampfire,1,ItemBlock,Campfire
+campfire_unlit,block,VCBlocks,BlockCampfire,1,ItemBlock,
+chair,block,VCBlocks,BlockChair,6,ItemBlock,Chair
+couch_wool,block,VCBlocks,BlockCouchWool,6,ItemBlock,Wool Couch
+couch_wood,block,VCBlocks,BlockCouchWood,6,ItemBlock,Wooden Couch
+crate,block,VCBlocks,BlockCrate,6,ItemBlock,Crate
+barrel,block,VCBlocks,BlockBarrel,6,ItemBlock,Barrel
+weapon_rack,block,VCBlocks,BlockWeaponRack,6,ItemBlock,Weapon Rack
+pedestal,block,VCBlocks,BlockPedestal,5,ItemBlock,Pedestal
+crystal_block,block,VCBlocks,BlockCrystal,16,ItemBlockColored,
+stool,block,VCBlocks,BlockStool,6,ItemBlock,Stool
+table,block,VCBlocks,BlockTable,6,ItemBlock,Wooden Table
+shelf,block,VCBlocks,BlockShelf,6,ItemBlock,Shelf
+beam,block,VCBlocks,BlockBeam,6,ItemBlock,Beam
+big_sign,block,VCBlocks,BlockBigSign,1,ItemBlock,Big Sign
+book,block,VCBlocks,BlockBook,1,ItemBlock,
+tombstone,block,VCBlocks,BlockTombstone,3,ItemBlock,Tombstone
+placeholder,block,VCBlocks,BlockPlaceholder,16,ItemPlaceholder,Placeholder
+lighter,item,VCItems,ItemFlintAndSteel,1,,Lighter

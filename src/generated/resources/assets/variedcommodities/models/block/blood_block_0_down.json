@@ -1,0 +1,7 @@
+{
+  "parent": "variedcommodities:block/shape/blood_down",
+  "textures": {
+    "blood": "variedcommodities:block/blood_block_0",
+    "particle": "variedcommodities:block/blood_block_0"
+  }
+}

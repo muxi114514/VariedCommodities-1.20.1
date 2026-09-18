@@ -1,0 +1,6 @@
+{
+  "parent": "variedcommodities:block/shape/lamp_ceiling",
+  "textures": {
+    "particle": "variedcommodities:block/model/lamp"
+  }
+}

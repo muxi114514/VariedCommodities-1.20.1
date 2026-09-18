@@ -1,0 +1,31 @@
+{
+  "parent": "minecraft:block/block",
+  "elements": [
+    {
+      "from": [
+        0.01,
+        0,
+        0
+      ],
+      "to": [
+        0.01,
+        16,
+        16
+      ],
+      "shade": false,
+      "faces": {
+        "east": {
+          "texture": "#tex"
+        },
+        "west": {
+          "texture": "#tex"
+        }
+      }
+    }
+  ],
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "tex": "#blood",
+    "particle": "#blood"
+  }
+}

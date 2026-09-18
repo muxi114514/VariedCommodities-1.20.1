@@ -1,0 +1,28 @@
+{
+  "type": "variedcommodities:carpentry",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "mithril_spear"
+    }
+  ],
+  "group": "variedcommodities:spear",
+  "pattern": [
+    "X",
+    "Y",
+    "Y",
+    "Y"
+  ],
+  "key": {
+    "X": {
+      "item": "variedcommodities:ingot_mithril"
+    },
+    "Y": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:mithril_spear",
+    "count": 1
+  }
+}

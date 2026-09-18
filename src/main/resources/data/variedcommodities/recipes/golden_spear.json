@@ -1,0 +1,28 @@
+{
+  "type": "variedcommodities:carpentry",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "golden_spear"
+    }
+  ],
+  "group": "variedcommodities:spear",
+  "pattern": [
+    "X",
+    "Y",
+    "Y",
+    "Y"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:gold_ingot"
+    },
+    "Y": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:golden_spear",
+    "count": 1
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "type": "variedcommodities:carpentry",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "tall_lamp_diamond"
+    }
+  ],
+  "group": "variedcommodities:tall_lamp",
+  "pattern": [
+    "YXY",
+    " Z ",
+    " Z ",
+    "ZZZ"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:torch"
+    },
+    "Y": {
+      "tag": "minecraft:wool"
+    },
+    "Z": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:tall_lamp_diamond",
+    "count": 1
+  }
+}

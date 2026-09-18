@@ -1,0 +1,23 @@
+{
+  "type": "variedcommodities:carpentry",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "full_wooden_head"
+    }
+  ],
+  "group": "variedcommodities:full_head",
+  "pattern": [
+    "XXXX",
+    "X  X"
+  ],
+  "key": {
+    "X": {
+      "tag": "minecraft:logs"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:full_wooden_head",
+    "count": 1
+  }
+}

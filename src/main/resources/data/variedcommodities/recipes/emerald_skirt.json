@@ -1,0 +1,23 @@
+{
+  "type": "variedcommodities:carpentry",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "emerald_skirt"
+    }
+  ],
+  "group": "variedcommodities:skirt",
+  "pattern": [
+    " XX ",
+    "XXXX"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:emerald"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:emerald_skirt",
+    "count": 1
+  }
+}

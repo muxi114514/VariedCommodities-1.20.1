@@ -1,0 +1,118 @@
+plugins {
+    id 'net.minecraftforge.gradle' version '6.+'
+    id 'java'
+    id 'idea'
+}
+
+version = "${minecraft_version}-${mod_version}"
+group = project.group
+
+base.archivesName.set("${mod_name}")
+
+java.toolchain.languageVersion = JavaLanguageVersion.of(17)
+java.withSourcesJar()
+
+minecraft {
+    mappings channel: 'official', version: minecraft_version
+    copyIdeResources = true
+
+    if (file('src/main/resources/META-INF/accesstransformer.cfg').exists()) {
+        accessTransformer = file('src/main/resources/META-INF/accesstransformer.cfg')
+    }
+
+    runs {
+        client {
+            workingDirectory project.file('run')
+            taskName 'Client'
+            property 'forge.logging.markers', 'REGISTRIES'
+            property 'forge.logging.console.level', 'debug'
+        }
+
+        server {
+            workingDirectory project.file('run')
+            taskName 'Server'
+            property 'forge.logging.markers', 'REGISTRIES'
+            property 'forge.logging.console.level', 'debug'
+        }
+
+        // 数据生成：blockstate / 模型 / 配方 / 战利品表 / lang 全部由代码产出，
+        // 避免 378 个注册项的资源手写遗漏（移植版紫黑块、挖了不掉的根因）
+        data {
+            workingDirectory project.file('run')
+            args '--mod', mod_id, '--all', '--output', file('src/generated/resources/'), '--existing', file('src/main/resources/')
+            taskName 'Data'
+        }
+    }
+}
+
+// 生成的资源并入主 sourceSet
+sourceSets.main.resources { srcDir 'src/generated/resources' }
+
+repositories {
+    maven {
+        name = "BlameJared maven"
+        url = 'https://maven.blamejared.com/'
+    }
+}
+
+dependencies {
+    minecraft "net.minecraftforge:forge:${minecraft_version}-${forge_version}"
+
+    // ── 软联动：JEI（P6 木工台配方展示，非硬前置）──
+    // @JeiPlugin 仅在 JEI 存在时被加载，无 JEI 环境不会触碰这些类
+    compileOnly fg.deobf("mezz.jei:jei-1.20.1-common-api:${jei_version}")
+    compileOnly fg.deobf("mezz.jei:jei-1.20.1-forge-api:${jei_version}")
+    runtimeOnly fg.deobf("mezz.jei:jei-1.20.1-forge:${jei_version}")
+}
+
+jar {
+    manifest {
+        attributes([
+            'Specification-Title'     : mod_name,
+            'Specification-Vendor'    : mod_authors,
+            'Specification-Version'   : mod_version,
+            'Implementation-Title'    : project.name,
+            'Implementation-Version'  : mod_version,
+            'Implementation-Vendor'   : mod_authors,
+            'Implementation-Timestamp': new Date().format("yyyy-MM-dd'T'HH:mm:ssZ"),
+            'Built-On-Java'           : "${System.getProperty('java.vm.version')} (${System.getProperty('java.vm.vendor')})",
+            'Build-On-Minecraft'      : minecraft_version
+        ])
+    }
+}
+
+jar.finalizedBy('reobfJar')
+
+sourceSets.each {
+    def dir = layout.buildDirectory.dir("sourcesSets/$it.name")
+    it.output.resourcesDir = dir
+    it.java.destinationDirectory = dir
+}
+
+tasks.withType(JavaCompile).configureEach {
+    it.options.encoding = 'UTF-8'
+    it.options.release.set(17)
+}
+
+processResources {
+    var expandProps = [
+        minecraft_version          : minecraft_version,
+        forge_version              : forge_version,
+        forge_version_range        : forge_version_range,
+        forge_loader_version_range : forge_loader_version_range,
+        mod_id                     : mod_id,
+        mod_name                   : mod_name,
+        mod_version                : mod_version,
+        mod_authors                : mod_authors,
+        mod_description            : mod_description,
+        mod_license                : mod_license
+    ]
+    filesMatching(['pack.mcmeta', 'META-INF/mods.toml']) {
+        expand expandProps
+    }
+    inputs.properties(expandProps)
+}
+
+tasks.withType(GenerateModuleMetadata) {
+    enabled = false
+}

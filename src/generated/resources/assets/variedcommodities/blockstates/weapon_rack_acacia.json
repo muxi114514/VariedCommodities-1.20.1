@@ -1,0 +1,34 @@
+{
+  "variants": {
+    "half=lower,rotation=0": {
+      "model": "variedcommodities:block/weapon_rack_acacia"
+    },
+    "half=lower,rotation=1": {
+      "model": "variedcommodities:block/weapon_rack_acacia",
+      "y": 90
+    },
+    "half=lower,rotation=2": {
+      "model": "variedcommodities:block/weapon_rack_acacia",
+      "y": 180
+    },
+    "half=lower,rotation=3": {
+      "model": "variedcommodities:block/weapon_rack_acacia",
+      "y": 270
+    },
+    "half=upper,rotation=0": {
+      "model": "variedcommodities:block/weapon_rack_acacia_top"
+    },
+    "half=upper,rotation=1": {
+      "model": "variedcommodities:block/weapon_rack_acacia_top",
+      "y": 90
+    },
+    "half=upper,rotation=2": {
+      "model": "variedcommodities:block/weapon_rack_acacia_top",
+      "y": 180
+    },
+    "half=upper,rotation=3": {
+      "model": "variedcommodities:block/weapon_rack_acacia_top",
+      "y": 270
+    }
+  }
+}

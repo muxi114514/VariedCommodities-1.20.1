@@ -1,0 +1,15 @@
+{
+	"parent": "variedcommodities:item/basic_shield",
+	"textures": {
+		"layer0": "variedcommodities:item/demonic_shield_round"
+	},
+    "overrides": [
+        {
+            "predicate": {
+                "blocking": 1
+            },
+            "model": "variedcommodities:item/demonic_shield_round_blocking"
+        }
+    ]    
+}
+

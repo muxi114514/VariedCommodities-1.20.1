@@ -1,0 +1,7 @@
+{
+	"parent": "variedcommodities:item/banjo",
+	"textures": {
+		"layer0": "variedcommodities:item/guitar"
+	}
+}
+

@@ -1,0 +1,52 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "variedcommodities:block/blood_block_2_down"
+      },
+      "when": {
+        "hide_down": "false"
+      }
+    },
+    {
+      "apply": {
+        "model": "variedcommodities:block/blood_block_2_up"
+      },
+      "when": {
+        "hide_up": "false"
+      }
+    },
+    {
+      "apply": {
+        "model": "variedcommodities:block/blood_block_2_north"
+      },
+      "when": {
+        "hide_north": "false"
+      }
+    },
+    {
+      "apply": {
+        "model": "variedcommodities:block/blood_block_2_south"
+      },
+      "when": {
+        "hide_south": "false"
+      }
+    },
+    {
+      "apply": {
+        "model": "variedcommodities:block/blood_block_2_west"
+      },
+      "when": {
+        "hide_west": "false"
+      }
+    },
+    {
+      "apply": {
+        "model": "variedcommodities:block/blood_block_2_east"
+      },
+      "when": {
+        "hide_east": "false"
+      }
+    }
+  ]
+}

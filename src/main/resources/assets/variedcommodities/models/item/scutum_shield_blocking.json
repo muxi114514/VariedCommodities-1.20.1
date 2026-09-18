@@ -1,0 +1,7 @@
+{
+    "parent": "variedcommodities:item/basic_shield_blocking",
+	"textures": {
+		"layer0": "variedcommodities:item/scutum_shield"
+	}
+}
+

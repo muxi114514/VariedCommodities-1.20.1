@@ -1,0 +1,25 @@
+{
+  "type": "variedcommodities:carpentry",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "chair_spruce"
+    }
+  ],
+  "group": "variedcommodities:chair",
+  "pattern": [
+    "  X",
+    "  X",
+    "XXX",
+    "X X"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:spruce_planks"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:chair_spruce",
+    "count": 1
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "mithril_chest"
+    }
+  ],
+  "category": "equipment",
+  "group": "variedcommodities:chest",
+  "pattern": [
+    "X X",
+    "XXX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "variedcommodities:ingot_mithril"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:mithril_chest",
+    "count": 1
+  }
+}

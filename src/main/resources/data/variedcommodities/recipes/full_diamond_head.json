@@ -1,0 +1,23 @@
+{
+  "type": "variedcommodities:carpentry",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "full_diamond_head"
+    }
+  ],
+  "group": "variedcommodities:full_head",
+  "pattern": [
+    "XXXX",
+    "X  X"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:full_diamond_head",
+    "count": 1
+  }
+}

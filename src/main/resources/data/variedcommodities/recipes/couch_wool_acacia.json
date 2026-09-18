@@ -1,0 +1,28 @@
+{
+  "type": "variedcommodities:carpentry",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "couch_wool_acacia"
+    }
+  ],
+  "group": "variedcommodities:couch_wool",
+  "pattern": [
+    "  ZX",
+    "  ZX",
+    "ZZZX",
+    "XXXX"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:acacia_planks"
+    },
+    "Z": {
+      "tag": "minecraft:wool"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:couch_wool_acacia",
+    "count": 1
+  }
+}

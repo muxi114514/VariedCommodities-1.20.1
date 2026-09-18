@@ -1,0 +1,24 @@
+{
+  "type": "variedcommodities:carpentry",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "stool_spruce"
+    }
+  ],
+  "group": "variedcommodities:stool",
+  "pattern": [
+    "XXXX",
+    " XX ",
+    "X  X"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:spruce_planks"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:stool_spruce",
+    "count": 1
+  }
+}

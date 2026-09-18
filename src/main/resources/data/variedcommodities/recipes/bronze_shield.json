@@ -1,0 +1,25 @@
+{
+  "type": "variedcommodities:carpentry",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "bronze_shield"
+    }
+  ],
+  "group": "variedcommodities:shield",
+  "pattern": [
+    "X  X",
+    "XXXX",
+    "XXXX",
+    " XX "
+  ],
+  "key": {
+    "X": {
+      "item": "variedcommodities:ingot_bronze"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:bronze_shield",
+    "count": 1
+  }
+}

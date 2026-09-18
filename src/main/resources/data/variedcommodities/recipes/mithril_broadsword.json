@@ -1,0 +1,28 @@
+{
+  "type": "variedcommodities:carpentry",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "mithril_broadsword"
+    }
+  ],
+  "group": "variedcommodities:broadsword",
+  "pattern": [
+    "X",
+    "X",
+    "X",
+    "Y"
+  ],
+  "key": {
+    "X": {
+      "item": "variedcommodities:ingot_mithril"
+    },
+    "Y": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:mithril_broadsword",
+    "count": 1
+  }
+}

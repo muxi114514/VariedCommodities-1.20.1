@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smelting",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "ingot_steel_from_smelting"
+    }
+  ],
+  "category": "misc",
+  "ingredient": {
+    "item": "minecraft:iron_ingot"
+  },
+  "result": "variedcommodities:ingot_steel",
+  "experience": 0.35,
+  "cookingtime": 200
+}

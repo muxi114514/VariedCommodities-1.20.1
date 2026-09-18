@@ -1,0 +1,245 @@
+{
+  "parent": "minecraft:block/block",
+  "elements": [
+    {
+      "from": [
+        1.0,
+        0.0,
+        1.0
+      ],
+      "to": [
+        15.0,
+        1.0,
+        15.0
+      ],
+      "faces": {
+        "up": {
+          "texture": "#material"
+        },
+        "down": {
+          "texture": "#material",
+          "cullface": "down"
+        },
+        "east": {
+          "texture": "#material"
+        },
+        "west": {
+          "texture": "#material"
+        },
+        "north": {
+          "texture": "#material"
+        },
+        "south": {
+          "texture": "#material"
+        }
+      }
+    },
+    {
+      "from": [
+        7.0,
+        1.0,
+        7.0
+      ],
+      "to": [
+        9.0,
+        16.0,
+        9.0
+      ],
+      "faces": {
+        "up": {
+          "texture": "#material",
+          "cullface": "up"
+        },
+        "down": {
+          "texture": "#material"
+        },
+        "east": {
+          "texture": "#material"
+        },
+        "west": {
+          "texture": "#material"
+        },
+        "north": {
+          "texture": "#material"
+        },
+        "south": {
+          "texture": "#material"
+        }
+      }
+    },
+    {
+      "from": [
+        2.0,
+        0.0,
+        0.0
+      ],
+      "to": [
+        14.0,
+        1.0,
+        1.0
+      ],
+      "faces": {
+        "up": {
+          "texture": "#material"
+        },
+        "down": {
+          "texture": "#material",
+          "cullface": "down"
+        },
+        "east": {
+          "texture": "#material"
+        },
+        "west": {
+          "texture": "#material"
+        },
+        "north": {
+          "texture": "#material",
+          "cullface": "north"
+        },
+        "south": {
+          "texture": "#material"
+        }
+      }
+    },
+    {
+      "from": [
+        2.0,
+        0.0,
+        15.0
+      ],
+      "to": [
+        14.0,
+        1.0,
+        16.0
+      ],
+      "faces": {
+        "up": {
+          "texture": "#material"
+        },
+        "down": {
+          "texture": "#material",
+          "cullface": "down"
+        },
+        "east": {
+          "texture": "#material"
+        },
+        "west": {
+          "texture": "#material"
+        },
+        "north": {
+          "texture": "#material"
+        },
+        "south": {
+          "texture": "#material",
+          "cullface": "south"
+        }
+      }
+    },
+    {
+      "from": [
+        15.0,
+        0.0,
+        2.0
+      ],
+      "to": [
+        16.0,
+        1.0,
+        14.0
+      ],
+      "faces": {
+        "up": {
+          "texture": "#material"
+        },
+        "down": {
+          "texture": "#material",
+          "cullface": "down"
+        },
+        "east": {
+          "texture": "#material",
+          "cullface": "east"
+        },
+        "west": {
+          "texture": "#material"
+        },
+        "north": {
+          "texture": "#material"
+        },
+        "south": {
+          "texture": "#material"
+        }
+      }
+    },
+    {
+      "from": [
+        0.0,
+        0.0,
+        2.0
+      ],
+      "to": [
+        1.0,
+        1.0,
+        14.0
+      ],
+      "faces": {
+        "up": {
+          "texture": "#material"
+        },
+        "down": {
+          "texture": "#material",
+          "cullface": "down"
+        },
+        "east": {
+          "texture": "#material"
+        },
+        "west": {
+          "texture": "#material",
+          "cullface": "west"
+        },
+        "north": {
+          "texture": "#material"
+        },
+        "south": {
+          "texture": "#material"
+        }
+      }
+    },
+    {
+      "from": [
+        0.5,
+        4.0,
+        6.0
+      ],
+      "to": [
+        15.5,
+        16.0,
+        6.0
+      ],
+      "faces": {
+        "north": {
+          "texture": "#tex",
+          "tintindex": 0,
+          "uv": [
+            7.5,
+            13.5,
+            0.0,
+            0.0
+          ]
+        },
+        "south": {
+          "texture": "#tex",
+          "tintindex": 0,
+          "uv": [
+            15.0,
+            13.5,
+            7.5,
+            0.0
+          ]
+        }
+      }
+    }
+  ],
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "tex": "variedcommodities:block/model/banner_flag"
+  }
+}

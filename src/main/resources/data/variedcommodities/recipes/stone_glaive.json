@@ -1,0 +1,28 @@
+{
+  "type": "variedcommodities:carpentry",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "stone_glaive"
+    }
+  ],
+  "group": "variedcommodities:glaive",
+  "pattern": [
+    "   X",
+    "  Y ",
+    " Y  ",
+    "X   "
+  ],
+  "key": {
+    "X": {
+      "tag": "forge:stone"
+    },
+    "Y": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:stone_glaive",
+    "count": 1
+  }
+}

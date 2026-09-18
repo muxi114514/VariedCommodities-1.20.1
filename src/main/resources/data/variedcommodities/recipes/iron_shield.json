@@ -1,0 +1,25 @@
+{
+  "type": "variedcommodities:carpentry",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "iron_shield"
+    }
+  ],
+  "group": "variedcommodities:shield",
+  "pattern": [
+    "X  X",
+    "XXXX",
+    "XXXX",
+    " XX "
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:iron_shield",
+    "count": 1
+  }
+}

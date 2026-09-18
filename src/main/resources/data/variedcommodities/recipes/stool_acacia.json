@@ -1,0 +1,24 @@
+{
+  "type": "variedcommodities:carpentry",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "stool_acacia"
+    }
+  ],
+  "group": "variedcommodities:stool",
+  "pattern": [
+    "XXXX",
+    " XX ",
+    "X  X"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:acacia_planks"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:stool_acacia",
+    "count": 1
+  }
+}

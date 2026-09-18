@@ -1,0 +1,25 @@
+{
+  "type": "variedcommodities:carpentry",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "emerald_shield_round"
+    }
+  ],
+  "group": "variedcommodities:shield_round",
+  "pattern": [
+    " XX ",
+    "XXXX",
+    "XXXX",
+    " XX "
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:emerald"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:emerald_shield_round",
+    "count": 1
+  }
+}

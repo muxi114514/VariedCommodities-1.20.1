@@ -1,0 +1,46 @@
+{
+  "parent": "minecraft:block/block",
+  "elements": [
+    {
+      "faces": {
+        "down": {
+          "texture": "#planks"
+        },
+        "east": {
+          "cullface": "east",
+          "texture": "#planks"
+        },
+        "north": {
+          "cullface": "north",
+          "texture": "#planks"
+        },
+        "south": {
+          "cullface": "south",
+          "texture": "#planks"
+        },
+        "up": {
+          "cullface": "up",
+          "texture": "#planks"
+        },
+        "west": {
+          "cullface": "west",
+          "texture": "#planks"
+        }
+      },
+      "from": [
+        0,
+        14,
+        0
+      ],
+      "to": [
+        16,
+        16,
+        16
+      ]
+    }
+  ],
+  "textures": {
+    "particle": "minecraft:block/spruce_planks",
+    "planks": "minecraft:block/spruce_planks"
+  }
+}

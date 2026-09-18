@@ -1,0 +1,25 @@
+{
+  "type": "variedcommodities:carpentry",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "full_golden_chest"
+    }
+  ],
+  "group": "variedcommodities:full_chest",
+  "pattern": [
+    "X X",
+    "XXX",
+    "XXX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:full_golden_chest",
+    "count": 1
+  }
+}

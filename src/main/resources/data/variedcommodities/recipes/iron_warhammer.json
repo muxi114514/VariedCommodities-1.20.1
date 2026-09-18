@@ -1,0 +1,28 @@
+{
+  "type": "variedcommodities:carpentry",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "iron_warhammer"
+    }
+  ],
+  "group": "variedcommodities:warhammer",
+  "pattern": [
+    "XXX",
+    " Y ",
+    " Y ",
+    " Y "
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:iron_ingot"
+    },
+    "Y": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:iron_warhammer",
+    "count": 1
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "variedcommodities:carpentry",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "couch_wood_oak"
+    }
+  ],
+  "group": "variedcommodities:couch_wood",
+  "pattern": [
+    "   X",
+    "   X",
+    "XXXX",
+    "X  X"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:oak_planks"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:couch_wood_oak",
+    "count": 1
+  }
+}

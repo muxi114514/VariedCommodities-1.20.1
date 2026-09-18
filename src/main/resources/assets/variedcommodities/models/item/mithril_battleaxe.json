@@ -1,0 +1,7 @@
+{
+	"parent": "variedcommodities:item/basic_battleaxe",
+	"textures": {
+		"layer0": "variedcommodities:item/mithril_battleaxe"
+	}
+}
+

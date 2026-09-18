@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "vcrecipes_book"
+    }
+  ],
+  "category": "misc",
+  "pattern": [
+    "XX"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:book"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:vcrecipes_book",
+    "count": 1
+  }
+}

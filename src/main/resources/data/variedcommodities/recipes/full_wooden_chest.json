@@ -1,0 +1,25 @@
+{
+  "type": "variedcommodities:carpentry",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "full_wooden_chest"
+    }
+  ],
+  "group": "variedcommodities:full_chest",
+  "pattern": [
+    "X X",
+    "XXX",
+    "XXX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "tag": "minecraft:logs"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:full_wooden_chest",
+    "count": 1
+  }
+}

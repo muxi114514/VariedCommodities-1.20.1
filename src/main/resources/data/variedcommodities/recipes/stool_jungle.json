@@ -1,0 +1,24 @@
+{
+  "type": "variedcommodities:carpentry",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "stool_jungle"
+    }
+  ],
+  "group": "variedcommodities:stool",
+  "pattern": [
+    "XXXX",
+    " XX ",
+    "X  X"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:jungle_planks"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:stool_jungle",
+    "count": 1
+  }
+}

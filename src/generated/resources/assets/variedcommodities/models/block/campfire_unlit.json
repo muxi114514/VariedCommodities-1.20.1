@@ -1,0 +1,8 @@
+{
+  "parent": "variedcommodities:block/shape/campfire",
+  "textures": {
+    "particle": "minecraft:block/cobblestone",
+    "planks": "minecraft:block/oak_planks",
+    "stone": "minecraft:block/cobblestone"
+  }
+}

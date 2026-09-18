@@ -1,0 +1,7 @@
+{
+	"parent": "variedcommodities:item/basic_gun",
+	"textures": {
+		"layer0": "variedcommodities:item/bronze_gun"
+	}
+}
+

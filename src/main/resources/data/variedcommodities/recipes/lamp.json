@@ -1,0 +1,30 @@
+{
+  "type": "variedcommodities:carpentry",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "lamp"
+    }
+  ],
+  "pattern": [
+    "XXX",
+    "Y Y",
+    "YZY",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:iron_ingot"
+    },
+    "Y": {
+      "item": "minecraft:glass"
+    },
+    "Z": {
+      "item": "minecraft:torch"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:lamp",
+    "count": 1
+  }
+}

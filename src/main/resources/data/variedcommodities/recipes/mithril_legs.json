@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "mithril_legs"
+    }
+  ],
+  "category": "equipment",
+  "group": "variedcommodities:legs",
+  "pattern": [
+    "XXX",
+    "X X",
+    "X X"
+  ],
+  "key": {
+    "X": {
+      "item": "variedcommodities:ingot_mithril"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:mithril_legs",
+    "count": 1
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "variedcommodities:carpentry",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "weapon_rack_oak"
+    }
+  ],
+  "group": "variedcommodities:weapon_rack",
+  "pattern": [
+    "XXX",
+    "XYX",
+    "XYX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:oak_planks"
+    },
+    "Y": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:weapon_rack_oak",
+    "count": 1
+  }
+}

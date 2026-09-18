@@ -1,0 +1,24 @@
+{
+  "type": "variedcommodities:carpentry",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "stool_birch"
+    }
+  ],
+  "group": "variedcommodities:stool",
+  "pattern": [
+    "XXXX",
+    " XX ",
+    "X  X"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:birch_planks"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:stool_birch",
+    "count": 1
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "variedcommodities:block/shape/chair",
+  "textures": {
+    "particle": "minecraft:block/dark_oak_planks",
+    "planks": "minecraft:block/dark_oak_planks"
+  }
+}

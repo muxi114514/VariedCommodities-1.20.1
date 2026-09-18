@@ -1,0 +1,7 @@
+{
+  "parent": "variedcommodities:block/shape/crate",
+  "textures": {
+    "particle": "minecraft:block/iron_block",
+    "planks": "minecraft:block/iron_block"
+  }
+}

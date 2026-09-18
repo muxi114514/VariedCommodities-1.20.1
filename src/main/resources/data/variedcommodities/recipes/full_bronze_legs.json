@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "full_bronze_legs"
+    }
+  ],
+  "category": "equipment",
+  "group": "variedcommodities:legs",
+  "pattern": [
+    "XXX",
+    "X X",
+    "X X"
+  ],
+  "key": {
+    "X": {
+      "item": "variedcommodities:ingot_bronze"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:full_bronze_legs",
+    "count": 1
+  }
+}

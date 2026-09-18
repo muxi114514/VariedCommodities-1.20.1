@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "demonic_boots"
+    }
+  ],
+  "category": "equipment",
+  "group": "variedcommodities:boots",
+  "pattern": [
+    "X X",
+    "X X"
+  ],
+  "key": {
+    "X": {
+      "item": "variedcommodities:ingot_demonic"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:demonic_boots",
+    "count": 1
+  }
+}

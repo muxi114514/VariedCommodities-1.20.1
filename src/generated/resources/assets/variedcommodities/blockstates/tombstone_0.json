@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "rotation=0": {
+      "model": "variedcommodities:block/tombstone_0"
+    },
+    "rotation=1": {
+      "model": "variedcommodities:block/tombstone_0",
+      "y": 90
+    },
+    "rotation=2": {
+      "model": "variedcommodities:block/tombstone_0",
+      "y": 180
+    },
+    "rotation=3": {
+      "model": "variedcommodities:block/tombstone_0",
+      "y": 270
+    }
+  }
+}

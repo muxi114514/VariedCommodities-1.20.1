@@ -1,0 +1,38 @@
+{
+  "gun.empty": {
+    "category": "player",
+    "sounds": ["variedcommodities:gun/empty"]
+  },
+  "gun.ak47.load": {
+    "category": "player",
+    "sounds": ["variedcommodities:gun/ak47chamberround"]
+  },
+  "gun.pistol.shot": {
+    "category": "player",
+    "sounds": ["variedcommodities:gun/pistolshot"]
+  },
+  "gun.pistol.trigger": {
+    "category": "player",
+    "sounds": ["variedcommodities:gun/pistoltrigger"]
+  },
+  "magic.charge": {
+    "category": "player",
+    "sounds": ["variedcommodities:magic/charge"]
+  },
+  "magic.shot": {
+    "category": "player",
+    "sounds": ["variedcommodities:magic/shot"]
+  },
+  "misc.old_explode": {
+    "category": "player",
+    "sounds": ["variedcommodities:misc/old_explode"]
+  },
+  "misc.swosh": {
+    "category": "player",
+    "sounds": ["variedcommodities:misc/swosh"]
+  },
+  "misc.hallelujah": {
+    "category": "player",
+    "sounds": ["variedcommodities:misc/holygrenade"]
+  }
+}

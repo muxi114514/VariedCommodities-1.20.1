@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "frost_dagger"
+    }
+  ],
+  "category": "equipment",
+  "group": "variedcommodities:dagger",
+  "pattern": [
+    " X",
+    "Y "
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:packed_ice"
+    },
+    "Y": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:frost_dagger",
+    "count": 1
+  }
+}

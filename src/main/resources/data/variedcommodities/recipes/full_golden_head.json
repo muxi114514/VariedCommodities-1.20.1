@@ -1,0 +1,23 @@
+{
+  "type": "variedcommodities:carpentry",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "full_golden_head"
+    }
+  ],
+  "group": "variedcommodities:full_head",
+  "pattern": [
+    "XXXX",
+    "X  X"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:full_golden_head",
+    "count": 1
+  }
+}

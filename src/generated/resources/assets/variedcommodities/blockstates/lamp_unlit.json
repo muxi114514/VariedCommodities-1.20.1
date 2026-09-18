@@ -1,0 +1,94 @@
+{
+  "variants": {
+    "face=ceiling,rotation=0": {
+      "model": "variedcommodities:block/lamp_unlit_ceiling"
+    },
+    "face=ceiling,rotation=1": {
+      "model": "variedcommodities:block/lamp_unlit_ceiling"
+    },
+    "face=ceiling,rotation=2": {
+      "model": "variedcommodities:block/lamp_unlit_ceiling",
+      "y": 90
+    },
+    "face=ceiling,rotation=3": {
+      "model": "variedcommodities:block/lamp_unlit_ceiling",
+      "y": 90
+    },
+    "face=ceiling,rotation=4": {
+      "model": "variedcommodities:block/lamp_unlit_ceiling",
+      "y": 180
+    },
+    "face=ceiling,rotation=5": {
+      "model": "variedcommodities:block/lamp_unlit_ceiling",
+      "y": 180
+    },
+    "face=ceiling,rotation=6": {
+      "model": "variedcommodities:block/lamp_unlit_ceiling",
+      "y": 270
+    },
+    "face=ceiling,rotation=7": {
+      "model": "variedcommodities:block/lamp_unlit_ceiling",
+      "y": 270
+    },
+    "face=floor,rotation=0": {
+      "model": "variedcommodities:block/lamp_unlit"
+    },
+    "face=floor,rotation=1": {
+      "model": "variedcommodities:block/lamp_unlit"
+    },
+    "face=floor,rotation=2": {
+      "model": "variedcommodities:block/lamp_unlit",
+      "y": 90
+    },
+    "face=floor,rotation=3": {
+      "model": "variedcommodities:block/lamp_unlit",
+      "y": 90
+    },
+    "face=floor,rotation=4": {
+      "model": "variedcommodities:block/lamp_unlit",
+      "y": 180
+    },
+    "face=floor,rotation=5": {
+      "model": "variedcommodities:block/lamp_unlit",
+      "y": 180
+    },
+    "face=floor,rotation=6": {
+      "model": "variedcommodities:block/lamp_unlit",
+      "y": 270
+    },
+    "face=floor,rotation=7": {
+      "model": "variedcommodities:block/lamp_unlit",
+      "y": 270
+    },
+    "face=wall,rotation=0": {
+      "model": "variedcommodities:block/lamp_unlit_wall"
+    },
+    "face=wall,rotation=1": {
+      "model": "variedcommodities:block/lamp_unlit_wall"
+    },
+    "face=wall,rotation=2": {
+      "model": "variedcommodities:block/lamp_unlit_wall",
+      "y": 90
+    },
+    "face=wall,rotation=3": {
+      "model": "variedcommodities:block/lamp_unlit_wall",
+      "y": 90
+    },
+    "face=wall,rotation=4": {
+      "model": "variedcommodities:block/lamp_unlit_wall",
+      "y": 180
+    },
+    "face=wall,rotation=5": {
+      "model": "variedcommodities:block/lamp_unlit_wall",
+      "y": 180
+    },
+    "face=wall,rotation=6": {
+      "model": "variedcommodities:block/lamp_unlit_wall",
+      "y": 270
+    },
+    "face=wall,rotation=7": {
+      "model": "variedcommodities:block/lamp_unlit_wall",
+      "y": 270
+    }
+  }
+}

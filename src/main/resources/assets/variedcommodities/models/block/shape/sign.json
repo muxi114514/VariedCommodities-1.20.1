@@ -1,0 +1,246 @@
+{
+  "parent": "minecraft:block/block",
+  "elements": [
+    {
+      "from": [
+        2.0,
+        12.92,
+        7.0
+      ],
+      "to": [
+        3.0,
+        14.92,
+        9.0
+      ],
+      "faces": {
+        "up": {
+          "texture": "#steel",
+          "uv": [
+            0.75,
+            0.0,
+            0.5,
+            0.5
+          ]
+        },
+        "down": {
+          "texture": "#steel",
+          "uv": [
+            1.0,
+            0.5,
+            0.75,
+            0.0
+          ]
+        },
+        "east": {
+          "texture": "#steel",
+          "uv": [
+            0.0,
+            1.0,
+            0.5,
+            0.5
+          ]
+        },
+        "west": {
+          "texture": "#steel",
+          "uv": [
+            0.75,
+            1.0,
+            1.25,
+            0.5
+          ]
+        },
+        "north": {
+          "texture": "#steel",
+          "uv": [
+            0.75,
+            1.0,
+            0.5,
+            0.5
+          ]
+        },
+        "south": {
+          "texture": "#steel",
+          "uv": [
+            1.5,
+            1.0,
+            1.25,
+            0.5
+          ]
+        }
+      }
+    },
+    {
+      "from": [
+        0.0,
+        14.92,
+        7.5
+      ],
+      "to": [
+        16.0,
+        15.92,
+        8.5
+      ],
+      "faces": {
+        "up": {
+          "texture": "#steel",
+          "uv": [
+            4.25,
+            0.0,
+            0.25,
+            0.25
+          ]
+        },
+        "down": {
+          "texture": "#steel",
+          "uv": [
+            8.25,
+            0.25,
+            4.25,
+            0.0
+          ]
+        },
+        "east": {
+          "texture": "#steel",
+          "uv": [
+            0.0,
+            0.5,
+            0.25,
+            0.25
+          ],
+          "cullface": "east"
+        },
+        "west": {
+          "texture": "#steel",
+          "uv": [
+            4.25,
+            0.5,
+            4.5,
+            0.25
+          ],
+          "cullface": "west"
+        },
+        "north": {
+          "texture": "#steel",
+          "uv": [
+            4.25,
+            0.5,
+            0.25,
+            0.25
+          ]
+        },
+        "south": {
+          "texture": "#steel",
+          "uv": [
+            8.5,
+            0.5,
+            4.5,
+            0.25
+          ]
+        }
+      }
+    },
+    {
+      "from": [
+        13.0,
+        12.92,
+        7.0
+      ],
+      "to": [
+        14.0,
+        14.92,
+        9.0
+      ],
+      "faces": {
+        "up": {
+          "texture": "#steel",
+          "uv": [
+            0.75,
+            0.0,
+            0.5,
+            0.5
+          ]
+        },
+        "down": {
+          "texture": "#steel",
+          "uv": [
+            1.0,
+            0.5,
+            0.75,
+            0.0
+          ]
+        },
+        "east": {
+          "texture": "#steel",
+          "uv": [
+            0.0,
+            1.0,
+            0.5,
+            0.5
+          ]
+        },
+        "west": {
+          "texture": "#steel",
+          "uv": [
+            0.75,
+            1.0,
+            1.25,
+            0.5
+          ]
+        },
+        "north": {
+          "texture": "#steel",
+          "uv": [
+            0.75,
+            1.0,
+            0.5,
+            0.5
+          ]
+        },
+        "south": {
+          "texture": "#steel",
+          "uv": [
+            1.5,
+            1.0,
+            1.25,
+            0.5
+          ]
+        }
+      }
+    },
+    {
+      "from": [
+        1.0,
+        4.92,
+        7.5
+      ],
+      "to": [
+        15.0,
+        13.92,
+        8.5
+      ],
+      "faces": {
+        "up": {
+          "texture": "#planks"
+        },
+        "down": {
+          "texture": "#planks"
+        },
+        "east": {
+          "texture": "#planks"
+        },
+        "west": {
+          "texture": "#planks"
+        },
+        "north": {
+          "texture": "#planks"
+        },
+        "south": {
+          "texture": "#planks"
+        }
+      }
+    }
+  ],
+  "textures": {
+    "steel": "variedcommodities:block/model/steel"
+  }
+}

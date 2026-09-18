@@ -1,0 +1,25 @@
+{
+  "type": "variedcommodities:carpentry",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "crate_dark_oak"
+    }
+  ],
+  "group": "variedcommodities:crate",
+  "pattern": [
+    "XXXX",
+    "X  X",
+    "X  X",
+    "XXXX"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:dark_oak_planks"
+    }
+  },
+  "result": {
+    "item": "variedcommodities:crate_dark_oak",
+    "count": 1
+  }
+}

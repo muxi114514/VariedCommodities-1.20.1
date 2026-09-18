@@ -1,0 +1,10 @@
+{
+  "type": "variedcommodities:reverse_dagger",
+  "conditions": [
+    {
+      "type": "variedcommodities:recipe_enabled",
+      "recipe": "reverse_dagger"
+    }
+  ],
+  "category": "equipment"
+}
